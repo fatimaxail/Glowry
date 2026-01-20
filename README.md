@@ -7,7 +7,7 @@ Glowry is a skincare-focused web application that helps users manage and persona
 ![App Logo]()
 
 ## App ERD
-![App ERD](https://i.postimg.cc/hGNCKZBw/Screenshot-2026-01-20-at-7-30-22-PM.png)
+![App ERD](https://i.postimg.cc/pTMsKCZ9/Screenshot-2026-01-21-at-1-41-06-AM.png)
 
 ## Trello board link
 [Trello Board](https://trello.com/invite/b/696fba02e3cec67777086c18/ATTI394029c331fa112edaabe0ce76b85453BAF23E73/glowry)
