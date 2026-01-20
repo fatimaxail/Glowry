@@ -23,10 +23,10 @@ Glowry is a skincare-focused web application that helps users manage and persona
 Home Page
 ![home page]()
 
-Cart Page
+Product Page
 ![Product page]()
 
-Candle Page
+Routine Page
 ![Routine page]()
 
 ## Future enhancements
