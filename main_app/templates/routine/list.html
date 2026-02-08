@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>All Routines</h1>
+
+<button><a href="{% url 'routine_create' %}">Create New Routine</a></button>
+
+<ul>
+    {% for routine in routines %}
+    <li>
+        <a href="{% url 'routine_detail' routine.id %}">{{ routine.name }}</a>
+        <a href="{% url 'routine_edit' routine.id %}">Edit</a>
+        <a href="{% url 'routine_delete' routine.id %}">Delete</a>
+    </li>
+    {% empty %}
+    <li>No routines yet.</li>
+    {% endfor %}
+</ul>
+{% endblock %}

@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+  {% if object %}
+    <h1>Edit <span class="teal-text">{{object.title}}</span></h1>
+    {{ form.media }}
+  {% else %}
+    <h1>Add an Article</h1>
+    {{ form.media }}
+  {% endif %}
+  <form action="" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <table>
+      {{ form.as_table }}
+    </table>
+    <input type="submit" value="Submit!" class="btn">
+  </form>
+{% endblock %}

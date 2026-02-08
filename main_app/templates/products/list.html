@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<div class="search-area" style="margin-bottom: 30px;">
+    <form method="get" action="{% url 'product_search' %}">
+        <input type="text" name="query" placeholder="Search products…" required>
+        <select name="category">
+        <option value="">All Categories</option>
+        <option value="Exfoliant">Exfoliant</option>
+        <option value="Serum">Serum</option>
+    </select>
+
+    <select name="brand">
+        <option value="">All Brands</option>
+        <option value="Nacomi">Nacomi</option>
+        <option value="The Ordinary">The Ordinary</option>
+    </select>
+        <button type="submit">Search</button>
+
+        {% if request.resolver_match.url_name == 'product_search' %}
+            <a href="{% url 'product_list' %}" style="margin-left: 10px;">Clear Search</a>
+        {% endif %}
+    </form>
+</div>
+
+
+<h1>Skincare Products</h1>
+
+{% for product in products %}
+    <div class="card">
+        <a href="{% url 'product_detail' product.id%}">
+            <div class="card-content">
+                <img src="{{ product.image }}" alt="{{ product.name }}" width="250" height="250">
+                <h6>{{ product.brand }}</h6>
+                <h5>{{ product.name }}</h5>
+            </div>
+    </div>
+{% endfor %}
+
+
+{% endblock %}

@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container" style="padding: 40px;">
+    <h3>Add Product to {{ routine.name }}</h3>
+
+    <form method="POST">
+        {% csrf_token %}
+
+        <div class="input-field">
+            <select name="product_id" id="id_product_id">
+                <option value="" disabled selected>Choose a product</option>
+                {% for product in products %}
+                    <option value="{{ product.id }}" data-icon="{{ product.image }}" class="left">
+                        {{ product.brand }} - {{ product.name }}
+                    </option>
+                {% endfor %}
+            </select>
+            <label>Select Product</label>
+        </div>
+
+        <div class="input-field">
+            {{ form.time }}
+            <label>Time of Day</label>
+        </div>
+
+        <div class="input-field">
+            {{ form.frequency }}
+            <label>Frequency</label>
+        </div>
+
+        <div style="margin-top: 20px;">
+            <button type="submit" class="btn cyan">Add to Routine</button>
+            <a href="{% url 'routine_detail' routine.id %}" class="btn-flat">Cancel</a>
+        </div>
+    </form>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('select');
+    M.FormSelect.init(elems);
+  });
+</script>
+
+
+{% endblock %}

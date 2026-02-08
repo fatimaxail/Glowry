@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Articles List</h1>
+
+<button><a href="{% url 'articles_create' %}">Add an Article</a></button>
+
+{% for article in object_list %}
+  <div class="card">
+    <a href="{% url 'articles_details' article.id%}">
+      <div class="card-content">
+        <span class="card-title">{{ article.title }}</span>
+        <p><i class="fa-solid fa-clock"></i>{{ article.reading_time}} min read  <i class="fa-solid fa-user"></i>{{ article.user}}</p>
+        {% load static %}
+        <img src="{% static  article.image|cut:'main_app/static/'%}" alt=' article image' height= "150px" width="150px">
+      </div>
+    </a>
+  </div>
+{% endfor %}
+{% endblock %}
+

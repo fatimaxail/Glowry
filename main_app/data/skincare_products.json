@@ -1,0 +1,6396 @@
+{
+  "skincare_products": [
+    {
+      "id": "001",
+      "brand": "The Ordinary",
+      "name": "Niacinamide 10% + Zinc 1%",
+      "category": "Serum",
+      "origin": "Canada",
+      "image": "https://ordinary.pk/wp-content/uploads/2023/02/niacinamide-10-zinc-1.webp",
+      "ingredients": [
+        "Aqua (Water)",
+        "Niacinamide",
+        "Pentylene Glycol",
+        "Zinc PCA",
+        "Dimethyl Isosorbide",
+        "Tamarix Indica Seed Gum",
+        "Xanthan Gum",
+        "Isoceteth-20",
+        "Ethoxydiglycol",
+        "Phenoxyethanol",
+        "Chlorphenesin"
+      ]
+    },
+    {
+      "id": "002",
+      "brand": "CeraVe",
+      "name": "Hydrating Facial Cleanser",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://www.cerave.com/-/media/project/loreal/brand-sites/cerave/americas/us/skincare/cleansers/hydrating-facial-cleanser/photos/2022/700x700/cerave_daily_hydrating-cleanser_12oz_front-700x700-v2.jpg?rev=8dcf681b75c042deaaa0c6ea1581d4df",
+      "ingredients": [
+        "Aqua / Water / Eau",
+        "Glycerin",
+        "Cetearyl Alcohol",
+        "Peg-40 Stearate",
+        "Stearyl Alcohol",
+        "Potassium Phosphate",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Carbomer",
+        "Glyceryl Stearate",
+        "Behentrimonium Methosulfate",
+        "Sodium Lauroyl Lactylate",
+        "Sodium Hyaluronate",
+        "Cholesterol",
+        "Phenoxyethanol",
+        "Disodium EDTA",
+        "Dipotassium Phosphate",
+        "Tocopherol",
+        "Phytosphingosine",
+        "Xanthan Gum",
+        "Ethylhexylglycerin"
+      ]
+    },
+    {
+      "id": "003",
+      "brand": "La Roche-Posay",
+      "name": "Anthelios Melt-in Milk Sunscreen SPF 60",
+      "category": "Sunscreen",
+      "origin": "France",
+      "image": "https://i5.walmartimages.com/seo/La-Roche-Posay-Anthelios-Melt-In-Sunscreen-Milk-Body-Face-Sunscreen-Lotion-Broad-Spectrum-SPF-60-Oxybenzone-Octinoxate-Free-Oil-Free-Sunscreen_43f9129c-3f48-4e90-96a6-88f48ad19674.2bdab64eec3d711b7ad1b31fade0ebf7.jpeg",
+      "ingredients": [
+        "Avobenzone",
+        "Homosalate",
+        "Octisalate",
+        "Octocrylene",
+        "Water",
+        "Styrene/Acrylates Copolymer",
+        "Dimethicone",
+        "Polymethylsilsesquioxane",
+        "Butyloctyl Salicylate",
+        "Glycerin",
+        "Alcohol Denat.",
+        "Poly C10-30 Alkyl Acrylate",
+        "Silica",
+        "Caprylyl Methicone"
+      ]
+    },
+    {
+      "id": "004",
+      "brand": "Paula's Choice",
+      "name": "Skin Perfecting 2% BHA Liquid Exfoliant",
+      "category": "Exfoliant",
+      "origin": "USA",
+      "image": "https://m.media-amazon.com/images/I/61SEukgkAKL.jpg",
+      "ingredients": [
+        "Water (Aqua)",
+        "Methylpropanediol",
+        "Butylene Glycol",
+        "Salicylic Acid",
+        "Polysorbate 20",
+        "Camellia Oleifera (Green Tea) Leaf Extract",
+        "Sodium Hydroxide",
+        "Tetrasodium EDTA"
+      ]
+    },
+    {
+      "id": "005",
+      "brand": "COSRX",
+      "name": "Advanced Snail 96 Mucin Power Essence",
+      "category": "Essence",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/416kUGx2rQL._AC_SL1024_.jpg",
+      "ingredients": [
+        "Snail Secretion Filtrate",
+        "Betaine",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Sodium Polyacrylate",
+        "Phenoxyethanol",
+        "Sodium Hyaluronate",
+        "Allantoin",
+        "Ethyl Hexanediol",
+        "Carbomer",
+        "Panthenol",
+        "Arginine"
+      ]
+    },
+    {
+      "id": "006",
+      "brand": "Laneige",
+      "name": "Lip Sleeping Mask",
+      "category": "Lip Care",
+      "origin": "South Korea",
+      "image": "https://skincarebd.com/wp-content/uploads/2018/11/lip-sleeping-mask-berry.jpg",
+      "ingredients": [
+        "Diisostearyl Malate",
+        "Hydrogenated Polyisobutene",
+        "Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate",
+        "Hydrogenated Poly(C6-14 Olefin)",
+        "Polybutene",
+        "Microcrystalline Wax",
+        "Butyrospermum Parkii (Shea) Butter",
+        "Synthetic Wax",
+        "Euphorbia Cerifera (Candelilla) Wax",
+        "Sucrose Tetrastearate Triacetate"
+      ]
+    },
+    {
+      "id": "007",
+      "brand": "Tatcha",
+      "name": "The Dewy Skin Cream",
+      "category": "Moisturizer",
+      "origin": "Japan",
+      "image": "https://d3pllp7nz3wmw5.cloudfront.net/product_images/28438182401-1_XL.jpg",
+      "ingredients": [
+        "Aqua/Water/Eau",
+        "Saccharomyces/Rice Ferment Filtrate",
+        "Glycerin",
+        "Ethylhexyl Isostearate",
+        "Cetyl Ethylhexanoate",
+        "Squalane",
+        "Polyglyceryl-2 Triisostearate",
+        "Propanediol",
+        "Cladosiphon Okamuranus Ferment Filtrate",
+        "Camellia Sinensis Leaf Ferment Filtrate"
+      ]
+    },
+    {
+      "id": "008",
+      "brand": "Eqqualberry",
+      "name": "Vitamin Illuminating Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://thekoreantouch.com/wp-content/uploads/2025/07/Product-page-sizes_daa6cf76-0f15-4113-bc78-13d4164a07e3.webp",
+      "ingredients": [
+        "Malpighia Glabra (Acerola) Fruit Water (40%)",
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "Arbutin",
+        "1,2-Hexanediol",
+        "Glutathione",
+        "Ferulic Acid",
+        "3-O-Ethyl Ascorbic Acid",
+        "Tranexamic Acid",
+        "Sodium Hyaluronate",
+        "Ceramide NP"
+      ]
+    },
+    {
+      "id": "009",
+      "brand": "Anua",
+      "name": "Heartleaf 77% Soothing Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/51AeF0suKmL._AC_SL1500_.jpg",
+      "ingredients": [
+        "Houttuynia Cordata Extract",
+        "Water",
+        "1,2-Hexanediol",
+        "Glycerin",
+        "Betaine",
+        "Centella Asiatica Extract",
+        "Isopentyldiol",
+        "Saccharum Officinarum (Sugar Cane) Extract",
+        "Portulaca Oleracea Extract",
+        "Butylene Glycol",
+        "Vitex Agnus-Castus Extract",
+        "Chamomilla Recutita (Matricaria) Flower Extract",
+        "Arctium Lappa Root Extract",
+        "Phellinus Linteus Extract",
+        "Vitis Vinifera (Grape) Fruit Extract",
+        "Pyrus Malus (Apple) Fruit Extract",
+        "Panthenol"
+      ]
+    },
+    {
+      "id": "010",
+      "brand": "SKIN1004",
+      "name": "Madagascar Centella Ampoule",
+      "category": "Serum/Ampoule",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61CIxJ0VQ2L._AC_UF350,350_QL80_.jpg",
+      "ingredients": ["Centella Asiatica Extract (100%)"]
+    },
+    {
+      "id": "011",
+      "brand": "Eqqualberry",
+      "name": "Purple PDRN Pore Minimizing Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/1jh0j6o4mm8wo4rkzvfq95rk0fcz",
+      "ingredients": [
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Niacinamide",
+        "Sodium DNA (PDRN)",
+        "Hamamelis Virginiana (Witch Hazel) Extract",
+        "Vitis Vinifera (Grape) Fruit Extract",
+        "Vaccinium Angustifolium (Blueberry) Fruit Extract",
+        "Sodium Hyaluronate",
+        "Adenosine"
+      ]
+    },
+    {
+      "id": "012",
+      "brand": "Eqqualberry",
+      "name": "NAD+ Peptide Boosting Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/0s0mv7kpio7s9a4ft5nt6d36crqu",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Methylpropanediol",
+        "Niacinamide",
+        "NAD (Nicotinamide Adenine Dinucleotide)",
+        "Acetyl Hexapeptide-8",
+        "Palmitoyl Pentapeptide-4",
+        "Copper Tripeptide-1",
+        "Sodium Hyaluronate",
+        "1,2-Hexanediol",
+        "Adenosine"
+      ]
+    },
+    {
+      "id": "013",
+      "brand": "I'm From",
+      "name": "Mugwort Essence",
+      "category": "Essence",
+      "origin": "South Korea",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/i-m-from-mugwort-essence-160ml/79/675/XXL_p0088967579.jpg",
+      "ingredients": ["Artemisia Princeps Extract (100%)"]
+    },
+    {
+      "id": "014",
+      "brand": "Torriden",
+      "name": "DIVE-IN Low Molecular Hyaluronic Acid Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://i5.walmartimages.com/seo/Torriden-DIVE-IN-Low-Molecular-Hyaluronic-Acid-Serum-50ml_ef93bac0-9688-433b-b8b2-8f444aa56570.4d708e9ad7a35e85794d4d97e6733060.jpeg",
+      "ingredients": [
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "Dipropylene Glycol",
+        "1,2-Hexanediol",
+        "Panthenol",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Hyaluronic Acid",
+        "Sodium Acetylated Hyaluronate",
+        "Sodium Hyaluronate Crosspolymer",
+        "Hydrolyzed Sodium Hyaluronate",
+        "Allantoin",
+        "Trehalose",
+        "Betaine",
+        "Propanediol",
+        "Portulaca Oleracea Extract",
+        "Hamamelis Virginiana (Witch Hazel) Extract"
+      ]
+    },
+    {
+      "id": "015",
+      "brand": "Sulwhasoo",
+      "name": "First Care Activating Serum VI",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8GAtWGqM_ZOCpfLfgjWeC14nm2YQzoCoPbA&s",
+      "ingredients": [
+        "Water",
+        "Alcohol Denat.",
+        "Butylene Glycol",
+        "Betaine",
+        "1,2-Hexanediol",
+        "Bis-Peg-18 Methyl Ether Dimethyl Silane",
+        "Glyceryl Polymethacrylate",
+        "Carbomer",
+        "Panax Ginseng Root Extract",
+        "Ophiopogon Japonicus Root Extract",
+        "Glycyrrhiza Uralensis (Licorice) Root Extract",
+        "Paeonia Lactiflora Root Extract",
+        "Nelumbo Nucifera Flower Extract",
+        "Polygonatum Officinale Rhizome/Root Extract",
+        "Lilium Candidum Bulb Extract",
+        "Rehmannia Glutinosa Root Extract",
+        "Honey"
+      ]
+    },
+    {
+      "id": "016",
+      "brand": "Medicube",
+      "name": "Zero Pore Pad 2.0",
+      "category": "Exfoliant",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/71Mcspt-6AL._AC_UF1000,1000_QL80_.jpg",
+      "ingredients": [
+        "Water",
+        "Methylpropanediol",
+        "Tromethamine",
+        "Lactic Acid",
+        "1,2-Hexanediol",
+        "Panthenol",
+        "Salicylic Acid",
+        "Vitis Vinifera (Grape) Fruit Extract",
+        "Key Lime Fruit Extract",
+        "Lemon Fruit Extract",
+        "Apple Fruit Extract",
+        "Orange Fruit Extract",
+        "Ethylhexylglycerin",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "017",
+      "brand": "Mixsoon",
+      "name": "Bean Essence",
+      "category": "Exfoliant",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/51HeCyjIvWL._AC_SL1000_.jpg",
+      "ingredients": [
+        "Lactobacillus/Soybean Ferment Extract",
+        "Lactobacillus/Punica Granatum Fruit Ferment Extract",
+        "Saccharomyces/Barley Seed Ferment Filtrate",
+        "Lactobacillus/Pear Juice Ferment Filtrate"
+      ]
+    },
+    {
+      "id": "018",
+      "brand": "Anua",
+      "name": "PDRN Hyaluronic Acid Capsule Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://f.nooncdn.com/p/pnsku/N70147101V/45/_/1738129820/a719cb3a-23a6-4d8a-9ea5-a8f1ca9c2dfb.jpg?width=480",
+      "ingredients": [
+        "Water",
+        "Hyaluronic Acid",
+        "Salmon DNA (PDRN)",
+        "Niacinamide",
+        "Adenosine",
+        "Copper Tripeptide-1",
+        "Hydrolyzed Collagen"
+      ]
+    },
+    {
+      "id": "019",
+      "brand": "TIRTIR",
+      "name": "Milk Skin Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://f.nooncdn.com/p/pzsku/Z0A4AD088CA532B6F4965Z/45/_/1739402607/6963e20a-a937-4a09-92c9-a92519c93658.jpg?format=webp&width=800",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Rice Bran Extract",
+        "Niacinamide",
+        "Ceramide NP",
+        "Panthenol",
+        "Sodium Hyaluronate",
+        "Chamomile Flower Extract"
+      ]
+    },
+    {
+      "id": "020",
+      "brand": "Biodance",
+      "name": "Bio-Collagen Real Deep Mask",
+      "category": "Mask",
+      "origin": "South Korea",
+      "image": "https://sokostore.com/cdn/shop/files/11.jpg?v=1741077367&width=1000",
+      "ingredients": [
+        "Water",
+        "Collagen Extract",
+        "Galactomyces Ferment Filtrate",
+        "Niacinamide",
+        "Oligo-Hyaluronic Acid",
+        "Lactobacillus Ferment",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "021",
+      "brand": "Medicube",
+      "name": "Collagen Night Wrapping Mask",
+      "category": "Sleeping Mask",
+      "origin": "South Korea",
+      "image": "https://glowinbh.com/cdn/shop/files/61occWCJN-L._AC_UF1000_1000_QL80.jpg?v=1739963723&width=320",
+      "ingredients": [
+        "Water",
+        "Polyvinyl Alcohol",
+        "Glycerin",
+        "Collagen Extract",
+        "Niacinamide",
+        "Ceramide NP",
+        "Algin",
+        "Soluble Collagen"
+      ]
+    },
+    {
+      "id": "022",
+      "brand": "Tocobo",
+      "name": "Vita Glazed Lip Mask",
+      "category": "Lip Care",
+      "origin": "South Korea",
+      "image": "https://www.elikoglow.ca/cdn/shop/files/TOCOBO_Vita_Glazed_Lip_Mask.jpg?v=1726789196",
+      "ingredients": [
+        "Hydrogenated Polyisobutene",
+        "Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate",
+        "Diisostearyl Malate",
+        "Olea Europaea (Olive) Fruit Oil",
+        "Microcrystalline Wax",
+        "Tocopheryl Acetate (Vitamin E)",
+        "Punica Granatum (Pomegranate) Flower Extract",
+        "Simmondsia Chinensis (Jojoba) Seed Oil",
+        "Raspberry Seed Oil",
+        "Hippophae Rhamnoides (Sea Buckthorn) Oil"
+      ]
+    },
+    {
+      "id": "023",
+      "brand": "Aestura",
+      "name": "Atobarrier 365 Cream (2026 Formula)",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/oy46iecb7ti81vjvgfi9gg6pga4t",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Squalane",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Cholesterol",
+        "Palmitic Acid",
+        "Phytosphingosine"
+      ]
+    },
+    {
+      "id": "024",
+      "brand": "Ma:nyo Factory",
+      "name": "Pure Cleansing Oil",
+      "category": "Oil Cleanser",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61kbMdxqBBL.jpg",
+      "ingredients": [
+        "Glycine Soja Oil",
+        "Hazel Seed Oil",
+        "Squalane",
+        "Grape Seed Oil",
+        "Olive Fruit Oil",
+        "Rice Bran Oil",
+        "Vitamin E"
+      ]
+    },
+    {
+      "id": "025",
+      "brand": "Abib",
+      "name": "Heartleaf Spot Pad Calming Touch",
+      "category": "Toner Pad",
+      "origin": "South Korea",
+      "image": "https://d3pllp7nz3wmw5.cloudfront.net/product_images/28115127801_XL.jpg",
+      "ingredients": [
+        "Houttuynia Cordata Extract (Heartleaf)",
+        "Water",
+        "Glycerin",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Althaea Rosea Flower Extract"
+      ]
+    },
+    {
+      "id": "026",
+      "brand": "Some By Mi",
+      "name": "AHA BHA PHA 30 Days Miracle Toner",
+      "category": "Exfoliant",
+      "origin": "South Korea",
+      "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/smi/smi33366/l/64.jpg",
+      "ingredients": [
+        "Water",
+        "Tea Tree Leaf Water",
+        "Niacinamide",
+        "Salicylic Acid",
+        "Lactic Acid",
+        "Citric Acid",
+        "Witch Hazel Extract",
+        "Peppermint Oil"
+      ]
+    },
+    {
+      "id": "027",
+      "brand": "Dr. Jart+",
+      "name": "Cicapair Intensive Soothing Repair Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://incidecoder-content.storage.googleapis.com/cc641da0-534a-4289-9e35-9eb416da1ab1/products/dr-jart-cicapair-intensive-soothing-repair-cream-2/dr-jart-cicapair-intensive-soothing-repair-cream-2_front_photo_original.jpeg",
+      "ingredients": [
+        "Water",
+        "Centella Asiatica Extract",
+        "Niacinamide",
+        "Panthenol",
+        "Madecassoside",
+        "Asiaticoside",
+        "Asiatic Acid",
+        "Madecassic Acid"
+      ]
+    },
+    {
+      "id": "028",
+      "brand": "Anua",
+      "name": "BHA 2% Gentle Exfoliating Toner",
+      "category": "Exfoliant",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/51ULZmmf5OL._AC_UF1000,1000_QL80_.jpg",
+      "ingredients": [
+        "Water",
+        "Dipropylene Glycol",
+        "Salicylic Acid",
+        "1,2-Hexanediol",
+        "Houttuynia Cordata Extract",
+        "Arginine",
+        "Niacinamide",
+        "Panthenol",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "029",
+      "brand": "Anua",
+      "name": "Retinol 0.3% + Niacin Renewing Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": " https://m.media-amazon.com/images/I/61dddoqlVjL.jpg",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "Retinol",
+        "Bakuchiol",
+        "Adenosine",
+        "Ceramide NP",
+        "Panthenol",
+        "Tocopherol",
+        "Caprylic/Capric Triglyceride"
+      ]
+    },
+    {
+      "id": "030",
+      "brand": "Anua",
+      "name": "3 Ceramide Panthenol Moisture Barrier Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://www.ksecret.com/images/thumbs/0011190_anua-3-ceramide-panthenol-moisture-barrier-cream-100ml_750.jpeg",
+      "ingredients": [
+        "Water",
+        "Panthenol",
+        "Glycerin",
+        "Ceramide NP",
+        "Ceramide NS",
+        "Ceramide AS",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Cholesterol",
+        "Squalane",
+        "Stearic Acid"
+      ]
+    },
+    {
+      "id": "031",
+      "brand": "Anua",
+      "name": "PDRN 100 Hyaluronic Acid Glow Pad",
+      "category": "Toner Pad",
+      "origin": "South Korea",
+      "image": "https://static.beautytocare.com/cdn-cgi/image/width=1600,height=1600,f=auto/media/catalog/product//a/n/anua-pdrn-100-hyaluronic-acid-glow-pad-x60.jpg",
+      "ingredients": [
+        "Water",
+        "Propanediol",
+        "Niacinamide",
+        "Sodium DNA (PDRN)",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Hyaluronic Acid",
+        "Glutathione",
+        "Adenosine",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "032",
+      "brand": "Anua",
+      "name": "Azelaic Acid 10% Hyaluron Redness Soothing Pad",
+      "category": "Toner Pad",
+      "origin": "South Korea",
+      "image": "https://cdn.webshopapp.com/shops/243452/files/482896431/image.jpg",
+      "ingredients": [
+        "Water",
+        "Azelaic Acid",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate",
+        "Centella Asiatica Extract",
+        "Panthenol",
+        "Allantoin",
+        "Arginine"
+      ]
+    },
+    {
+      "id": "033",
+      "brand": "Anua",
+      "name": "Green Lemon Vita C Blemish Serum Mask",
+      "category": "Sheet Mask",
+      "origin": "South Korea",
+      "image": "https://glowinbh.com/cdn/shop/files/ANUAGreenLemonVitaCBlemishSerumMask_1pcs_png.webp?v=1728564097&width=1024",
+      "ingredients": [
+        "Citrus Limon (Lemon) Fruit Extract",
+        "Water",
+        "Ascorbic Acid",
+        "Niacinamide",
+        "Glutathione",
+        "Tocopherol",
+        "Ferulic Acid",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "034",
+      "brand": "Anua",
+      "name": "Heartleaf 70% Soothing Collagen Mask",
+      "category": "Sheet Mask",
+      "origin": "South Korea",
+      "image": "https://static.beautytocare.com/cdn-cgi/image/width=1600,height=1600,f=auto/media/catalog/product//a/n/anua-heartleaf-70-soothing-collagen-mask-x4.jpg",
+      "ingredients": [
+        "Houttuynia Cordata Extract",
+        "Water",
+        "Soluble Collagen",
+        "Niacinamide",
+        "Panthenol",
+        "Adenosine",
+        "Sodium Hyaluronate",
+        "Ceramide NP"
+      ]
+    },
+    {
+      "id": "035",
+      "brand": "Anua",
+      "name": "Birch 70% Moisture Boosting Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://koreanskincare.nl/cdn/shop/files/Product-page-sizes_7c32eaa3-c2b5-4810-a97d-221b2b9e4006.jpg?v=1697027799",
+      "ingredients": [
+        "Betula Platyphylla Japonica Juice",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Panthenol",
+        "Sodium Hyaluronate",
+        "Allantoin",
+        "Betaine",
+        "Cucumis Sativus (Cucumber) Fruit Extract"
+      ]
+    },
+    {
+      "id": "036",
+      "brand": "Anua",
+      "name": "Heartleaf Centella Red Spot Cream",
+      "category": "Spot Treatment",
+      "origin": "South Korea",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/anua-heartleaf-centella-red-spot-cream-30g/30/516/XXL_p0217051630.jpg",
+      "ingredients": [
+        "Houttuynia Cordata Extract",
+        "Centella Asiatica Extract",
+        "Glycerin",
+        "Zinc Oxide",
+        "Calamine",
+        "Niacinamide",
+        "Melaleuca Alternifolia (Tea Tree) Leaf Oil"
+      ]
+    },
+    {
+      "id": "037",
+      "brand": "Anua",
+      "name": "Heartleaf Pore Control Cleansing Oil Mild",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/41USmqpEmgL._SL1000_.jpg",
+      "ingredients": [
+        "Ethylhexyl Palmitate",
+        "Sorbeth-30 Tetraoleate",
+        "Houttuynia Cordata Extract",
+        "Helianthus Annuus (Sunflower) Seed Oil",
+        "Simmondsia Chinensis (Jojoba) Seed Oil",
+        "Tocopherol"
+      ]
+    },
+    {
+      "id": "038",
+      "brand": "Anua",
+      "name": "Rice 70% Glow Collagen Mask",
+      "category": "Sheet Mask",
+      "origin": "South Korea",
+      "image": "https://www.boozyshop.com/cdn/shop/files/anua-rice-70-glow-collagen-mask-67422492295551.png?crop=center&height=500&v=1758720318&width=600",
+      "ingredients": [
+        "Oryza Sativa (Rice) Bran Water",
+        "Collagen Extract",
+        "Niacinamide",
+        "Sodium Hyaluronate",
+        "Adenosine",
+        "Ceramide NP",
+        "Panthenol"
+      ]
+    },
+    {
+      "id": "039",
+      "brand": "Anua",
+      "name": "Birch Moisture Boosting Pad",
+      "category": "Toner Pad",
+      "origin": "South Korea",
+      "image": "https://glowinbh.com/cdn/shop/files/WXWorkCapture_17194899243884.webp?v=1724226800&width=320",
+      "ingredients": [
+        "Betula Platyphylla Japonica Juice",
+        "Water",
+        "Glycerin",
+        "Allantoin",
+        "Panthenol",
+        "Sodium Hyaluronate",
+        "Gluconolactone",
+        "1,2-Hexanediol"
+      ]
+    },
+    {
+      "id": "040",
+      "brand": "Anua",
+      "name": "PDRN Hyaluronic Acid Hydrating Capsule Mist",
+      "category": "Facial Mist",
+      "origin": "South Korea",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/anua-pdrn-hyaluronic-acid-hydrating-capsule-mist-100ml/88/842/XXL_p0222984288.jpg",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "Sodium DNA (PDRN)",
+        "Sodium Hyaluronate",
+        "Adenosine",
+        "Panthenol",
+        "Copper Tripeptide-1"
+      ]
+    },
+    {
+      "id": "041",
+      "brand": "Beauty of Joseon",
+      "name": "Ginseng Essence Water",
+      "category": "Essence/Toner",
+      "origin": "South Korea",
+      "image": "https://retailimgs-magna.s3.me-south-1.amazonaws.com/stores/1197/products_thumbs/9b10fbeab43f915a62547dfa4550d01e.png",
+      "ingredients": [
+        "Panax Ginseng Root Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "Propanediol",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Panthenol",
+        "Adenosine",
+        "Allantoin",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "042",
+      "brand": "Beauty of Joseon",
+      "name": "Glow Serum : Propolis + Niacinamide",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://drnutrition.com/storage/media/Zeowj4e2vnByziOyWUA2PoXkM35d5shvDNoVKXYX.jpg",
+      "ingredients": [
+        "Propolis Extract",
+        "Dipropylene Glycol",
+        "Glycerin",
+        "Niacinamide",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Melia Azadirachta Flower Extract",
+        "Sodium Hyaluronate",
+        "Tamanu Oil",
+        "Tea Tree Extract"
+      ]
+    },
+    {
+      "id": "043",
+      "brand": "Beauty of Joseon",
+      "name": "Revive Eye Serum : Ginseng + Retinal",
+      "category": "Eye Care",
+      "origin": "South Korea",
+      "image": "https://cdn-image.oliveyoung.com/prdtImg/1799/32abf014-9f01-46d6-bcfd-86b89e1e08ca.jpg?SF=webp&QT=80",
+      "ingredients": [
+        "Water",
+        "Panax Ginseng Root Extract",
+        "Glycerin",
+        "Dipropylene Glycol",
+        "Caprylic/Capric Triglyceride",
+        "1,2-Hexanediol",
+        "Pentaerythrityl Tetraethylhexanoate",
+        "Niacinamide",
+        "Retinal",
+        "Ceramide NP"
+      ]
+    },
+    {
+      "id": "044",
+      "brand": "Beauty of Joseon",
+      "name": "Glow Deep Serum : Rice + Alpha-Arbutin",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61go30HK1EL._SL1000_.jpg",
+      "ingredients": [
+        "Oryza Sativa (Rice) Bran Water",
+        "Water",
+        "Glycerin",
+        "Butylene Glycol",
+        "Alpha-Arbutin",
+        "1,2-Hexanediol",
+        "Niacinamide",
+        "Methyl Gluceth-20",
+        "Panthenol",
+        "Arginine"
+      ]
+    },
+    {
+      "id": "045",
+      "brand": "Beauty of Joseon",
+      "name": "Calming Serum : Green Tea + Panthenol",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/719OjcUi-lL._SL1500_.jpg",
+      "ingredients": [
+        "Camellia Sinensis Leaf Water",
+        "Water",
+        "Methylpropanediol",
+        "Glycerin",
+        "Butylene Glycol",
+        "Panthenol",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate",
+        "Centella Asiatica Extract",
+        "Artemisia Vulgaris Extract"
+      ]
+    },
+    {
+      "id": "046",
+      "brand": "Beauty of Joseon",
+      "name": "Radiance Cleansing Balm",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://f.nooncdn.com/p/pzsku/Z86479B5A3728E09F4031Z/45/_/1729161746/7f5f8e2a-55c6-4245-9f99-39f4de151e38.jpg?format=webp&width=800",
+      "ingredients": [
+        "Cetyl Ethylhexanoate",
+        "Caprylic/Capric Triglyceride",
+        "PEG-20 Glyceryl Triisostearate",
+        "Synthetic Wax",
+        "Oryza Sativa (Rice) Bran Oil",
+        "Lactobacillus/Soybean Ferment Extract",
+        "Hippophae Rhamnoides Oil"
+      ]
+    },
+    {
+      "id": "047",
+      "brand": "Beauty of Joseon",
+      "name": "Green Plum Refreshing Cleanser",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://static.beautytocare.com/media/catalog/product/b/e/beauty-of-joseon-green-plum-refreshing-cleanser-100ml.jpg",
+      "ingredients": [
+        "Water",
+        "Prunus Mume Fruit Water",
+        "Cocamidopropyl Betaine",
+        "Sodium Lauroyl Methyl Isethionate",
+        "1,2-Hexanediol",
+        "Vigna Radiata (Mung Bean) Seed Extract",
+        "Glycerin",
+        "Citric Acid"
+      ]
+    },
+    {
+      "id": "048",
+      "brand": "Beauty of Joseon",
+      "name": "Red Bean Refreshing Pore Mask",
+      "category": "Mask",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/71pgJGEIxsL._AC_UF894,1000_QL80_.jpg",
+      "ingredients": [
+        "Phaseolus Angularis Seed Extract",
+        "Glycerin",
+        "Kaolin",
+        "Caprylic/Capric Triglyceride",
+        "1,2-Hexanediol",
+        "Phaseolus Angularis Seed Powder",
+        "Water",
+        "Glyceryl Stearate",
+        "Ethylhexylglycerin"
+      ]
+    },
+    {
+      "id": "049",
+      "brand": "Beauty of Joseon",
+      "name": "Ground Rice and Honey Glow Mask",
+      "category": "Mask",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/71i25DwdOEL._SL1500_.jpg",
+      "ingredients": [
+        "Water",
+        "Kaolin",
+        "Honey",
+        "Oryza Sativa (Rice) Powder",
+        "Glycerin",
+        "Dipropylene Glycol",
+        "Oryza Sativa (Rice) Hull Powder",
+        "1,2-Hexanediol",
+        "Bentonite",
+        "Rice Extract"
+      ]
+    },
+    {
+      "id": "050",
+      "brand": "Beauty of Joseon",
+      "name": "Red Bean Water Gel",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://drnutrition.com/storage/media/xymXw9Lxg1lUOPX4S1xeRHPrEFYyZaZsxb6yg4Rl.jpg",
+      "ingredients": [
+        "Phaseolus Angularis Seed Extract",
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Methyl Trimethicone",
+        "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+        "Panthenol",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "051",
+      "brand": "Beauty of Joseon",
+      "name": "Ginseng Cleansing Oil",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/51V2cr-jf8L._AC_UF1000,1000_QL80_.jpg",
+      "ingredients": [
+        "Glycine Soja (Soybean) Oil",
+        "Cetyl Ethylhexanoate",
+        "Sorbeth-30 Tetraoleate",
+        "Olea Europaea (Olive) Fruit Oil",
+        "Sorbitan Sesquioleate",
+        "Helianthus Annuus (Sunflower) Seed Oil",
+        "Panax Ginseng Seed Oil"
+      ]
+    },
+    {
+      "id": "052",
+      "brand": "Beauty of Joseon",
+      "name": "Ginseng Moist Sun Serum",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/beauty-of-joseon-ginseng-moist-sun-serum-50ml/97/012/XXL_p0193201297.jpg",
+      "ingredients": [
+        "Water",
+        "Panax Ginseng Root Extract",
+        "Dibutyl Adipate",
+        "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+        "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+        "Alcohol",
+        "Niacinamide",
+        "Ethylhexyl Triazone"
+      ]
+    },
+    {
+      "id": "053",
+      "brand": "Beauty of Joseon",
+      "name": "Matte Sun Stick : Mugwort + Camelia",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61T5INZBBOL._AC_SL1500_.jpg",
+      "ingredients": [
+        "Methyl Methacrylate Crosspolymer",
+        "Synthetic Wax",
+        "Dibutyl Adipate",
+        "Coco-Caprylate/Caprate",
+        "Isopropyl Palmitate",
+        "Caprylyl Methicone",
+        "Silica",
+        "Artemisia Capillaris Extract",
+        "Camellia Sinensis Seed Oil"
+      ]
+    },
+    {
+      "id": "054",
+      "brand": "Beauty of Joseon",
+      "name": "Dynasty Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/51CKPzqhNLL._AC_UF1000,1000_QL80_.jpg",
+      "ingredients": [
+        "Water",
+        "Oryza Sativa (Rice) Bran Water",
+        "Glycerin",
+        "Panax Ginseng Root Water",
+        "Hydrogenated Polydecene",
+        "1,2-Hexanediol",
+        "Niacinamide",
+        "Squalane",
+        "Ceramide NP",
+        "Sodium Hyaluronate",
+        "Honey Extract"
+      ]
+    },
+    {
+      "id": "055",
+      "brand": "Beauty of Joseon",
+      "name": "Light On Serum : Centella + Vita C",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/613LzUbq+pL._AC_UF894,1000_QL80_.jpg",
+      "ingredients": [
+        "Centella Asiatica Extract",
+        "3-O-Ethyl Ascorbic Acid",
+        "Glycerin",
+        "Niacinamide",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Panthenol",
+        "Adenosine",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "056",
+      "brand": "Beauty of Joseon",
+      "name": "Green Plum Refreshing Toner : AHA + BHA",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/beauty-of-joseon-green-plum-refreshing-toner-aha-bha-150ml/25/551/XXL_p0135855125.jpg",
+      "ingredients": [
+        "Water",
+        "Prunus Mume Fruit Water",
+        "Glycolic Acid",
+        "Dipropylene Glycol",
+        "1,2-Hexanediol",
+        "Salicylic Acid",
+        "Vigna Radiata Seed Extract",
+        "Panax Ginseng Root Extract"
+      ]
+    },
+    {
+      "id": "057",
+      "brand": "Beauty of Joseon",
+      "name": "Relief Sun : Rice + Probiotics SPF50+ PA++++",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61Ou3op0mOL._AC_UF894,1000_QL80_.jpg",
+      "ingredients": [
+        "Water",
+        "Oryza Sativa (Rice) Extract",
+        "Dibutyl Adipate",
+        "Propanediol",
+        "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+        "Ethylhexyl Triazone",
+        "Niacinamide",
+        "Lactobacillus/Rice Ferment"
+      ]
+    },
+    {
+      "id": "058",
+      "brand": "Round Lab",
+      "name": "1025 Dokdo Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/41WC1qaAGIL._AC_UF1000,1000_QL80_.jpg",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Sea Water",
+        "Panthenol",
+        "Allantoin",
+        "Betaine",
+        "Chondrus Crispus Extract",
+        "Saccharum Officinarum (Sugarcane) Extract",
+        "Ethylhexylglycerin"
+      ]
+    },
+    {
+      "id": "059",
+      "brand": "Round Lab",
+      "name": "1025 Dokdo Cleanser",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://i5.walmartimages.com/seo/ROUND-LAB-1025-Dokdo-Cleanser-150ml-Moisturizing-Cleansing-Gentle-Bubbly-Foam-Cleanser-150ml_9415c46a-ee90-4191-acbe-33c5cf00190f.e94c0dafdbf834fc7a93460b5c698238.jpeg",
+      "ingredients": [
+        "Water",
+        "Sodium Cocoyl Isethionate",
+        "Glycerin",
+        "Sodium Methyl Cocoyl Taurate",
+        "Coco-Betaine",
+        "Potassium Cocoyl Glycinate",
+        "1,2-Hexanediol",
+        "Sea Water",
+        "Ceramide NP",
+        "Hyaluronic Acid"
+      ]
+    },
+    {
+      "id": "060",
+      "brand": "Round Lab",
+      "name": "Birch Juice Moisturizing Sunscreen SPF50+ PA++++",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://thekoreantouch.com/wp-content/uploads/2024/09/sunscreenbirch1_1.webp",
+      "ingredients": [
+        "Water",
+        "Dibutyl Adipate",
+        "Propanediol",
+        "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+        "Ethylhexyl Triazone",
+        "Niacinamide",
+        "Betula Platyphylla Japonica Juice",
+        "Glycerin",
+        "Hyaluronic Acid"
+      ]
+    },
+    {
+      "id": "061",
+      "brand": "Round Lab",
+      "name": "1025 Dokdo Cleansing Oil",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://bfasset.costco-static.com/U447IH35/as/f5nvnstffvwj6nsmpthsr8/4000316616-847__2?auto=webp&format=jpg&width=727&height=727&fit=bounds&canvas=727%2C727",
+      "ingredients": [
+        "Ethylhexyl Palmitate",
+        "Sorbeth-30 Tetraoleate",
+        "Sea Water",
+        "Citrus Aurantium Bergamia (Bergamot) Fruit Oil",
+        "Limnanthes Alba (Meadowfoam) Seed Oil",
+        "Vitis Vinifera (Grape) Seed Oil",
+        "Ceramide NP"
+      ]
+    },
+    {
+      "id": "062",
+      "brand": "Round Lab",
+      "name": "Mugwort Calming Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://v2cdn.boutiqaat.com/media/catalog/product/S/C/SC-00005653-2.jpg",
+      "ingredients": [
+        "Water",
+        "Dipropylene Glycol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Artemisia Vulgaris Extract",
+        "Madecassoside",
+        "Betaine",
+        "Panthenol",
+        "Allantoin",
+        "Chondrus Crispus Extract"
+      ]
+    },
+    {
+      "id": "063",
+      "brand": "Round Lab",
+      "name": "Pine Calming Cica Ampoule",
+      "category": "Serum/Ampoule",
+      "origin": "South Korea",
+      "image": "https://sokostore.com/cdn/shop/files/619dNDn7-yL._SL1500.jpg?v=1739950467&width=1500",
+      "ingredients": [
+        "Pinus Densiflora Leaf Extract",
+        "Water",
+        "Glycerin",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Centella Asiatica Extract",
+        "Hyaluronic Acid",
+        "Madecassoside",
+        "Asiaticoside",
+        "Asiatic Acid",
+        "Panthenol"
+      ]
+    },
+    {
+      "id": "064",
+      "brand": "Round Lab",
+      "name": "Soybean Nourishing Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://static.beautytocare.com/cdn-cgi/image/width=1600,height=1600,f=auto/media/catalog/product//r/o/round-lab-soybean-nourishing-toner-300ml_1.png",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Glycine Max (Soybean) Seed Extract",
+        "Ceramide NP",
+        "Adenosine",
+        "Panthenol",
+        "Squalane",
+        "Hydrogenated Lecithin"
+      ]
+    },
+    {
+      "id": "065",
+      "brand": "Round Lab",
+      "name": "1025 Dokdo Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://thekoreantouch.com/wp-content/uploads/2024/10/Product-page-sizes_1033feb2-2506-4639-955b-2aad5fb6df62.webp",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Caprylic/Capric Triglyceride",
+        "Dipropylene Glycol",
+        "Hydrogenated Poly(C6-14 Olefin)",
+        "Sea Water",
+        "Ceramide AP",
+        "Ceramide AS",
+        "Ceramide EOP",
+        "Ceramide NP",
+        "Ceramide NS"
+      ]
+    },
+    {
+      "id": "066",
+      "brand": "Round Lab",
+      "name": "Birch Juice Moisturizing Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://media.ulta.com/i/ulta/2636337?w=500&h=500",
+      "ingredients": [
+        "Water",
+        "Methylpropanediol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Betula Platyphylla Japonica Juice",
+        "Sodium Hyaluronate",
+        "Glyceryl Glucoside",
+        "Artemisia Annua Extract",
+        "Panthenol"
+      ]
+    },
+    {
+      "id": "067",
+      "brand": "COSRX",
+      "name": "Advanced Snail 96 Mucin Power Essence",
+      "category": "Essence",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/416kUGx2rQL._AC_SL1024_.jpg",
+      "ingredients": [
+        "Snail Secretion Filtrate",
+        "Betaine",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Sodium Polyacrylate",
+        "Phenoxyethanol",
+        "Sodium Hyaluronate",
+        "Allantoin",
+        "Ethyl Hexanediol",
+        "Panthenol",
+        "Arginine"
+      ]
+    },
+    {
+      "id": "068",
+      "brand": "COSRX",
+      "name": "Low pH Good Morning Gel Cleanser",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://nudieglow.com/cdn/shop/products/COSRX-Low-pH-Good-Morning-Gel-Cleanser-20ml-Nudie-Glow-Australia_800x.jpg?v=1659499160",
+      "ingredients": [
+        "Water",
+        "Cocamidopropyl Betaine",
+        "Sodium Lauroyl Methyl Isethionate",
+        "Polysorbate 20",
+        "Styrax Japonicus Branch/Fruit/Leaf Extract",
+        "Saccharomyces Ferment",
+        "Cryptomeria Japonica Leaf Extract",
+        "Nelumbo Nucifera Leaf Extract",
+        "Pinus Palustris Leaf Extract",
+        "Ulmus Davidiana Root Extract",
+        "Oenothera Biennis (Evening Primrose) Flower Extract",
+        "Pueraria Lobata Root Extract",
+        "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+        "Allantoin",
+        "Caprylyl Glycol",
+        "Ethylhexylglycerin",
+        "Betaine Salicylate",
+        "Citric Acid",
+        "Ethyl Hexanediol",
+        "1,2-Hexanediol",
+        "Trisodium Ethylenediamine Disuccinate",
+        "Sodium Benzoate",
+        "Disodium EDTA"
+      ]
+    },
+    {
+      "id": "069",
+      "brand": "COSRX",
+      "name": "Full Fit Propolis Synergy Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61zLwrtokwL._AC_SL1500_.jpg",
+      "ingredients": [
+        "Propolis Extract",
+        "Honey Extract",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Glycerin",
+        "Betaine",
+        "Cassia Obtusifolia Seed Extract",
+        "Panthenol",
+        "Polyglyceryl-10 Laurate",
+        "Polyglyceryl-10 Myristate",
+        "Ethylhexylglycerin",
+        "Sodium Hyaluronate",
+        "Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+        "Caprylic/Capric Triglyceride"
+      ]
+    },
+    {
+      "id": "070",
+      "brand": "COSRX",
+      "name": "The Vitamin C 23 Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://springs.com.pk/cdn/shop/files/8809598454651.gif?v=1757317476",
+      "ingredients": [
+        "Water",
+        "Ascorbic Acid",
+        "Propanediol",
+        "Dimethicone",
+        "Tromethamine",
+        "Panthenol",
+        "Ethyl Ascorbyl Ether",
+        "Squalane",
+        "Caffeine",
+        "Sodium Hyaluronate",
+        "Sodium Sulfite",
+        "Disodium EDTA",
+        "Glutathione",
+        "Adenosine",
+        "Acetyl Glucosamine",
+        "Allantoin",
+        "Tocotrienols",
+        "Tocopherol",
+        "Elaeis Guineensis (Palm) Oil",
+        "Helianthus Annuus (Sunflower) Seed Oil",
+        "Arginine",
+        "Niacinamide",
+        "Pentylene Glycol",
+        "Glycyrrhiza Glabra (Licorice) Root Extract"
+      ]
+    },
+    {
+      "id": "071",
+      "brand": "COSRX",
+      "name": "The 6 Peptide Skin Booster Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61ZNyaBF0CL._AC_SL1500_.jpg",
+      "ingredients": [
+        "Water",
+        "Dipropylene Glycol",
+        "Glycerin",
+        "Pentylene Glycol",
+        "Niacinamide",
+        "Hexapeptide-9",
+        "Palmitoyl Pentapeptide-4",
+        "Palmitoyl Tripeptide-1",
+        "Palmitoyl Tetrapeptide-7",
+        "Nonapeptide-1",
+        "Copper Tripeptide-1",
+        "Sodium Hyaluronate",
+        "Adenosine",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "072",
+      "brand": "Abib",
+      "name": "PDRN Collagen Lip Mask Glazed Jelly",
+      "category": "Lip Care",
+      "origin": "South Korea",
+      "image": "https://miinme.ch/cdn/shop/files/ABIBPDRNCollagenLipMaskGlazedJelly2_2048x.jpg?v=1749720854",
+      "ingredients": [
+        "Hydrogenated Polyisobutene",
+        "Polybutene",
+        "Dicaprylyl Carbonate",
+        "Ethylene/Propylene/Styrene Copolymer",
+        "Plant-derived PDRN (Centella Asiatica & Ginkgo Biloba)",
+        "Soluble Collagen (3D Collagen Complex)",
+        "Oryza Sativa (Rice) Bran Oil",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Hyaluronic Acid",
+        "Palmitoyl Tripeptide-5",
+        "Adenosine",
+        "Tocopherol",
+        "Fragrance"
+      ]
+    },
+    {
+      "id": "073",
+      "brand": "SKIN1004",
+      "name": "Madagascar Centella Hyalu-Cica Water-Fit Sun Serum",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://cdn.kireibd.com/storage/all/Skin1004-Madagascar-Hyalu-Cica-Water-Fit-Sun-Serum-SPF50-PA-50ml.png",
+      "ingredients": [
+        "Water",
+        "Dibutyl Adipate",
+        "Propanediol",
+        "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+        "Polymethylsilsesquioxane",
+        "Ethylhexyl Triazone",
+        "Niacinamide",
+        "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol",
+        "Coco-Caprylate/Caprate",
+        "Caprylyl Methicone",
+        "Diethylhexyl Butamido Triazone",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Butylene Glycol",
+        "Centella Asiatica Extract",
+        "Betula Platyphylla Japonica Juice",
+        "Ginkgo Biloba Leaf Extract",
+        "Camellia Sinensis Leaf Extract",
+        "Triticum Vulgare (Wheat) Sprout Extract",
+        "Medicago Sativa (Alfalfa) Extract",
+        "Brassica Oleracea Italica (Broccoli) Sprout Extract",
+        "Eruca Sativa Leaf Extract",
+        "Camellia Japonica Leaf Extract",
+        "Sodium Hyaluronate",
+        "Behenyl Alcohol",
+        "Poly C10-30 Alkyl Acrylate",
+        "Polyglyceryl-3 Methylglucose Distearate",
+        "Decyl Glucoside",
+        "Tromethamine",
+        "Carbomer",
+        "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+        "Sodium Stearoyl Glutamate",
+        "Polyacrylate Crosspolymer-6",
+        "Ethylhexylglycerin",
+        "Adenosine",
+        "Xanthan Gum",
+        "t-Butyl Alcohol",
+        "Tocopherol",
+        "Hydrolyzed Hyaluronic Acid",
+        "Inositol",
+        "Hyaluronic Acid"
+      ]
+    },
+    {
+      "id": "074",
+      "brand": "SKIN1004",
+      "name": "Madagascar Centella Light Cleansing Oil",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61ZG5xWuA+L._SL1500_.jpg",
+      "ingredients": [
+        "Ethylhexyl Stearate",
+        "Cetyl Ethylhexanoate",
+        "Sorbeth-30 Tetraoleate",
+        "Centella Asiatica Extract",
+        "Helianthus Annuus (Sunflower) Seed Oil",
+        "Citrus Aurantium Bergamia (Bergamot) Fruit Oil",
+        "Olea Europaea (Olive) Fruit Oil",
+        "Simmondsia Chinensis (Jojoba) Seed Oil",
+        "Ethylhexylglycerin",
+        "Pelargonium Graveolens Flower Oil",
+        "Rosa Damascena Flower Oil"
+      ]
+    },
+    {
+      "id": "075",
+      "brand": "SKIN1004",
+      "name": "Madagascar Centella Poremizing Fresh Ampoule",
+      "category": "Ampoule",
+      "origin": "South Korea",
+      "image": "https://pretties.com.hk/cdn/shop/files/SKIN-261462_1__website_14f577a0-7e2a-4b88-bab4-131f7990a178.jpg?v=1758622200",
+      "ingredients": [
+        "Centella Asiatica Extract",
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "PVP",
+        "Sodium Chloride",
+        "Hydroxyacetophenone",
+        "Ethylhexylglycerin",
+        "Sodium Citrate",
+        "Citric Acid",
+        "Adenosine",
+        "Disodium EDTA",
+        "Hyaluronic Acid",
+        "Hydrolyzed Hyaluronic Acid",
+        "Sodium Hyaluronate",
+        "Castanea Crenata (Chestnut) Shell Extract",
+        "Lavandula Angustifolia (Lavender) Flower Extract"
+      ]
+    },
+    {
+      "id": "076",
+      "brand": "SKIN1004",
+      "name": "Madagascar Centella Probio-Cica Enrich Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61olVJcmoDL.jpg",
+      "ingredients": [
+        "Centella Asiatica Extract",
+        "Glycerin",
+        "Diglycerin",
+        "Pentaerythrityl Tetraethylhexanoate",
+        "Niacinamide",
+        "Water",
+        "Hydrogenated Poly(C6-14 Olefin)",
+        "C14-22 Alcohols",
+        "Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate",
+        "Lactobacillus/Centella Asiatica Extract Ferment Filtrate",
+        "Ceramide NP",
+        "Sodium Hyaluronate",
+        "Macadamia Ternifolia Seed Oil"
+      ]
+    },
+    {
+      "id": "077",
+      "brand": "COSRX",
+      "name": "Advanced Snail 92 All In One Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://drnutrition.com/storage/media/tHQWuaFdYeuS6VYg8q6pPjMpugpy2BFAl9Stoahn.jpg",
+      "ingredients": [
+        "Snail Secretion Filtrate",
+        "Betaine",
+        "Caprylic/Capric Triglyceride",
+        "Cetearyl Olivate",
+        "Sorbitan Olivate",
+        "Sodium Hyaluronate",
+        "Cetearyl Alcohol",
+        "stearic acid",
+        "Arginine",
+        "Dimethicone",
+        "Carbomer",
+        "Panthenol",
+        "Allantoin",
+        "Sodium Polyacrylate",
+        "Ethyl Hexanediol",
+        "Adenosine",
+        "Phenoxyethanol"
+      ]
+    },
+    {
+      "id": "078",
+      "brand": "COSRX",
+      "name": "AC Collection Calming Liquid Mild",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://static.beautytocare.com/media/catalog/product/c/o/cosrx-calming-liquid-mild-125ml.jpg",
+      "ingredients": [
+        "Camellia Sinensis Leaf Water",
+        "Butylene Glycol",
+        "Dimethyl Sulfone",
+        "Betaine",
+        "1,2-Hexanediol",
+        "Betaine Salicylate",
+        "Gluconolactone",
+        "Polyglyceryl-10 Laurate",
+        "Polyglyceryl-10 Myristate",
+        "Glycerin",
+        "Panthenol",
+        "Allantoin",
+        "Arginine",
+        "Sodium Hyaluronate",
+        "Melaleuca Alternifolia (Tea Tree) Leaf Oil"
+      ]
+    },
+    {
+      "id": "079",
+      "brand": "COSRX",
+      "name": "AC Collection Lightweight Soothing Moisturizer",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://www.mikaela-beauty.com/cdn/shop/products/AX6H0952w.jpg?v=1665374568",
+      "ingredients": [
+        "Propolis Extract",
+        "Aloe Barbadensis Leaf Water",
+        "Camellia Sinensis Leaf Water",
+        "Butylene Glycol",
+        "Cetyl Ethylhexanoate",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Niacinamide",
+        "Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+        "Cyclomethicone",
+        "Cetearyl Olivate",
+        "Betaine",
+        "Cetearyl Alcohol",
+        "Sorbitan Olivate",
+        "Panthenol",
+        "Ethylhexylglycerin",
+        "Allantoin",
+        "Xanthan gum",
+        "Asiaticoside",
+        "Asiatic Acid",
+        "Madecassic Acid"
+      ]
+    },
+    {
+      "id": "080",
+      "brand": "COSRX",
+      "name": "Hydrium Watery Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61bGj1oPhyL.jpg",
+      "ingredients": [
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Allantoin",
+        "Panthenol",
+        "Sodium Hyaluronate",
+        "Pentylene Glycol",
+        "Sodium Hyaluronate Crosspolymer",
+        "Hydrolyzed Hyaluronic Acid",
+        "Hyaluronic Acid",
+        "Ethylhexylglycerin",
+        "Hydrolyzed Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "081",
+      "brand": "COSRX",
+      "name": "Hydrium Centella Aqua Soothing Ampoule",
+      "category": "Ampoule",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/339izpdnhbzqp9uei7e5lk3848l1",
+      "ingredients": [
+        "Water",
+        "Centella Asiatica Extract",
+        "Dipropylene Glycol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Betaine",
+        "Chondrus Crispus Extract",
+        "Saccharum Officinarum (Sugarcane) Extract",
+        "Pentylene Glycol",
+        "Octanediol",
+        "Ammonium Acryloyldimethyltaurate/VP Copolymer",
+        "Xanthan Gum",
+        "Ethylhexylglycerin",
+        "Allantoin",
+        "Madecassoside",
+        "Panthenol"
+      ]
+    },
+    {
+      "id": "082",
+      "brand": "COSRX",
+      "name": "Hydrium Moisture Power Enriched Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://newedition.mv/wp-content/uploads/2025/04/Artboard-1-275.png",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Ethylhexyl Stearate",
+        "Vinyl Dimethicone",
+        "Pentylene Glycol",
+        "Cocos Nucifera (Coconut) Oil",
+        "1,2-Hexanediol",
+        "Cetearyl Alcohol",
+        "Panthenol",
+        "Polymethylsilsesquioxane",
+        "Arachidyl Alcohol",
+        "Propolis Extract",
+        "Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+        "Polyglyceryl-6 Stearate",
+        "Butylene Glycol",
+        "Ceramide NP"
+      ]
+    },
+    {
+      "id": "083",
+      "brand": "COSRX",
+      "name": "BHA Blackhead Power Liquid",
+      "category": "Exfoliant",
+      "origin": "South Korea",
+      "image": "https://i5.walmartimages.com/seo/BHA-4-Blackhead-Power-Liquid-3-38-fl-oz-100ml-Blackhead-Remover-Pore-Minimizer-Korean-Skin-Care-Animal-Testing-Free-Paraben-Free_f5c6238c-828b-46a9-93fe-523279c8b283.6a9ccdb380b82d49809dd8d985cff881.jpeg",
+      "ingredients": [
+        "Salix Alba (Willow) Bark Water",
+        "Butylene Glycol",
+        "Betaine Salicylate",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate",
+        "Niacinamide",
+        "Ethyl Hexanediol",
+        "Panthenol",
+        "Xanthan Gum"
+      ]
+    },
+    {
+      "id": "084",
+      "brand": "COSRX",
+      "name": "AHA 7 Whitehead Power Liquid",
+      "category": "Exfoliant",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61A-KOikJmL._SL1500_.jpg",
+      "ingredients": [
+        "Pyrus Malus (Apple) Fruit Water",
+        "Glycolic Acid",
+        "Water",
+        "Niacinamide",
+        "Sodium Hydroxide",
+        "1,2-Hexanediol",
+        "Panthenol",
+        "Sodium Hyaluronate",
+        "Xanthan Gum",
+        "Ethyl Hexanediol"
+      ]
+    },
+    {
+      "id": "085",
+      "brand": "COSRX",
+      "name": "Aloe Soothing Sun Cream SPF50+ PA+++",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://v2cdn.boutiqaat.com/media/catalog/product/S/C/SC-00009705-1.jpg",
+      "ingredients": [
+        "Water",
+        "Ethylhexyl Methoxycinnamate",
+        "Glycerin",
+        "Isopropyl Palmitate",
+        "Ethylhexyl Salicylate",
+        "Titanium Dioxide",
+        "Aloe Arborescens Leaf Extract",
+        "Dipotassium Glycyrrhizate",
+        "Allantoin",
+        "Silica"
+      ]
+    },
+    {
+      "id": "086",
+      "brand": "SKIN1004",
+      "name": "Madagascar Centella Tea-Trica Relief Ampoule",
+      "category": "Ampoule",
+      "origin": "South Korea",
+      "image": "https://glowinbh.com/cdn/shop/files/skin1004-madagascar-centella-tea-trica-relief-ampoule-100ml.jpg?v=1714914346",
+      "ingredients": [
+        "Centella Asiatica Extract (55%)",
+        "Chamaecyparis Obtusa Water",
+        "Melaleuca Alternifolia (Tea Tree) Leaf Water (9.4%)",
+        "Pinus Palustris Leaf Extract",
+        "Glycerin",
+        "Butylene Glycol",
+        "Methyl Gluceth-20",
+        "Dipropylene Glycol",
+        "1,2-Hexanediol",
+        "Water",
+        "Propanediol",
+        "Melaleuca Alternifolia (Tea Tree) Leaf Oil"
+      ]
+    },
+    {
+      "id": "087",
+      "brand": "SKIN1004",
+      "name": "Madagascar Centella Tone Brightening Capsule Ampoule",
+      "category": "Ampoule",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/o6xt8vubrnjx2inlj2xp63dps5cq",
+      "ingredients": [
+        "Centella Asiatica Extract (77%)",
+        "Butylene Glycol",
+        "Glycerin",
+        "Niacinamide",
+        "Tranexamic Acid",
+        "1,2-Hexanediol",
+        "Water",
+        "Betaine",
+        "Madecassoside",
+        "Hydrogenated Lecithin",
+        "Panthenol",
+        "3-O-Ethyl Ascorbic Acid",
+        "Lactobacillus Ferment"
+      ]
+    },
+    {
+      "id": "088",
+      "brand": "SKIN1004",
+      "name": "Madagascar Centella Poremizing Clear Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://beauty-garden.hr/cdn/shop/files/Madagascar-Centella-Poremizing-Clear-Toner_1.jpg?v=1716892121",
+      "ingredients": [
+        "Centella Asiatica Extract (50.47%)",
+        "Water",
+        "Propanediol",
+        "1,2-Hexanediol",
+        "Glycerin",
+        "Hydroxyacetophenone",
+        "Betaine",
+        "Mineral Salts",
+        "Panthenol",
+        "Ethylhexylglycerin",
+        "Sodium Citrate",
+        "Citric Acid",
+        "Adenosine",
+        "Hyaluronic Acid"
+      ]
+    },
+    {
+      "id": "089",
+      "brand": "SKIN1004",
+      "name": "Madagascar Centella Tea-Trica BHA Foam",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61vH9-4XOsL._SL1000_.jpg",
+      "ingredients": [
+        "Water",
+        "Myristic Acid",
+        "Glycerin",
+        "Potassium Hydroxide",
+        "Stearic Acid",
+        "Glyceryl Stearate",
+        "Propanediol",
+        "Lauryl Hydroxysultaine",
+        "Palmitic Acid",
+        "Salicylic Acid (4,500ppm)",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Centella Asiatica Extract",
+        "Tea Tree Leaf Water"
+      ]
+    },
+    {
+      "id": "090",
+      "brand": "SKIN1004",
+      "name": "Madagascar Centella Hyalu-Cica Blue Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://cdn.salla.sa/DGdDlG/789f2433-eb25-4c7e-9512-33bdb2d459fb-1000x1000-n01WRpJORfjTU3deR9eQfy1C3D9j5N3gdfAmlGTN.jpg",
+      "ingredients": [
+        "Water",
+        "Centella Asiatica Leaf Water",
+        "Isononyl Isononanoate",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Niacinamide",
+        "D-Panthenol",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Hyaluronic Acid",
+        "Hyaluronic Acid",
+        "Ceramide NP",
+        "Adenosine",
+        "Ethylhexylglycerin"
+      ]
+    },
+    {
+      "id": "091",
+      "brand": "Eqqualberry",
+      "name": "Swimming Pool Daily Facial Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://koreacosmeticsbn.com/cdn/shop/files/XXL_p0130244156.webp?v=1743766321&width=1946",
+      "ingredients": [
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Protease",
+        "Panthenol",
+        "Allantoin",
+        "Sodium Hyaluronate",
+        "Beta-Glucan",
+        "Blueberry Fruit Extract"
+      ]
+    },
+    {
+      "id": "092",
+      "brand": "Eqqualberry",
+      "name": "Daily Glow Cleanser",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/614vkFFoqXL._AC_UF1000,1000_QL80_.jpg",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Coco-Betaine",
+        "Lauryl Glucoside",
+        "Sodium Cocoyl Isethionate",
+        "1,2-Hexanediol",
+        "Arginine",
+        "Blueberry Fruit Extract"
+      ]
+    },
+    {
+      "id": "093",
+      "brand": "Eqqualberry",
+      "name": "Bakuchiol Plumping Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/eqqualberry-bakuchiol-plumping-serum-30ml/63/376/XXL_p0213137663.jpg",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "Bakuchiol",
+        "Squalane",
+        "Ceramide NP",
+        "Adenosine",
+        "Sodium Hyaluronate",
+        "Palmitoyl Tripeptide-1"
+      ]
+    },
+    {
+      "id": "094",
+      "brand": "Kosé",
+      "name": "UV Perfect Gel Super Waterproof (SPF50+ PA++++)",
+      "category": "Sun Care",
+      "origin": "Japan",
+      "image": "https://jbeauty.fi/cdn/shop/products/suncutuvperfectgel.png?v=1669162684&width=1445",
+      "ingredients": [
+        "Water",
+        "Ethanol",
+        "Ethylhexyl Methoxycinnamate",
+        "Isododecane",
+        "Polysilicone-15",
+        "Silica",
+        "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+        "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+        "Dipropylene Glycol",
+        "Glycerin",
+        "Sodium Hyaluronate",
+        "Soluble Collagen",
+        "Chamomilla Recutita (Matricaria) Flower Extract",
+        "Clematis Vitalba Leaf Extract",
+        "Equisetum Arvense Extract",
+        "Fucus Vesiculosus Extract",
+        "Hedera Helix (Ivy) Extract",
+        "Spiraea Ulmaria Extract"
+      ]
+    },
+    {
+      "id": "104",
+      "brand": "Dr. Althea",
+      "name": "345 Relief Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/0luox73d8yzich9hdaulzyffalya",
+      "ingredients": [
+        "Water",
+        "Propanediol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Niacinamide",
+        "Panthenol",
+        "Opuntia Ficus-Indica Stem Extract",
+        "Ceramide NP",
+        "Madecassoside"
+      ]
+    },
+    {
+      "id": "105",
+      "brand": "Dr. Althea",
+      "name": "Vitamin C Boosting Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://koreanskincare.co.uk/cdn/shop/files/Product-page-sizes_9b37eb3a-cf16-496b-91d4-af324efe0546.jpg?v=1751277969",
+      "ingredients": [
+        "Hippophae Rhamnoides Water",
+        "Niacinamide",
+        "3-O-Ethyl Ascorbic Acid",
+        "Tranexamic Acid",
+        "Tocopherol",
+        "Ferulic Acid",
+        "Bifida Ferment Lysate"
+      ]
+    },
+    {
+      "id": "106",
+      "brand": "Dr. Althea",
+      "name": "147 Barrier Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://beautybykat.store/cdn/shop/files/F9A8CA84-267B-40FF-B648-125BBA709B47.webp?v=1730478731&width=1946",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Dipropylene Glycol",
+        "Cetyl Ethylhexanoate",
+        "Ceramide NP",
+        "Cholesterol",
+        "Phytosphingosine",
+        "Squalane",
+        "Avocado Oil"
+      ]
+    },
+    {
+      "id": "107",
+      "brand": "Dr. Althea",
+      "name": "Gentle Vitamin C Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://static.sweetcare.com/img/prd/488/v-638870686383195342/dr-althea-025017wl_01.webp",
+      "ingredients": [
+        "Water",
+        "Hippophae Rhamnoides Fruit Water",
+        "Niacinamide",
+        "Propanediol",
+        "3-O-Ethyl Ascorbic Acid",
+        "Adenosine",
+        "Bifida Ferment Filtrate"
+      ]
+    },
+    {
+      "id": "108",
+      "brand": "Dr. Althea",
+      "name": "To Be Youthful Eye Serum",
+      "category": "Eye Care",
+      "origin": "South Korea",
+      "image": "https://static.sweetcare.com/img/prd/488/v-638870626725142181/dr-althea-025013wl_01.webp",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "Sodium Hyaluronate",
+        "Adenosine",
+        "Tocopherol",
+        "Sclerocarya Birrea Seed Oil",
+        "Peptides"
+      ]
+    },
+    {
+      "id": "109",
+      "brand": "Dr. Althea",
+      "name": "Oasis Sun Essence SPF50+ PA++++",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://static.insales-cdn.com/images/products/1/6376/728193256/%D0%B2%D0%B0%D0%B2%D0%BB.jpg",
+      "ingredients": [
+        "Water",
+        "Dibutyl Adipate",
+        "Propanediol",
+        "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+        "Ethylhexyl Triazone",
+        "Niacinamide",
+        "Centella Asiatica Extract"
+      ]
+    },
+    {
+      "id": "110",
+    "brand": "SCINIC",
+    "name": "Enjoy Super Mild Sun Essence",
+    "category": "Sun Care",
+    "origin": "South Korea",
+    "image": "https://m.media-amazon.com/images/I/41VeH7cKnFL._AC_SL1000_.jpg",
+    "ingredients": [
+      "Water",
+      "Dibutyl Adipate",
+      "Propanediol",
+      "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+      "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+      "Polymethylsilsesquioxane",
+      "Polysilicone-15",
+      "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol",
+      "Ethylhexyl Triazone",
+      "Niacinamide",
+      "Diethylhexyl Butamido Triazone",
+      "Glycerin",
+      "Panthenol",
+      "Glacial Water",
+      "Camellia Sinensis Leaf Extract",
+      "Centella Asiatica Extract",
+      "Adenosine",
+      "Sodium Hyaluronate"
+    ]
+    },
+    {
+      "id": "111",
+      "brand": "I'm From",
+      "name": "Rice Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://i5.walmartimages.com/seo/I-m-from-Rice-Toner-5-07-fl-oz-77-78-Rice-Extract-Glow-Essence-with-Niacinamide-Hydrating-for-Dry-Skin-Vegan-Alcohol-Free-K-Beauty-Toner_d900473b-9f51-4d49-8761-b8a18e8a993b.c30819f60e2041dc8871e38dc322d75c.jpeg",
+      "ingredients": [
+        "Oryza Sativa (Rice) Extract",
+        "Methylpropanediol",
+        "Triethylhexanoin",
+        "Hydrogenated Poly(C6-14 Olefin)",
+        "Niacinamide",
+        "Pentylene Glycol",
+        "Common Purslane Extract",
+        "Rice Bran Extract",
+        "Japanese Elm Root Extract",
+        "Amaranthus Caudatus Seed Extract",
+        "Hydrogenated Lecithin",
+        "Water",
+        "Ethylhexylglycerin",
+        "Adenosine"
+      ]
+    },
+    {
+      "id": "112",
+      "brand": "I'm From",
+      "name": "Honey Mask",
+      "category": "Mask",
+      "origin": "South Korea",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71QcyaH4-fL._UL500_.jpg",
+      "ingredients": [
+        "Honey",
+        "Caprylic/Capric Triglyceride",
+        "PEG-7 Glyceryl Cocoate",
+        "Disteardimonium Hectorite",
+        "Macadamia Integrifolia Seed Oil",
+        "Helianthus Annuus (Sunflower) Seed Oil",
+        "Pentylene Glycol",
+        "Microcrystalline Wax",
+        "Polysorbate 20",
+        "Butyrospermum Parkii (Shea) Butter",
+        "Beeswax",
+        "Tocopheryl Acetate",
+        "Common Bamboo Extract",
+        "Common Gorse Extract",
+        "Common Lotus Extract",
+        "Common Jasmine Extract",
+        "Argania Spinosa Kernel Oil",
+        "Hazelnut Oil",
+        "Jojoba Seed Oil",
+        "Snail Secretion Filtrate"
+      ]
+    },
+    {
+      "id": "113",
+      "brand": "Haruharu Wonder",
+      "name": "Black Rice Hyaluronic Toner (Fragrance Free)",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/4198g8VGL5L._UL500_.jpg",
+      "ingredients": [
+        "Water",
+        "Betaine",
+        "Glycerin",
+        "Propanediol",
+        "Oryza Sativa (Rice) Extract",
+        "Phyllostachys Pubescens Shoot Bark Extract",
+        "Aspergillus Ferment",
+        "Panax Ginseng Root Extract",
+        "Cyclodextrin",
+        "Scutellaria Baicalensis Root Extract",
+        "Hyaluronic Acid",
+        "Beta-Glucan"
+      ]
+    },
+    {
+      "id": "114",
+      "brand": "Haruharu Wonder",
+      "name": "Black Rice Moisture Airyfit Daily Sunscreen",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/1rrpqdfqayan1gpdchalow17wv5l",
+      "ingredients": [
+        "Water",
+        "Dibutyl Adipate",
+        "Propanediol",
+        "Butyloctyl Salicylate",
+        "Ethylhexyl Triazone",
+        "Terephthalylidene Dicamphor Sulfonic Acid",
+        "Glycerin",
+        "Niacinamide",
+        "Polyglyceryl-3 Distearate",
+        "1,2-Hexanediol",
+        "Oryza Sativa (Rice) Extract"
+      ]
+    },
+    {
+      "id": "115",
+      "brand": "Haruharu Wonder",
+      "name": "Black Rice Bakuchiol Eye Cream",
+      "category": "Eye Care",
+      "origin": "South Korea",
+      "image": "https://skinshop.ie/cdn/shop/files/HaruharuWonder_BlackRiceBakuchiolEyeCream20ml_3.jpg?v=1722344810",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Helianthus Annuus (Sunflower) Seed Oil",
+        "Caprylic/Capric Triglyceride",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Cetearyl Olivate",
+        "Sorbitan Olivate",
+        "Bakuchiol",
+        "Oryza Sativa (Rice) Extract",
+        "Yeast Ferment Extract",
+        "Panax Ginseng Root Extract"
+      ]
+    },
+    {
+      "id": "116",
+      "brand": "I'm From",
+      "name": "Beet Purifying Mask",
+      "category": "Mask",
+      "origin": "South Korea",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71HexhofFaL.jpg",
+      "ingredients": [
+        "Water",
+        "Kaolin",
+        "Beta Vulgaris (Beet) Root Powder",
+        "Glycerin",
+        "Dipropylene Glycol",
+        "Magnesium Aluminum Silicate",
+        "1,2-Hexanediol",
+        "Xanthan Gum",
+        "Gluconolactone",
+        "Panthenol"
+      ]
+    },
+    {
+      "id": "117",
+      "brand": "Haruharu Wonder",
+      "name": "Centella 4% TXA Dark Spot Go Away Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://nudieglow.com/cdn/shop/files/HARUHARU-WONDER-Centella-4_-TXA-Dark-Spot-Go-Away-Serum-Nudie-Glow-Australia_800x.jpg?v=1713416663",
+      "ingredients": [
+        "Water",
+        "Propanediol",
+        "Niacinamide",
+        "Tranexamic Acid",
+        "1,2-Hexanediol",
+        "Isododecane",
+        "Glycerin",
+        "Centella Asiatica Extract",
+        "Sodium Hyaluronate",
+        "Ascorbic Acid"
+      ]
+    },
+    {
+      "id": "118",
+      "brand": "Purito SEOUL",
+      "name": "Wonder Releaf Centella Serum (Unscented)",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/2tc4ohpp969fgkoy76ituim0zvfp",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Dipropylene Glycol",
+        "Centella Asiatica Extract (30,000ppm)",
+        "Panthenol",
+        "Sodium Hyaluronate",
+        "Niacinamide",
+        "Madecassoside",
+        "Asiaticoside",
+        "Asiatic Acid",
+        "Madecassic Acid",
+        "Arginine"
+      ]
+    },
+    {
+      "id": "119",
+      "brand": "Purito SEOUL",
+      "name": "Deep Sea Pure Water Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://f.nooncdn.com/p/pzsku/Z16A51787F8FB97EFE939Z/45/_/1729165393/4d277133-a69b-4f8c-9a85-3e810146f5af.jpg?format=webp&width=800",
+      "ingredients": [
+        "Deep Sea Water (60%)",
+        "Glycerin",
+        "Caprylic/Capric Triglyceride",
+        "Dipropylene Glycol",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate",
+        "Panthenol",
+        "Ecklonia Cava Extract",
+        "Caulerpa Lentillifera Extract"
+      ]
+    },
+    {
+      "id": "120",
+      "brand": "Purito SEOUL",
+      "name": "From Green Cleansing Oil",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/purito-seoul-from-green-cleansing-oil-pcr-bottle-old-version-200ml-200ml-original-packaging-200ml-new-packaging/90/580/XXL_p0115858090.png",
+      "ingredients": [
+        "Olea Europaea (Olive) Fruit Oil",
+        "Caprylic/Capric Triglyceride",
+        "Helianthus Annuus (Sunflower) Seed Oil",
+        "Sorbeth-30 Tetraoleate",
+        "Simmondsia Chinensis (Jojoba) Seed Oil",
+        "Prunus Amygdalus Dulcis (Sweet Almond) Oil"
+      ]
+    },
+    {
+      "id": "121",
+      "brand": "Torriden",
+      "name": "DIVE-IN Low Molecular Hyaluronic Acid Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://i5.walmartimages.com/seo/Torriden-DIVE-IN-Low-Molecular-Hyaluronic-Acid-Serum-50ml_ef93bac0-9688-433b-b8b2-8f444aa56570.4d708e9ad7a35e85794d4d97e6733060.jpeg",
+      "ingredients": [
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "Dipropylene Glycol",
+        "1,2-Hexanediol",
+        "Panthenol",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Hyaluronic Acid",
+        "Sodium Acetylated Hyaluronate",
+        "Sodium Hyaluronate Crosspolymer",
+        "Allantoin",
+        "Madecassoside",
+        "Malachite Extract"
+      ]
+    },
+    {
+      "id": "122",
+      "brand": "Torriden",
+      "name": "DIVE-IN Soothing Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://static.beautytocare.com/media/catalog/product/t/o/torriden-dive-in-soothing-cream-100ml.jpg",
+      "ingredients": [
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Hydrogenated Didecene",
+        "Allantoin",
+        "Trehalose",
+        "Hamamelis Virginiana (Witch Hazel) Extract",
+        "Panthenol",
+        "Hydrolyzed Hyaluronic Acid",
+        "Sodium Hyaluronate",
+        "Ceramide NP"
+      ]
+    },
+    {
+      "id": "123",
+      "brand": "Torriden",
+      "name": "SOLID-IN Ceramide Lip Essence",
+      "category": "Lip Care",
+      "origin": "South Korea",
+      "image": "https://www.kimbaobeauty.com.au/cdn/shop/files/cc937740-6cbc-42c8-abee-0be384d39eaf.webp?v=1701869006",
+      "ingredients": [
+        "Polyisobutene",
+        "Petrolatum",
+        "Castor Seed Oil",
+        "Ceramide NP",
+        "Ceramide NS",
+        "Ceramide AS",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Simmondsia Chinensis (Jojoba) Seed Oil",
+        "Shea Butter"
+      ]
+    },
+    {
+      "id": "124",
+      "brand": "Purito SEOUL",
+      "name": "B5 Panthenol Re-barrier Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://www.lookfantastic.ae/images?url=https://static.thcdn.com/productimg/original/13911227-3815172240082656.jpg&format=webp&auto=avif&width=985&height=985&fit=cover",
+      "ingredients": [
+        "Centella Asiatica Extract",
+        "Panthenol (10%)",
+        "Squalane",
+        "Butylene Glycol",
+        "Water",
+        "1,2-Hexanediol",
+        "Niacinamide",
+        "Copper Tripeptide-1",
+        "Madecassoside",
+        "Asiaticoside",
+        "Asiatic Acid"
+      ]
+    },
+    {
+      "id": "125",
+      "brand": "Torriden",
+      "name": "CELLMAZING Vitamin C Brightening Ampoule",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://www.godwell.com.hk/api/image/t1920/f403093658cd9b2f5540bc5d63bc334fce782c3708f30d26360dc45ccf3e853a.jpg",
+      "ingredients": [
+        "Water",
+        "Propanediol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "3-O-Ethyl Ascorbic Acid",
+        "Niacinamide",
+        "Panthenol",
+        "Sodium Hyaluronate",
+        "Ferulic Acid",
+        "Allantoin",
+        "Adenosine"
+      ]
+    },
+    {
+      "id": "126",
+      "brand": "Torriden",
+      "name": "BALANCEFUL Cica Calming Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://www.koiyu.ch/cdn/shop/files/61H7jh3VhqL._SL1500__1.jpg?v=1748777936",
+      "ingredients": [
+        "Water",
+        "Centella Asiatica Extract",
+        "Butylene Glycol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "LHA",
+        "Sodium Hyaluronate",
+        "Madecassoside",
+        "Asiaticoside",
+        "Asiatic Acid",
+        "Madecassic Acid",
+        "Panthenol"
+      ]
+    },
+    {
+      "id": "127",
+      "brand": "AXIS-Y",
+      "name": "Dark Spot Correcting Glow Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/xa313s0hpkqrbx3lpv60zhl181rx",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "Sodium Hyaluronate",
+        "Glutathione",
+        "Pancratium Maritimum Extract",
+        "Squalane",
+        "Calendula Officinalis Flower Extract",
+        "Papaya Fruit Extract",
+        "Sea Buckthorn Fruit Extract",
+        "Rice Bran Extract",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "128",
+      "brand": "AXIS-Y",
+      "name": "Mugwort Pore Clarifying Wash Off Pack",
+      "category": "Mask",
+      "origin": "South Korea",
+      "image": "https://glowinbh.com/cdn/shop/files/axis-y-mugwort-pore-clarifying-wash-off-pack-100ml.webp?v=1708596231&width=1024",
+      "ingredients": [
+        "Artemisia Princeps Extract",
+        "Kaolin",
+        "Dipropylene Glycol",
+        "Bentonite",
+        "Betaine",
+        "Adansonia Digitata Seed Extract",
+        "Centella Asiatica Extract",
+        "Fig Fruit Extract",
+        "Green Tea Leaf Extract",
+        "Houttuynia Cordata Extract",
+        "Rice Bran Extract",
+        "Vigna Radiata Seed Extract"
+      ]
+    },
+    {
+      "id": "129",
+      "brand": "AXIS-Y",
+      "name": "Quinoa One-Step Balanced Gel Cleanser",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://serinacosmetics.com/wp-content/uploads/2024/10/AXIS-Y-Quinoa-One-Step-Balanced-Gel-Cleanser-180ml.jpg",
+      "ingredients": [
+        "Water",
+        "Decyl Glucoside",
+        "Sodium Cocoyl Glutamate",
+        "Chenopodium Quinoa Seed Extract",
+        "Glycerin",
+        "Sodium Lauroyl Glutamate",
+        "Centella Asiatica Extract",
+        "Green Tea Leaf Extract",
+        "Calendula Officinalis Flower Extract",
+        "Sweet Almond Oil",
+        "Humulus Lupulus (Hops) Extract"
+      ]
+    },
+    {
+      "id": "130",
+      "brand": "AXIS-Y",
+      "name": "Daily Purifying Treatment Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/71aMXasiRBL._AC_SL1000__.jpg",
+      "ingredients": [
+        "Water",
+        "Centella Asiatica Extract",
+        "Aloe Barbadensis Leaf Water",
+        "Butylene Glycol",
+        "Alcohol",
+        "Sodium Hyaluronate",
+        "Melaleuca Alternifolia (Tea Tree) Extract",
+        "Salicylic Acid (0.5%)",
+        "Betaine",
+        "Houttuynia Cordata Extract",
+        "Sugar Cane Extract"
+      ]
+    },
+    {
+      "id": "131",
+      "brand": "AXIS-Y",
+      "name": "Complete No-Stress Physical Sunscreen SPF50+ PA++++",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://cdn.salla.sa/onxjbX/d572a363-7df9-4a98-97d7-4a0faaf10cab-1000x1000-gf0pzvcxPosT7xlCMDoClY8fDVXgcJvcAICIMwDc.jpg",
+      "ingredients": [
+        "Water",
+        "Cyclohexasiloxane",
+        "Zinc Oxide",
+        "Titanium Dioxide",
+        "Propanediol",
+        "Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone",
+        "Dibutyl Adipate",
+        "Niacinamide",
+        "Caprylyl Methicone",
+        "Mugwort Extract",
+        "Squalane",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "132",
+      "brand": "AXIS-Y",
+      "name": "Artichoke Intensive Skin Barrier Ampoule",
+      "category": "Ampoule",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/71HjdfEzJZL.jpg",
+      "ingredients": [
+        "Water",
+        "Aloe Barbadensis Leaf Water",
+        "Butylene Glycol",
+        "Sodium Hyaluronate",
+        "Cynara Scolymus (Artichoke) Extract",
+        "Glycerin",
+        "Panthenol",
+        "Centella Asiatica Extract",
+        "Tea Tree Leaf Extract",
+        "Ceramide NP",
+        "Arginine"
+      ]
+    },
+    {
+      "id": "133",
+      "brand": "AXIS-Y",
+      "name": "Cera-Heart My Type Duo Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://glowtime.mu/wp-content/uploads/2025/03/Axis-Y-Cera-Heart-My-Type-Duo-Cream-1.png",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Butylene Glycol",
+        "Centella Asiatica Extract",
+        "Sodium Hyaluronate",
+        "Asiaticoside",
+        "Asiatic Acid",
+        "Madecassic Acid",
+        "Madecassoside",
+        "Ceramide NP",
+        "Squalane",
+        "Sorghum Bicolor Leaf/Stem Extract"
+      ]
+    },
+    {
+      "id": "134",
+      "brand": "AXIS-Y",
+      "name": "Spot The Difference Blemish Treatment",
+      "category": "Spot Treatment",
+      "origin": "South Korea",
+      "image": "https://pretties.com.hk/cdn/shop/files/AXY-610249_1__website_700x700.jpg?v=1758622903",
+      "ingredients": [
+        "Water",
+        "Alcohol",
+        "Butylene Glycol",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Glycerin",
+        "Melaleuca Alternifolia (Tea Tree) Leaf Extract",
+        "Ceramide NP",
+        "Camellia Sinensis Leaf Extract",
+        "Salicylic Acid",
+        "Mentha Aquatica Extract"
+      ]
+    },
+    {
+      "id": "135",
+      "brand": "AXIS-Y",
+      "name": "Biome Comforting Infused Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://glowinbh.com/cdn/shop/files/41iVWYVsacL.jpg?v=1724224052&width=1024",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Lactobacillus Ferment",
+        "Saccharomyces Ferment Filtrate",
+        "Bifida Ferment Lysate",
+        "Sodium Hyaluronate",
+        "Ceramide NP",
+        "Centella Asiatica Extract",
+        "Artemisia Capillaris Extract"
+      ]
+    },
+    {
+      "id": "136",
+      "brand": "numbuzin",
+      "name": "No.3 Super Glowing Essence Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/51brj+UEpDL._SL1500_.jpg",
+      "ingredients": [
+        "Water",
+        "Fermented Ingredients (50 types)",
+        "Glycerin",
+        "Niacinamide",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Panthenol",
+        "Adenosine",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "137",
+      "brand": "numbuzin",
+      "name": "No.3 Skin Softening Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/51R61e3SJlL._AC_UF1000,1000_QL80_.jpg",
+      "ingredients": [
+        "Bifida Ferment Lysate (42%)",
+        "Galactomyces Ferment Filtrate (21%)",
+        "Butylene Glycol",
+        "Methyl Gluceth-20",
+        "Water",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Panthenol",
+        "Squalane",
+        "Adenosine"
+      ]
+    },
+    {
+      "id": "138",
+      "brand": "numbuzin",
+      "name": "No.5+ Glutathione Vitamin Concentrated Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61a4viHJNQL._UL500_.jpg",
+      "ingredients": [
+        "Vaccinium Vitis-Idaea Fruit Extract",
+        "Butylene Glycol",
+        "Niacinamide",
+        "Panthenol",
+        "Tranexamic Acid",
+        "Glutathione (1,000ppm)",
+        "Alpha-Arbutin",
+        "Vitamin C",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "139",
+      "brand": "numbuzin",
+      "name": "No.1 Pantothenic B5 Active Soothing Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://static.sweetcare.com/img/prd/488/v-638754015451932349/numbuzin-022917mn-4.webp",
+      "ingredients": [
+        "Water",
+        "Pantothenic Acid (Vitamin B5)",
+        "Niacinamide",
+        "Butylene Glycol",
+        "1,2-Hexanediol",
+        "Centella Asiatica Extract",
+        "Houttuynia Cordata Extract",
+        "Zinc PCA"
+      ]
+    },
+    {
+      "id": "140",
+      "brand": "numbuzin",
+      "name": "No.1 Easy Peasy Cleansing Oil",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/516SGCHhMjL._UL500_.jpg",
+      "ingredients": [
+        "Zea Mays (Corn) Oil",
+        "Isopropyl Myristate",
+        "Sorbeth-30 Tetraoleate",
+        "Ethylhexyl Palmitate",
+        "Macadamia Ternifolia Seed Oil",
+        "Helianthus Annuus (Sunflower) Seed Oil",
+        "Tocopherol"
+      ]
+    },
+    {
+      "id": "141",
+      "brand": "numbuzin",
+      "name": "No.9 NAD+ PDRN Glow Boosting Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://cdn.salla.sa/onqKZz/14cbf21a-7ee2-40f7-8f55-42559dbb12c2-953.79310344828x1000-dKNbYi5nQkYRtc7kkPuFww279TQz34a0ocnMNXXO.jpg",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "NAD+",
+        "PDRN (Salmon DNA)",
+        "Adenosine",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Collagen",
+        "Peptides"
+      ]
+    },
+    {
+      "id": "142",
+      "brand": "numbuzin",
+      "name": "No.6 Deep Sleep Mask Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://beauty-garden.hr/cdn/shop/files/243.png?v=1742071479",
+      "ingredients": [
+        "Glacier Water (63%)",
+        "Butylene Glycol",
+        "Propanediol",
+        "Glycerin",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate",
+        "Adenosine",
+        "Panthenol"
+      ]
+    },
+    {
+      "id": "143",
+      "brand": "numbuzin",
+      "name": "No.4 Full-Nutrient Firming Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/ilbiryji07rglf13ha9qqsfuof8u",
+      "ingredients": [
+        "Panax Ginseng Root Extract (39%)",
+        "Glycerin",
+        "Butylene Glycol",
+        "Squalane",
+        "Niacinamide",
+        "Adenosine",
+        "Hydrolyzed Collagen",
+        "Peptides",
+        "Ceramide NP"
+      ]
+    },
+    {
+      "id": "144",
+      "brand": "numbuzin",
+      "name": "No.2 Cica Ceramide Repair Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/miqousampmkadmylnik89i6mlf0w",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Butylene Glycol",
+        "Centella Asiatica Extract",
+        "Ceramide NP",
+        "Ceramide NS",
+        "Ceramide AS",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Phytosphingosine"
+      ]
+    },
+    {
+      "id": "145",
+      "brand": "numbuzin",
+      "name": "No.5 Vitamin-Niacinamide Concentrated Pad",
+      "category": "Toner Pad",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/a4g49h8mm22nunfe80pel6kcntea",
+      "ingredients": [
+        "Water",
+        "Niacinamide (50,000ppm)",
+        "Glutathione",
+        "Vitamin C",
+        "Panthenol",
+        "Adenosine",
+        "Gluconolactone (PHA)",
+        "Larix Sibirica Wood Extract"
+      ]
+    },
+    {
+      "id": "146",
+      "brand": "NINELESS",
+      "name": "A-Control 10% Azelaic Acid Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/qdf3oz9mu6103xjmgit84f2wwj8a",
+      "ingredients": [
+        "Aqua (Water)",
+        "Azelaic Acid",
+        "Glycereth-26",
+        "Glycerin",
+        "Niacinamide",
+        "Panthenol",
+        "Centella Asiatica Extract",
+        "Snail Secretion Filtrate",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "147",
+      "brand": "NINELESS",
+      "name": "B-Boost 1% Kojic Acid Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/54/860/XXL_p0207686054.jpg",
+      "ingredients": [
+        "Water",
+        "Niacinamide",
+        "Kojic Acid (1%)",
+        "Tranexamic Acid",
+        "Glutathione",
+        "Alpha-Arbutin",
+        "Panthenol",
+        "Dipropylene Glycol",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "148",
+      "brand": "NINELESS",
+      "name": "A-Control Heartleaf & BHA Cleanser",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://cdn.shopify.com/s/files/1/0533/3401/6154/files/N_c532c65b-c40b-4d8f-8911-856b9dbca279.jpg?v=1715850101",
+      "ingredients": [
+        "Houttuynia Cordata Extract",
+        "Water",
+        "Glycerin",
+        "Sodium Cocoyl Glycinate",
+        "Salicylic Acid (0.5%)",
+        "Centella Asiatica Extract",
+        "Tea Tree Leaf Oil",
+        "Potassium Cocoyl Glycinate"
+      ]
+    },
+    {
+      "id": "149",
+      "brand": "NINELESS",
+      "name": "MELA-PRO 5% Tranexamic Acid Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/83/964/XL_p0207196483.jpg",
+      "ingredients": [
+        "Water",
+        "Tranexamic Acid (5%)",
+        "Niacinamide",
+        "Glycerin",
+        "Glutathione",
+        "Rice Bran Extract",
+        "Sodium Hyaluronate",
+        "Allantoin",
+        "1,2-Hexanediol"
+      ]
+    },
+    {
+      "id": "150",
+      "brand": "NINELESS",
+      "name": "Essentials UV Shield Soothing Sun Cream",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/gbr4di9md2yn2d17glcx4sgjf2ys",
+      "ingredients": [
+        "Water",
+        "Dibutyl Adipate",
+        "Propanediol",
+        "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+        "Ethylhexyl Triazone",
+        "Niacinamide",
+        "Centella Asiatica Extract",
+        "Ceramide NP",
+        "Adenosine"
+      ]
+    },
+    {
+      "id": "151",
+      "brand": "Isntree",
+      "name": "Hyaluronic Acid Watery Sun Gel SPF50+ PA++++",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/isntree-hyaluronic-acid-watery-sun-gel-50ml/59/412/XXL_p0132741259.jpg",
+      "ingredients": [
+        "Water",
+        "8 Types of Hyaluronic Acid",
+        "Astaxanthin",
+        "Centella Asiatica Extract",
+        "Ceramide NP",
+        "Fig Fruit Extract",
+        "Niacinamide",
+        "Adenosine"
+      ]
+    },
+    {
+      "id": "152",
+      "brand": "Isntree",
+      "name": "Green Tea Fresh Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/419JwByw0SL.jpg",
+      "ingredients": [
+        "Camellia Sinensis (Green Tea) Leaf Extract (80%)",
+        "Water",
+        "Ginkgo Biloba Leaf Extract",
+        "Centella Asiatica Extract",
+        "Salix Alba (Willow) Bark Extract",
+        "Vaccinium Angustifolium (Blueberry) Fruit Extract",
+        "Hydrolyzed Hyaluronic Acid",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "153",
+      "brand": "Isntree",
+      "name": "Chestnut BHA 2% Clear Liquid",
+      "category": "Exfoliant",
+      "origin": "South Korea",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/isntree-chestnut-bha-2-clear-liquid-100ml/22/137/XL_p0159613722.jpg",
+      "ingredients": [
+        "Water",
+        "Butylene Glycol",
+        "Salicylic Acid (2%)",
+        "Castanea Crenata (Chestnut) Shell Extract",
+        "Sodium Hyaluronate",
+        "Panthenol",
+        "Allantoin",
+        "Glycerin"
+      ]
+    },
+    {
+      "id": "154",
+      "brand": "Isntree",
+      "name": "Yam Root Vegan Milk Cleanser",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/417Qlt-M+-L._UL500_.jpg",
+      "ingredients": [
+        "Dioscorea Japonica Root Extract",
+        "Water",
+        "Helianthus Annuus (Sunflower) Seed Oil",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Vegan Milk Complex (Rice, Oatmeal, Coconut, Soybean, Almond)"
+      ]
+    },
+    {
+      "id": "155",
+      "brand": "Isntree",
+      "name": "Hyaluronic Acid Aqua Gel Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://static.sweetcare.com/img/prd/488/v-638233397208996588/isntree-017848in_01.webp",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "5 Types of Hyaluronic Acid",
+        "Squalane",
+        "Sodium PCA",
+        "Centella Asiatica Extract",
+        "Green Tea Extract",
+        "Glycyrrhiza Glabra (Licorice) Root Extract"
+      ]
+    },
+    {
+      "id": "156",
+      "brand": "Isntree",
+      "name": "Onion Newpair Essence Toner",
+      "category": "Toner",
+      "origin": "South Korea",
+      "image": "https://static.insales-cdn.com/images/products/1/1497/954115545/IsNtree_Onion_Newpair_Essence_Toner_200ml.png",
+      "ingredients": [
+        "Allium Cepa (Onion) Bulb Extract (75%)",
+        "Propanediol",
+        "Glycerin",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Tranexamic Acid",
+        "Sodium Hyaluronate",
+        "Houttuynia Cordata Extract"
+      ]
+    },
+    {
+      "id": "157",
+      "brand": "Isntree",
+      "name": "Hyper Niacinamide 20 Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/77lu4n7xgxlml53j6zrpfk7xtfod",
+      "ingredients": [
+        "Water",
+        "Niacinamide (20%)",
+        "Arbutin",
+        "Zinc PCA",
+        "Sodium Hyaluronate",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "158",
+      "brand": "Isntree",
+      "name": "Mugwort Calming Clay Mask",
+      "category": "Mask",
+      "origin": "South Korea",
+      "image": "https://medpak.shop/cdn/shop/files/isntree-real-mugwort-calming-clay-mask-100-ml-ist0009-965055938.webp?v=1756374447&width=1500",
+      "ingredients": [
+        "Water",
+        "Kaolin",
+        "Glycerin",
+        "Dipropylene Glycol",
+        "Artemisia Princeps Extract",
+        "Stearic Acid",
+        "Bentonite",
+        "Phaseolus Angularis Seed Powder (Red Bean)"
+      ]
+    },
+    {
+      "id": "159",
+      "brand": "Isntree",
+      "name": "Ultra-Low Molecular Hyaluronic Acid Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51SPeoRxqnL._UL500_.jpg",
+      "ingredients": [
+        "Water",
+        "Sea Water",
+        "Glycerin",
+        "14 Types of Hyaluronic Acid",
+        "Butylene Glycol",
+        "Sodium Hyaluronate",
+        "Allantoin",
+        "Madecassoside"
+      ]
+    },
+    {
+      "id": "160",
+      "brand": "Isntree",
+      "name": "TW-Real Bifida Ampoule",
+      "category": "Ampoule",
+      "origin": "South Korea",
+      "image": "https://static.sweetcare.com/img/prd/488/v-638233397216149855/isntree-018481in_01.webp",
+      "ingredients": [
+        "Bifida Ferment Lysate",
+        "Lactobacillus Ferment",
+        "Saccharomyces Ferment Filtrate",
+        "Glycerin",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Adenosine",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "161",
+      "brand": "Isntree",
+      "name": "Hyaluronic Acid Moist Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/5jk7b5l7e9f5hu8on48czffhnk3y",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Hydrogenated Polydecene",
+        "Caprylic/Capric Triglyceride",
+        "Dipropylene Glycol",
+        "Cyclohexasiloxane",
+        "Butyrospermum Parkii (Shea) Butter",
+        "Polyglyceryl-3 Methylglucose Distearate",
+        "Cetyl Alcohol",
+        "Betaine",
+        "Behenyl Alcohol",
+        "Pentylene Glycol",
+        "Sodium Hyaluronate",
+        "Prunus Armeniaca (Apricot) Kernel Oil",
+        "Argania Spinosa Kernel Oil",
+        "Carthamus Tinctorius (Safflower) Seed Oil",
+        "Hydrolyzed Hyaluronic Acid",
+        "Panthenol",
+        "Ceramide NP"
+      ]
+    },
+    {
+      "id": "162",
+      "brand": "Abib",
+      "name": "Heartleaf Essence Calming Pump",
+      "category": "Essence",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/51RJfKJWwPL._AC_UF894,1000_QL80_.jpg",
+      "ingredients": [
+        "Houttuynia Cordata Extract (80%)",
+        "Glycerin",
+        "Methylpropanediol",
+        "Water",
+        "Dipropylene Glycol",
+        "Glycereth-26",
+        "Sodium Hyaluronate",
+        "Panthenol",
+        "Succinic Acid"
+      ]
+    },
+    {
+      "id": "163",
+      "brand": "CNP Laboratory",
+  "name": "Propolis Lipcerin",
+  "category": "Lip Care",
+  "origin": "South Korea",
+  "image": "https://storage.skinsort.com/y0dxvezoxeqvqk9rpnmpprgu4q78",
+  "ingredients": [
+    "Triethylhexanoin",
+    "Phytosteryl/Isostearyl/Cetyl/Stearyl/Behenyl Dimer Dilinoleate",
+    "Diisostearyl Malate",
+    "Bis-Diglyceryl Polyacyladipate-2",
+    "Dextrin Palmitate",
+    "Glycerin",
+    "Squalane",
+    "Shea Butter",
+    "Propolis Extract (3.2ppm)",
+    "Honey Extract (1ppm)",
+    "Gluconolactone (PHA)",
+    "Protease",
+    "Serine",
+    "Ceramide NP",
+    "Ceramide NS",
+    "Madecassoside",
+    "Acetyl Tetrapeptide-9",
+    "Beta-Glucan",
+    "Tocopherol"
+  ]
+    },
+    {
+      "id": "164",
+      "brand": "Abib",
+      "name": "Jericho Rose Cream Nutrition Tube",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61urpUPzWrL._SL1500_.jpg",
+      "ingredients": [
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "Anastatica Hierochuntica (Jericho Rose) Extract",
+        "Caprylic/Capric Triglyceride",
+        "Panthenol",
+        "Ceramide NP",
+        "Butyrospermum Parkii (Shea) Butter",
+        "Coconut Oil"
+      ]
+    },
+    {
+      "id": "165",
+      "brand": "Abib",
+      "name": "Pine Needle Pore Pad Clear Touch",
+      "category": "Toner Pad",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/74ppuccl7chbx08r226wmureb0xt",
+      "ingredients": [
+        "Water",
+        "Butylene Glycol",
+        "Pinus Densiflora Leaf Extract",
+        "Glycerin",
+        "Gluconolactone (PHA)",
+        "Capryloyl Salicylic Acid (LHA)",
+        "Centella Asiatica Extract",
+        "Panthenol",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "166",
+      "brand": "Abib",
+      "name": "Gummy Sheet Mask Heartleaf Sticker",
+      "category": "Mask",
+      "origin": "South Korea",
+      "image": "https://static.beautytocare.com/cdn-cgi/image/f=auto/media/catalog/product//a/b/abib-gummy-sheet-mask-heartleaf-sticker-27ml.jpg",
+      "ingredients": [
+        "Water",
+        "Dipropylene Glycol",
+        "Glycerin",
+        "Houttuynia Cordata Extract",
+        "Centella Asiatica Extract",
+        "Paeonia Suffruticosa Root Extract",
+        "Chamomile Flower Extract",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "167",
+      "brand": "Abib",
+      "name": "Quick Sunstick Protection Bar SPF50+ PA++++",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/1f9pqju6kxpbkplcycqemg6n1va2",
+      "ingredients": [
+        "Octyldodecanol",
+        "Butylene Glycol Dicaprylate/Dicaprate",
+        "Ethylhexyl Methoxycinnamate",
+        "Dibutyl Adipate",
+        "Cerium Oxide",
+        "Acacia Senegal Gum",
+        "Camellia Sinensis Leaf Extract",
+        "Aloe Barbadensis Leaf Extract"
+      ]
+    },
+    {
+      "id": "168",
+      "brand": "Abib",
+      "name": "Sedum Hyaluron Pad Hydrating Touch",
+      "category": "Toner Pad",
+      "origin": "South Korea",
+      "image": "https://static.beautytocare.com/cdn-cgi/image/f=auto/media/catalog/product//a/b/abib-sedum-hyaluron-pad-x75.jpg",
+      "ingredients": [
+        "Water",
+        "Sedum Sarmentosum Extract",
+        "Glycerin",
+        "8 Types of Hyaluronic Acid",
+        "Succinic Acid",
+        "Gluconolactone",
+        "Allantoin",
+        "Panthenol",
+        "Caffeine"
+      ]
+    },
+    {
+      "id": "169",
+      "brand": "Abib",
+      "name": "Jericho Rose Bifida Serum Firming Drop",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://pretties.com.hk/cdn/shop/files/ABIB-443197_1__website_b3d1fd2e-2a8b-4969-a58e-99f73dcb0c97.jpg?v=1758622244",
+      "ingredients": [
+        "Water",
+        "Anastatica Hierochuntica (Jericho Rose) Extract",
+        "Bifida Ferment Lysate",
+        "Glycerin",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Adenosine",
+        "Sodium Hyaluronate",
+        "Peptides"
+      ]
+    },
+    {
+      "id": "170",
+      "brand": "Abib",
+      "name": "PDRN Retinal Eye Patch Glow Jelly",
+      "category": "Eye Care",
+      "origin": "South Korea",
+      "image": "https://glowinbh.com/cdn/shop/files/616D5C05-4B3E-4DE6-B105-C29389B5CE18_1200x_094f88b8-7bcb-4dbe-952a-da5390748e0e.webp?v=1759755490&width=1024",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "PDRN",
+        "Retinal",
+        "Hippophae Rhamnoides Fruit Extract",
+        "Collagen",
+        "Adenosine",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "171",
+      "brand": "Seoul 1988",
+      "name": "Retinal Liposome 2% + Black Ginseng Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/8pki2lbmjkpch3fryaqe3m9j9s97",
+      "ingredients": [
+        "Panax Ginseng Root Extract (58%)",
+        "Water",
+        "Glycerin",
+        "Dipropylene Glycol",
+        "Caprylic/Capric Triglyceride",
+        "1,2-Hexanediol",
+        "Niacinamide",
+        "Retinal (0.02%)",
+        "Bakuchiol",
+        "Ascorbic Acid",
+        "Lecithin",
+        "Adenosine",
+        "Peptides"
+      ]
+    },
+    {
+      "id": "172",
+      "brand": "Seoul 1988",
+      "name": "Retinal Liposome 4% + Fermented Bean Eye Cream",
+      "category": "Eye Care",
+      "origin": "South Korea",
+      "image": "https://koreangloweg.com/cdn/shop/files/ksecret-seoul1988-eye-cream-retinal-liposome-4-fermented-bean-6296733.png?v=1762484095",
+      "ingredients": [
+        "Lactobacillus/Soybean Ferment Extract",
+        "Water",
+        "Glycerin",
+        "Caprylic/Capric Triglyceride",
+        "Niacinamide",
+        "Retinal",
+        "Panthenol",
+        "Adenosine",
+        "Sodium Hyaluronate",
+        "Ceramide NP"
+      ]
+    },
+    {
+      "id": "173",
+      "brand": "Seoul 1988",
+      "name": "Retinal Liposome 1% + Fermented Rice Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://cdn.salla.sa/onxjbX/1bd98f3e-599d-46ef-8790-4a42f34a8758-500x500-pgCSuYXRmYOP9jn8mquuiw6U4oo93uL1o8xYcsNl.png",
+      "ingredients": [
+        "Water",
+        "Rice Ferment Filtrate (Sake)",
+        "Glycerin",
+        "Caprylic/Capric Triglyceride",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Retinal",
+        "Bakuchiol",
+        "Panthenol",
+        "Adenosine",
+        "Ceramide NP"
+      ]
+    },
+    {
+      "id": "174",
+      "brand": "Seoul 1988",
+      "name": "Snail Mucin 93% + Rice Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/01whbeumy5hyj99iqajpqat2azi2",
+      "ingredients": [
+        "Snail Secretion Filtrate (93%)",
+        "Oryza Sativa (Rice) Extract",
+        "Glycerin",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate",
+        "Allantoin",
+        "Panthenol",
+        "Arginine"
+      ]
+    },
+    {
+      "id": "175",
+      "brand": "Seoul 1988",
+      "name": "Pine Tree + Ceramide Sun Cream SPF50+ PA++++",
+      "category": "Sunscreen",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/k18eccue6esarxnr5ajrk0kq21j7",
+      "ingredients": [
+        "Water",
+        "Pinus Densiflora Leaf Extract",
+        "Dibutyl Adipate",
+        "Propanediol",
+        "Ethylhexyl Triazone",
+        "Niacinamide",
+        "Ceramide NP",
+        "Hyaluronic Acid",
+        "Adenosine"
+      ]
+    },
+    {
+      "id": "176",
+      "brand": "Seoul 1988",
+      "name": "Glow Serum: Niacinamide 15% + Yuja",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://hikoco.co.nz/cdn/shop/files/HIKOCO_K-Secret_SEOUL1988GlowSerum-Niacinamide15_Yuja_01_1024x1024.jpg?v=1765427060",
+      "ingredients": [
+        "Citrus Junos Fruit Extract (Yuja)",
+        "Niacinamide (15%)",
+        "Water",
+        "1,2-Hexanediol",
+        "Tranexamic Acid",
+        "Glutathione",
+        "Sodium Hyaluronate",
+        "Alpha-Arbutin"
+      ]
+    },
+    {
+      "id": "177",
+      "brand": "Mary & May",
+      "name": "Idebenone + Blackberry Complex Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://m.media-amazon.com/images/I/61ecGTaT1bL.jpg",
+      "ingredients": [
+        "Rubus Fruticosus (Blackberry) Fruit Extract (20%)",
+        "Euterpe Oleracea Fruit Extract",
+        "Vaccinium Angustifolium (Blueberry) Fruit Extract",
+        "Glycerin",
+        "Niacinamide",
+        "Hydroxydecyl Ubiquinone (Idebenone 1,000ppm)",
+        "Adenosine",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "178",
+      "brand": "Mary & May",
+      "name": "Idebenone Blackberry Intense Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://thekoreantouch.com/wp-content/uploads/2024/09/maryand-may-cream.webp",
+      "ingredients": [
+        "Rubus Fruticosus (Blackberry) Fruit Extract (63%)",
+        "Euterpe Oleracea Fruit Extract",
+        "Vaccinium Angustifolium (Blueberry) Fruit Extract",
+        "Glycerin",
+        "Niacinamide",
+        "Hydroxydecyl Ubiquinone (500ppm)",
+        "Ceramide NP",
+        "Ceramide NS",
+        "Ceramide AS",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Phytosphingosine"
+      ]
+    },
+    {
+      "id": "179",
+      "brand": "Mary & May",
+      "name": "Vegan Blackberry Complex Cream Essence",
+      "category": "Essence",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/lc59gxqsaagjkvvt93bbvpddyyhw",
+      "ingredients": [
+        "Water",
+        "Blackberry Fruit Extract (50,000ppm)",
+        "Blueberry Fruit Extract",
+        "Acai Berry Fruit Extract",
+        "Glycerin",
+        "Jojoba Seed Oil",
+        "Ceramide NP",
+        "Sodium Hyaluronate",
+        "Centella Asiatica Extract"
+      ]
+    },
+    {
+      "id": "180",
+      "brand": "Mary & May",
+      "name": "Tranexamic Acid + Glutathione Eye Cream",
+      "category": "Eye Care",
+      "origin": "South Korea",
+      "image": "https://faceshine.me/cdn/shop/files/mary-may-eye-cream-faceshine-lebanon.jpg?v=1687767403",
+      "ingredients": [
+        "Water",
+        "Ethylhexyl Palmitate",
+        "Glycerin",
+        "Niacinamide",
+        "Tranexamic Acid (1,000ppm)",
+        "Glutathione (1,000ppm)",
+        "Ascorbic Acid",
+        "Panthenol",
+        "Adenosine",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "181",
+      "brand": "Mary & May",
+      "name": "6 Peptide Complex Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://glowinbh.com/cdn/shop/files/MARY-AND-MAY-6-Peptide-complex-anti-ageing-serum.webp?v=1716795169&width=1024",
+      "ingredients": [
+        "Water",
+        "Glycereth-26",
+        "1,2-Hexanediol",
+        "Copper Tripeptide-1",
+        "Hexapeptide-11",
+        "Hexapeptide-9",
+        "Palmitoyl Pentapeptide-4",
+        "Palmitoyl Tripeptide-1",
+        "Tripeptide-1",
+        "Adenosine"
+      ]
+    },
+    {
+      "id": "182",
+      "brand": "Mary & May",
+      "name": "Citrus Unshiu + Tremella Fuciformis Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://www.permoon.co.uk/user/products/large/8809670680855.jpg",
+      "ingredients": [
+        "Citrus Unshiu Fruit Extract (83.5%)",
+        "Tremella Fuciformis (Mushroom) Extract (9.7%)",
+        "Arbutin",
+        "Glycereth-26",
+        "1,2-Hexanediol",
+        "Arginine",
+        "Ethylhexylglycerin"
+      ]
+    },
+    {
+      "id": "183",
+      "brand": "Mary & May",
+      "name": "Houttuynia Cordata + Tea Tree Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/qabaacxfeq9rrpcgkz85x39z769o",
+      "ingredients": [
+        "Houttuynia Cordata Extract (85%)",
+        "Melaleuca Alternifolia (Tea Tree) Extract (9.7%)",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Arginine",
+        "Ethylhexylglycerin"
+      ]
+    },
+    {
+      "id": "184",
+      "brand": "Mary & May",
+      "name": "Sensitive Soothing Gel Blemish Cream",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://d1aq4ubbxe020v.cloudfront.net/image/product/34921/51037400_1744633042_4153591dd74ebe5b6e56ba772406daee-500x500.png?format=png",
+      "ingredients": [
+        "Houttuynia Cordata Extract (71.8%)",
+        "Melaleuca Alternifolia (Tea Tree) Extract (9.7%)",
+        "Glycerin",
+        "Panthenol",
+        "Arginine",
+        "Sodium Hyaluronate",
+        "Allantoin",
+        "Dipotassium Glycyrrhizate"
+      ]
+    },
+    {
+      "id": "185",
+      "brand": "Mary & May",
+      "name": "Vitamin C + Bifida Lotion",
+      "category": "Moisturizer",
+      "origin": "South Korea",
+      "image": "https://static.sweetcare.com/img/prd/488/v-638233397653506067/mary-and-may-017800yy_01.webp",
+      "ingredients": [
+        "Bifida Ferment Lysate (30,000ppm)",
+        "Vitamin C (Ascorbic Acid)",
+        "Niacinamide",
+        "Panthenol",
+        "Adenosine",
+        "Sodium Hyaluronate",
+        "Glycerin"
+      ]
+    },
+    {
+      "id": "186",
+      "brand": "Mary & May",
+      "name": "Rose Hyaluronic Hydra Wash Off Pack",
+      "category": "Mask",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/29jkdtgayqjctx94lsrdwcny7386",
+      "ingredients": [
+        "Water",
+        "Kaolin",
+        "Glycerin",
+        "Damask Rose Flower Water (9,300ppm)",
+        "Rose Flower Extract",
+        "Sodium Hyaluronate",
+        "Centella Asiatica Extract",
+        "Fig Fruit Extract"
+      ]
+    },
+    {
+      "id": "187",
+      "brand": "iUNIK",
+  "name": "Beta-Glucan Power Moisture Serum",
+  "category": "Serum",
+  "origin": "South Korea",
+  "image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/iuk/iuk95609/l/50.jpg",
+  "ingredients": [
+    "Beta-Glucan (400,000ppm)",
+    "Water",
+    "Glycerin",
+    "1,2-Hexanediol",
+    "Butylene Glycol",
+    "Adenosine",
+    "Tromethamine",
+    "Sodium PCA",
+    "Carbomer",
+    "Sodium Polyacrylate"
+  ]
+    },
+    {
+      "id": "188",
+      "brand": "Abib",
+      "name": "Collagen Eye Patch Jericho Rose Jelly",
+      "category": "Eye Care",
+      "origin": "South Korea",
+      "image": "https://glowinbh.com/cdn/shop/files/ABIB-Collagen-Eye-Patch-Jericho-Rose-Jelly-60pcs-PURESEOUL-UK-KBeauty-Shop.webp?v=1716017920",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "Chondrus Crispus Powder",
+        "Collagen Extract (10,780ppm)",
+        "1,2-Hexanediol",
+        "Betaine",
+        "Anastatica Hierochuntica (Jericho Rose) Extract",
+        "Butyrospermum Parkii (Shea) Butter",
+        "Sodium Hyaluronate",
+        "Caffeine",
+        "Ceramide NP",
+        "Palmitoyl Tripeptide-5",
+        "Allantoin",
+        "Panthenol"
+      ]
+    },
+    {
+      "id": "189",
+      "brand": "Cos de BAHA",
+      "name": "AZ Azelaic Acid 10% Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://shajelle.com/cdn/shop/files/1_1_05ffb5b8-9ed5-45d0-a21d-7239a3d571b1.png?v=1759238639",
+      "ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Propylene Glycol",
+        "Azelaic Acid (10%)",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate",
+        "Panthenol",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "190",
+      "brand": "Cos de BAHA",
+      "name": "TN Tranexamic Acid 5% Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://cdn.shopify.com/s/files/1/0055/3238/5354/products/amazon_TN60_02.png?v=1657008897",
+      "ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Tranexamic Acid (5%)",
+        "Niacinamide (5%)",
+        "1,2-Hexanediol",
+        "Glycerin",
+        "Sodium Hyaluronate",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "191",
+      "brand": "Cos de BAHA",
+      "name": "N Niacinamide 10% Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://www.cosdebaha.com/cdn/shop/products/415jMaCchEL_1024x1024.jpg?v=1555237220",
+      "ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Niacinamide (10%)",
+        "Propanediol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Zinc PCA (1%)",
+        "Sodium Hyaluronate",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "192",
+      "brand": "Cos de BAHA",
+      "name": "RS Retinol 2.5% Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://www.cosdebaha.com/cdn/shop/products/amazon_retinol_01_1024x1024.png?v=1620827243",
+      "ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Retinol (2.5%)",
+        "Sodium Hyaluronate",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Tocopheryl Acetate",
+        "Panthenol",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "193",
+      "brand": "Cos de BAHA",
+      "name": "VA Vitamin C 15% Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://www.cosdebaha.com/cdn/shop/products/716O47q2jWL._SL1500_1024x1024.jpg?v=1615203373",
+      "ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Sodium Ascorbyl Phosphate (15%)",
+        "Propanediol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Ferulic Acid",
+        "Panthenol",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "194",
+      "brand": "Cos de BAHA",
+      "name": "P M.A Peptide Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71CAzWa8iiL.jpg",
+      "ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Matrixyl 3000",
+        "Argireline",
+        "Adenosine",
+        "Sodium Hyaluronate",
+        "Beta-Glucan"
+      ]
+    },
+    {
+      "id": "195",
+      "brand": "Cos de BAHA",
+      "name": "S4 Salicylic Acid 4% Serum",
+      "category": "Exfoliant",
+      "origin": "South Korea",
+      "image": "https://beauty-health.rs/wp-content/uploads/2025/01/COS-DE-BAHA-Salicylic-Acid-4-serum-.jpg",
+      "ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Cocamidopropyl Dimethylamine",
+        "Salicylic Acid (4%)",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate",
+        "Niacinamide"
+      ]
+    },
+    {
+      "id": "196",
+      "brand": "Cos de BAHA",
+      "name": "HB Hydroquinone Brightening Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://www.cosdebaha.com/cdn/shop/products/Hydroquinone08_1024x1024.png?v=1615805774",
+      "ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Arbutin",
+        "Niacinamide",
+        "1,2-Hexanediol",
+        "Hydroquinone (2%)",
+        "Sodium Hyaluronate",
+        "Kojic Acid"
+      ]
+    },
+    {
+      "id": "197",
+      "brand": "Cos de BAHA",
+      "name": "GN Galactomyces 94 Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://cosdebaha.com.au/cdn/shop/products/galactomycesserum1.jpg?v=1741696193",
+      "ingredients": [
+        "Galactomyces Ferment Filtrate (94%)",
+        "Niacinamide (2%)",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate",
+        "Panthenol",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "198",
+      "brand": "Cos de BAHA",
+      "name": "SS Snail Mucin 83% Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://cosdebaha.com.au/cdn/shop/products/snailmucinserum1.jpg?v=1741700777",
+      "ingredients": [
+        "Snail Secretion Filtrate (83%)",
+        "Propanediol",
+        "Glycerin",
+        "Niacinamide (2%)",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate",
+        "Allantoin"
+      ]
+    },
+    {
+      "id": "199",
+      "brand": "Cos de BAHA",
+      "name": "LS Lactic Acid 12.5% Serum",
+      "category": "Exfoliant",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/l16d6yw6hlwgxbpdroi3prziiesj",
+      "ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Lactic Acid (12.5%)",
+        "Propanediol",
+        "Sodium Citrate",
+        "1,2-Hexanediol",
+        "Arginine",
+        "Hydroxyethylcellulose",
+        "Camellia Sinensis Leaf Extract",
+        "Sambucus Nigra Flower Extract"
+      ]
+    },
+    {
+      "id": "200",
+      "brand": "Cos de BAHA",
+      "name": "G Glycolic Acid 10% Serum",
+      "category": "Exfoliant",
+      "origin": "South Korea",
+      "image": "https://www.cosdebaha.com/cdn/shop/products/gloco_png_03_1024x1024.png?v=1636983499",
+      "ingredients": [
+        "Aloe Barbadensis Leaf Extract",
+        "Glycolic Acid (10%)",
+        "Propanediol",
+        "1,2-Hexanediol",
+        "Sodium Hyaluronate",
+        "Witch Hazel Leaf Extract",
+        "Rosemary Extract",
+        "Eucalyptus Leaf Extract"
+      ]
+    },
+    {
+      "id": "201",
+      "brand": "Heimish",
+      "name": "All Clean Balm",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/tah8vvjrrxk45ygxnx9p0azq4lwt",
+      "ingredients": [
+        "Ethylhexyl Palmitate",
+        "Cetyl Ethylhexanoate",
+        "PEG-20 Glyceryl Triisostearate",
+        "Polyethylene",
+        "PEG-8 Isostearate",
+        "1,2-Hexanediol",
+        "Butyrospermum Parkii (Shea) Butter",
+        "Tocopheryl Acetate",
+        "Citrus Aurantium Dulcis (Orange) Peel Oil",
+        "Lavandula Angustifolia (Lavender) Oil",
+        "Amyris Balsamifera Bark Oil",
+        "Eucalyptus Globulus Leaf Oil",
+        "Melaleuca Alternifolia (Tea Tree) Leaf Oil",
+        "Cocos Nucifera (Coconut) Fruit Extract"
+      ]
+    },
+    {
+      "id": "202",
+      "brand": "Heimish",
+      "name": "All Clean Green Foam",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://koreanskincare.co.uk/cdn/shop/files/Product-page-sizes-v2_925f123a-5a41-48a7-ba7f-d5fac7b42f4a_grande.jpg?v=1751281534",
+      "ingredients": [
+        "Water",
+        "Potassium Laureth Phosphate",
+        "Glycerin",
+        "Lauryl Hydroxysultaine",
+        "Acrylates/C10-30 Alkyl Acrylate Crosspolymer",
+        "Quillaja Saponaria Bark Extract",
+        "Centella Asiatica Extract",
+        "Hamamelis Virginiana (Witch Hazel) Water",
+        "Potassium Cocoyl Glutamate",
+        "Citric Acid",
+        "Coco-Glucoside",
+        "Sodium Chloride",
+        "Caprylyl Glycol"
+      ]
+    },
+    {
+      "id": "203",
+      "brand": "Heimish",
+      "name": "All Clean White Clay Foam",
+      "category": "Cleanser",
+      "origin": "South Korea",
+      "image": "https://koreanskincare.co.uk/cdn/shop/files/Product-page-sizes_d685f9b9-9329-44f3-b654-6ed863bc3676.jpg?v=1752979003",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Stearic Acid",
+        "Myristic Acid",
+        "PEG-32",
+        "Potassium Hydroxide",
+        "Lauric Acid",
+        "Bentonite",
+        "Potassium Cocoate",
+        "Butylene Glycol",
+        "Cocamidopropyl Betaine",
+        "Potassium Cocoyl Glycinate",
+        "Glyceryl Stearate",
+        "PEG-100 Stearate",
+        "Kaolin",
+        "Hyaluronic Acid"
+      ]
+    },
+    {
+      "id": "204",
+      "brand": "Purito Seoul",
+  "name": "Oat-In Calming Gel Cream",
+  "category": "Moisturizer",
+  "origin": "South Korea",
+  "image": "https://storage.skinsort.com/vfg44ijwcax92jlljjgyg33dih3p",
+  "ingredients": [
+    "Avena Sativa (Oat) Seed Water (77%)",
+    "Butylene Glycol",
+    "Glycerin",
+    "2,3-Butanediol",
+    "1,2-Hexanediol",
+    "Water",
+    "Ammonium Acryloyldimethyltaurate/VP Copolymer",
+    "Squalane",
+    "Hydroxyacetophenone",
+    "Carbomer",
+    "Dipotassium Glycyrrhizate",
+    "Panthenol",
+    "Tromethamine",
+    "Ethylhexylglycerin",
+    "Inulin Lauryl Carbamate",
+    "Sodium Surfactin",
+    "Beta-Glucan"
+  ]
+    },
+    {
+      "id": "205",
+      "brand": "AXIS-Y",
+      "name": "Vegan Collagen Eye Serum",
+      "category": "Eye Care",
+      "origin": "South Korea",
+      "image": "https://international-cosmetic.com/cdn/shop/files/AXIS-Y_VeganCollagenEyeSerum-10ml._grande.png?v=1769029974",
+      "ingredients": [
+        "Water",
+        "Methylpropanediol",
+        "Glycerin",
+        "1,2-Hexanediol",
+        "Niacinamide",
+        "Collagen (Vegan)",
+        "Leontopodium Alpinum Callus Culture Extract",
+        "Centella Asiatica Extract",
+        "Sodium Hyaluronate",
+        "Adenosine",
+        "Sunflower Seed Oil",
+        "Grape Fruit Extract"
+      ]
+    },
+    {
+      "id": "206",
+      "brand": "Eqqualberry",
+      "name": "Aloe PDRN Calming Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://storage.skinsort.com/hxvo29dc9tfavkoemr56ewv7r5qg",
+      "ingredients": [
+        "Aloe Barbadensis Leaf Water",
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "Sodium DNA (PDRN)",
+        "Panthenol",
+        "Allantoin",
+        "Sodium Hyaluronate",
+        "Centella Asiatica Extract",
+        "Xanthan Gum",
+        "1,2-Hexanediol"
+      ]
+    },
+    {
+      "id": "207",
+      "brand": "Anua",
+      "name": "Niacinamide 10% + TXA 4% Serum",
+      "category": "Serum",
+      "origin": "South Korea",
+      "image": "https://darbeauty.com/cdn/shop/files/anua-niacinamide-10-txa-4-serum_8809640734526_DarBeauty.webp?v=1742588874&width=2048",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Niacinamide (10%)",
+        "Tranexamic Acid (4%)",
+        "Butylene Glycol",
+        "Arbutin",
+        "Glutathione",
+        "Centella Asiatica Extract",
+        "Ceramide NP",
+        "Sodium Hyaluronate",
+        "1,2-Hexanediol",
+        "Panthenol"
+      ]
+    },
+    {
+      "id": "208",
+      "brand": "Etude",
+  "name": "Soon Jung pH 6.5 Whip Cleanser",
+  "category": "Cleanser",
+  "origin": "South Korea",
+  "image": "https://storage.skinsort.com/rc0zei81xvrpzw78hgho9iazqdv4",
+  "ingredients": [
+    "Water",
+    "Glycerin",
+    "Sorbitol",
+    "Propanediol",
+    "Lauryl Glucoside",
+    "Disodium Cocoyl Glutamate",
+    "Panthenol",
+    "Citric Acid",
+    "Glyceryl Caprylate",
+    "Ethylhexylglycerin",
+    "Madecassoside",
+    "Butylene Glycol",
+    "Tocopherol",
+    "Camellia Sinensis Leaf Extract"
+  ]
+    },
+    {
+      "id": "209",
+      "brand": "Beplain",
+  "name": "Mung Bean pH-Balanced Cleansing Foam",
+  "category": "Cleanser",
+  "origin": "South Korea",
+  "image": "https://m.media-amazon.com/images/I/51UoVqQQE7L._SL1080_.jpg",
+  "ingredients": [
+    "Glycerin",
+    "Vigna Radiata (Mung Bean) Seed Extract (33%)",
+    "Sodium Cocoyl Glycinate",
+    "Sodium Lauroyl Glutamate",
+    "Water",
+    "1,2-Hexanediol",
+    "Hydroxypropyl Starch Phosphate",
+    "Phaseolus Radiatus (Mung Bean) Seed Powder (0.9%)",
+    "Lauryl Betaine",
+    "Ethylhexylglycerin",
+    "Centella Asiatica Extract",
+    "Ficus Carica (Fig) Fruit Extract",
+    "Phellodendron Amurense Bark Extract",
+    "Ceramide NP",
+    "Sodium Hyaluronate"
+  ]
+    },
+    {
+      "id": "210",
+      "brand": "Bioderma",
+  "name": "Sensibio Gel Moussant (Soothing Foaming Gel)",
+  "category": "Cleanser",
+  "origin": "France",
+  "image": "https://v2cdn.boutiqaat.com/media/catalog/product/3/4/3401381507565.png",
+  "ingredients": [
+    "Water (Aqua)",
+    "Sodium Cocoamphoacetate",
+    "Propanediol",
+    "Sodium Lauroyl Sarcosinate",
+    "Citric Acid",
+    "Coco-Glucoside",
+    "Glyceryl Oleate",
+    "Sodium Citrate",
+    "PEG-90 Glyceryl Isostearate",
+    "Mannitol",
+    "Xylitol",
+    "Laureth-2",
+    "Rhamnose",
+    "Fructooligosaccharides",
+    "Tocopherol",
+    "Hydrogenated Palm Glycerides Citrate",
+    "Lecithin",
+    "Ascorbyl Palmitate"
+  ]
+    },
+    {
+      "id": "211",
+      "brand": "La Roche-Posay",
+      "name": "Cicaplast Baume B5+",
+      "category": "Moisturizer",
+      "origin": "France",
+      "image": "https://www.laroche-posay.me/-/media/project/loreal/brand-sites/lrp/apac/mena/products/cicaplast/cicaplast-baume-b5-plus/larocheposayproductcicaplastbaumeb5100ml3337875816847.png",
+      "ingredients": [
+        "Aqua",
+        "Hydrogenated Polyisobutene",
+        "Dimethicone",
+        "Glycerin",
+        "Butyrospermum Parkii Butter",
+        "Panthenol (5%)",
+        "Madecassoside",
+        "Manganese Gluconate",
+        "Zinc Gluconate",
+        "Copper Gluconate"
+      ]
+    },
+    {
+      "id": "212",
+      "brand": "Drunk Elephant",
+      "name": "Protini Polypeptide Cream",
+      "category": "Moisturizer",
+      "origin": "USA",
+      "image": "https://www.lookfantastic.com/images?url=https://static.thcdn.com/productimg/original/13310322-1045202028661163.jpg&format=webp&auto=avif&width=985&height=985&fit=cover",
+      "ingredients": [
+        "Water",
+        "Dicaprylyl Carbonate",
+        "Glycerin",
+        "Cetearyl Olivate",
+        "9 Signal Peptide Complex",
+        "Pygmy Waterlily Stem Cell Extract",
+        "Soybean Folic Acid Ferment Extract",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "213",
+      "brand": "SkinCeuticals",
+      "name": "C E Ferulic",
+      "category": "Serum",
+      "origin": "USA",
+      "image": "https://www.ubuy.com.bh/productimg/?image=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9JLzYxUGlaRWlVVFFMLl9TUzQwMF8uanBn.jpg",
+      "ingredients": [
+        "Water",
+        "Ethoxydiglycol",
+        "L-Ascorbic Acid (15%)",
+        "Glycerin",
+        "Propylene Glycol",
+        "Panthenol",
+        "Phenoxyethanol",
+        "Tocopherol (1%)",
+        "Sodium Hyaluronate",
+        "Ferulic Acid (0.5%)"
+      ]
+    },
+    {
+      "id": "214",
+      "brand": "Good Molecules",
+      "name": "Discoloration Correcting Serum",
+      "category": "Serum",
+      "origin": "USA",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/417FyNHOfaL.jpg",
+      "ingredients": [
+        "Water",
+        "Niacinamide",
+        "Cetyl Ethylhexanoate",
+        "Tranexamic Acid (2%)",
+        "Cetearyl Alcohol",
+        "Dipropylene Glycol",
+        "Glyceryl Stearate",
+        "1,2-Hexanediol"
+      ]
+    },
+    {
+      "id": "215",
+      "brand": "Youth To The People",
+      "name": "Superfood Cleanser",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://m.media-amazon.com/images/I/61XDEMjJlML._SL400_.jpg",
+      "ingredients": [
+        "Water",
+        "Sodium Cocoyl Glutamate",
+        "Cocamidopropyl Betaine",
+        "Spinacia Oleracea (Spinach) Leaf Extract",
+        "Brassica Oleracea Acephala (Kale) Leaf Extract",
+        "Camellia Sinensis (Green Tea) Leaf Extract",
+        "Ascorbic Acid"
+      ]
+    },
+    {
+      "id": "216",
+      "brand": "Vanicream",
+      "name": "Gentle Facial Cleanser",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/611NyPcyZtL.jpg",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Coco-Glucoside",
+        "Sodium Cocoyl Glycinate",
+        "Acrylates Copolymer",
+        "Caprylyl Glycol",
+        "Mica",
+        "Sodium Chloride",
+        "Disodium EDTA"
+      ]
+    },
+    {
+      "id": "217",
+      "brand": "Vanicream",
+      "name": "Daily Facial Moisturizer",
+      "category": "Moisturizer",
+      "origin": "USA",
+      "image": "https://m.media-amazon.com/images/I/61KvPxEVJlL._SL1000_.jpg",
+      "ingredients": [
+        "Water",
+        "Squalane",
+        "Glycerin",
+        "Cetearyl Alcohol",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Ceramide NG",
+        "Ceramide AS",
+        "Phytosphingosine",
+        "Hyaluronic Acid"
+      ]
+    },
+    {
+      "id": "218",
+      "brand": "La Roche-Posay",
+      "name": "Toleriane Hydrating Gentle Cleanser",
+      "category": "Cleanser",
+      "origin": "France",
+      "image": "https://m.media-amazon.com/images/I/613Gx2guOML._AC_UF1000,1000_QL80_.jpg",
+      "ingredients": [
+        "Aqua",
+        "Glycerin",
+        "Pentaerythrityl Tetraethylhexanoate",
+        "Propylene Glycol",
+        "Ammonium Polyacryloyldimethyl Taurate",
+        "Ceramide NP",
+        "Niacinamide",
+        "Sodium Chloride",
+        "Coco-Betaine"
+      ]
+    },
+    {
+      "id": "219",
+      "brand": "Cetaphil",
+      "name": "Gentle Skin Cleanser",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://cdn.shopify.com/s/files/1/2488/5102/files/sku-2268-4ec20f.jpg?v=1760514520",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Cetearyl Alcohol",
+        "Panthenol",
+        "Niacinamide",
+        "Pantolactone",
+        "Xanthan Gum",
+        "Sodium Cocoyl Isethionate",
+        "Sodium Benzoate",
+        "Citric Acid"
+      ]
+    },
+    {
+      "id": "220",
+      "brand": "Aveeno",
+      "name": "Calm + Restore Oat Gel Moisturizer",
+      "category": "Moisturizer",
+      "origin": "USA",
+      "image": "https://static.thcdn.com/images/large/original//productimg/1600/1600/14574353-7855074440215514.jpg",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Dimethicone",
+        "Cetearyl Olivate",
+        "Avena Sativa (Oat) Kernel Flour",
+        "Avena Sativa (Oat) Kernel Extract",
+        "Chrysanthemum Parthenium (Feverfew) Flower Juice",
+        "Hyaluronic Acid"
+      ]
+    },
+    {
+      "id": "221",
+      "brand": "Eucerin",
+      "name": "Advanced Repair Cream",
+      "category": "Moisturizer",
+      "origin": "Germany",
+      "image": "https://storage.skinsort.com/1aams7crv69zck3ofaadtbn1ee4h",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Urea",
+        "Cetearyl Alcohol",
+        "Glyceryl Glucoside",
+        "Cyclomethicone",
+        "Sodium Lactate",
+        "Butyrospermum Parkii (Shea) Butter",
+        "Ceramide NP"
+      ]
+    },
+    {
+      "id": "222",
+      "brand": "Aquaphor",
+      "name": "Healing Ointment",
+      "category": "Treatments",
+      "origin": "Germany/USA",
+      "image": "https://static.beautytocare.com/cdn-cgi/image/width=1600,height=1600,f=auto/media/catalog/product//e/u/eucerin-aquaphor-repairing-ointment-45ml_6.jpg",
+      "ingredients": [
+        "Petrolatum (41%)",
+        "Mineral Oil",
+        "Ceresin",
+        "Lanolin Alcohol",
+        "Panthenol",
+        "Glycerin",
+        "Bisabolol"
+      ]
+    },
+    {
+      "id": "223",
+      "brand": "Bioderma",
+      "name": "Sensibio H2O Micellar Water",
+      "category": "Cleanser",
+      "origin": "France",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51D9UzBWcqL.jpg",
+      "ingredients": [
+        "Water",
+        "PEG-6 Caprylic/Capric Glycerides",
+        "Fructooligosaccharides",
+        "Mannitol",
+        "Xylitol",
+        "Rhamnose",
+        "Cucumis Sativus (Cucumber) Fruit Extract",
+        "Propylene Glycol"
+      ]
+    },
+    {
+      "id": "224",
+      "brand": "La Roche-Posay",
+      "name": "Effaclar Duo+M Anti-Blemish Corrective Care",
+      "category": "Treatments",
+      "origin": "France",
+      "image": "https://www.laroche-posay.me/-/media/project/loreal/brand-sites/lrp/apac/mena/products/effaclar/effaclar-duo-plus-m/lrp-effaclar-duo-m-front-pack-rront.png",
+      "ingredients": [
+        "Aqua",
+        "Glycerin",
+        "Niacinamide",
+        "Salicylic Acid",
+        "Zinc PCA",
+        "Phylobioma Active",
+        "Capryloyl Salicylic Acid",
+        "Mannose",
+        "Procerad",
+        "Ammonium Polyacryloyldimethyl Taurate"
+      ]
+    },
+    {
+      "id": "225",
+      "brand": "La Roche-Posay",
+      "name": "Anthelios UVMune 400 Invisible Fluid SPF50+",
+      "category": "Sunscreen",
+      "origin": "France",
+      "image": "https://www.laroche-posay.me/-/media/project/loreal/brand-sites/lrp/apac/my/products/anthelios/anthelios-uvmune-400-invisible-fluid-spf50--plus-non-perfumed/lrpproductpagesunantheliosuvmune400fluidspspf503337875797597frontpng.png",
+      "ingredients": [
+        "Aqua",
+        "Alcohol Denat.",
+        "Triethyl Citrate",
+        "Silica",
+        "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine",
+        "Mexoryl 400",
+        "Ethylhexyl Triazone",
+        "Butyl Methoxydibenzoylmethane",
+        "Glycerin"
+      ]
+    },
+    {
+      "id": "226",
+      "brand": "La Roche-Posay",
+      "name": "Hyalu B5 Serum",
+      "category": "Serum",
+      "origin": "France",
+      "image": "https://storage.skinsort.com/yy2nscqstni37t2302ryqo3pwzpb",
+      "ingredients": [
+        "Aqua",
+        "Glycerin",
+        "Alcohol Denat.",
+        "Panthenol (5%)",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Hyaluronic Acid",
+        "Madecassoside",
+        "Adenosine",
+        "Tocopherol"
+      ]
+    },
+    {
+      "id": "227",
+      "brand": "La Roche-Posay",
+      "name": "Mela B3 Dark Spot Serum",
+      "category": "Serum",
+      "origin": "France",
+      "image": "https://shop.prohealth.com.mt/cdn/shop/files/BC_Upload_145c18df-2f22-4d47-826d-567e194a637e.png?v=1715929631",
+      "ingredients": [
+        "Aqua",
+        "Niacinamide (10%)",
+        "Glycerin",
+        "Melasyl",
+        "Hyaluronic Acid",
+        "LHA (Capryloyl Salicylic Acid)",
+        "Carnosine",
+        "Dipotassium Glycyrrhizate"
+      ]
+    },
+    {
+      "id": "228",
+      "brand": "La Roche-Posay",
+      "name": "Pure Vitamin C10 Serum",
+      "category": "Serum",
+      "origin": "France",
+      "image": "https://www.laroche-posay.me/-/media/project/loreal/brand-sites/lrp/apac/mena/products/redermic/c10/la-roche-posay-productpage-anti-aging-pure-vitamin-c10-30ml-3337875660570-front.png",
+      "ingredients": [
+        "Aqua",
+        "Ascorbic Acid (10%)",
+        "Glycerin",
+        "Salicylic Acid",
+        "Neurosensine",
+        "Sodium Hyaluronate",
+        "Adenosine",
+        "Tocopherol",
+        "Phytic Acid"
+      ]
+    },
+    {
+      "id": "229",
+      "brand": "La Roche-Posay",
+      "name": "Retinol B3 Serum",
+      "category": "Serum",
+      "origin": "France",
+      "image": "https://www.laroche-posay.co.uk/dw/image/v2/AAQP_PRD/on/demandware.static/-/Sites-lrp-ng-master-catalog/default/dw519435d8/LRP_Product/Retinol/3337875694469_Retinol-B3-Anti-Ageing-Serum-for-Sensitive-Skin_30ml_01_La-Roche-Posay.jpg",
+      "ingredients": [
+        "Aqua",
+        "Glycerin",
+        "Niacinamide",
+        "Retinol",
+        "Gradual Release Retinol",
+        "Sodium Hyaluronate",
+        "Adenosine",
+        "Glycine Soja Oil",
+        "Tocopherol"
+      ]
+    },
+    {
+      "id": "230",
+      "brand": "La Roche-Posay",
+      "name": "Lipikar Baume AP+M",
+      "category": "Moisturizer",
+      "origin": "France",
+      "image": "https://www.laroche-posay.me/-/media/project/loreal/brand-sites/lrp/apac/mena/products/lipikar/lipikar-baume-ap-plus-m/larocheposaybodycarelipikarbaumeapl400mllipidreplenishingbalmantiirritation3337872418570front.png",
+      "ingredients": [
+        "Aqua",
+        "Butyrospermum Parkii (Shea) Butter",
+        "Glycerin",
+        "Niacinamide",
+        "Aqua Posae Filiformis",
+        "Microresyl",
+        "Brassica Campestris Seed Oil",
+        "Tocopherol"
+      ]
+    },
+    {
+      "id": "231",
+      "brand": "CeraVe",
+      "name": "Resurfacing Retinol Serum",
+      "category": "Serum",
+      "origin": "USA",
+      "image": "https://storage.skinsort.com/14kpji8jq2sxphuc7ycpzkus4amv",
+      "ingredients": [
+        "Water",
+        "Niacinamide",
+        "Encapsulated Retinol",
+        "Glycyrrhiza Glabra (Licorice) Root Extract",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Phytosphingosine",
+        "Hyaluronic Acid"
+      ]
+    },
+    {
+      "id": "232",
+      "brand": "CeraVe",
+      "name": "Renewing SA Cleanser",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/618sG1QinaL.jpg",
+      "ingredients": [
+        "Water",
+        "Cocamidopropyl Hydroxysultaine",
+        "Glycerin",
+        "Salicylic Acid",
+        "Niacinamide",
+        "Gluconolactone",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Hyaluronic Acid",
+        "Vitamin D"
+      ]
+    },
+    {
+      "id": "233",
+      "brand": "CeraVe",
+      "name": "Skin Renewing Night Cream",
+      "category": "Moisturizer",
+      "origin": "USA",
+      "image": "https://storage.skinsort.com/8pybhtnfw8k0s8xk03khuutw0g6q",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Caprylic/Capric Triglyceride",
+        "Butyrospermum Parkii (Shea) Butter",
+        "Niacinamide",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Peptide Complex",
+        "Hyaluronic Acid"
+      ]
+    },
+    {
+      "id": "234",
+      "brand": "CeraVe",
+      "name": "AM Facial Moisturizing Lotion SPF 30",
+      "category": "Sunscreen",
+      "origin": "USA",
+      "image": "https://storage.skinsort.com/7oc97n3fa1y9npnj1bgo44daqqq5",
+      "ingredients": [
+        "Homosalate",
+        "Meradimate",
+        "Octinoxate",
+        "Octocrylene",
+        "Zinc Oxide",
+        "Water",
+        "Niacinamide",
+        "Glycerin",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Hyaluronic Acid"
+      ]
+    },
+    {
+      "id": "235",
+      "brand": "CeraVe",
+      "name": "PM Facial Moisturizing Lotion",
+      "category": "Moisturizer",
+      "origin": "USA",
+      "image": "https://i5.walmartimages.com/seo/CeraVe-PM-Facial-Moisturizing-Lotion-Night-Cream-with-Hyaluronic-Acid-and-Niacinamide-Ultra-Lightweight-Oil-Free-Moisturizer-for-Face-3-Ounce_6d282a77-d2ec-4196-8b17-ef03991a00e2.eaf4b82306ef8f04441c62bab1a96d2e.jpeg",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Caprylic/Capric Triglyceride",
+        "Niacinamide",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Hyaluronic Acid",
+        "Cholesterol",
+        "Phytosphingosine"
+      ]
+    },
+    {
+      "id": "236",
+      "brand": "CeraVe",
+      "name": "Acne Foaming Cream Cleanser (4% BPO)",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81OQHXYinzL.jpg",
+      "ingredients": [
+        "Benzoyl Peroxide (4%)",
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Hyaluronic Acid",
+        "Glycolic Acid"
+      ]
+    },
+    {
+      "id": "237",
+      "brand": "CeraVe",
+      "name": "Skin Renewing Vitamin C Serum",
+      "category": "Serum",
+      "origin": "USA",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71h9qjljxIL.jpg",
+      "ingredients": [
+        "Water",
+        "Ascorbic Acid (10%)",
+        "Glycerin",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Hyaluronic Acid",
+        "Panthenol"
+      ]
+    },
+    {
+      "id": "238",
+      "brand": "CeraVe",
+      "name": "Healing Ointment",
+      "category": "Treatments",
+      "origin": "USA",
+      "image": "https://storage.skinsort.com/85ua5ewqy4a9797v42dibipg6nn8",
+      "ingredients": [
+        "Petrolatum",
+        "Mineral Oil",
+        "Paraffin",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Hyaluronic Acid",
+        "Panthenol",
+        "Proline"
+      ]
+    },
+    {
+      "id": "239",
+      "brand": "Cetaphil",
+      "name": "Gentle Skin Cleanser (New Formula)",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://thehealthpharmacy.co.uk/wp-content/uploads/2024/02/Cetaphil-Gentle-Skin-Cleanser.jpg",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Cetearyl Alcohol",
+        "Panthenol",
+        "Niacinamide",
+        "Pantolactone",
+        "Xanthan Gum",
+        "Sodium Cocoyl Isethionate",
+        "Sodium Benzoate",
+        "Citric Acid"
+      ]
+    },
+    {
+      "id": "240",
+      "brand": "Cetaphil",
+      "name": "Daily Facial Moisturizer SPF 35",
+      "category": "Sunscreen",
+      "origin": "USA",
+      "image": "https://i5.walmartimages.com/seo/Cetaphil-Face-Moisturizer-Daily-Oil-Free-Facial-Moisturizer-with-SPF-35-For-Dry-or-Oily-Combination-Sensitive-Skin-Fragrance-Free-Face-Lotion_6e99c8ff-7ebd-44fc-8870-f4d5913477a5.54b085dc59ea506f50b67e9d4ccec932.jpeg",
+      "ingredients": [
+        "Avobenzone (2.8%)",
+        "Homosalate (9.5%)",
+        "Octisalate (4.8%)",
+        "Octocrylene (7.0%)",
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "Panthenol",
+        "Leontopodium Alpinum (Edelweiss) Extract",
+        "Adenosine"
+      ]
+    },
+    {
+      "id": "241",
+      "brand": "Cetaphil",
+      "name": "Moisturizing Cream",
+      "category": "Moisturizer",
+      "origin": "USA",
+      "image": "https://www.healthana.co/cdn/shop/files/CETAPHILCREAM.webp?v=1716232989",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Petrolatum",
+        "Dicaprylyl Ether",
+        "Dimethicone",
+        "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+        "Cetyl Alcohol",
+        "Tocopheryl Acetate",
+        "Panthenol",
+        "Niacinamide"
+      ]
+    },
+    {
+      "id": "242",
+      "brand": "Cetaphil",
+      "name": "Healthy Renew Night Cream",
+      "category": "Moisturizer",
+      "origin": "USA",
+      "image": "https://i5.walmartimages.com/asr/973ccf2e-2f70-4fd7-8317-9a3aa0d6fee8.493da1550a397d8f45e341151ed0f5f5.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "ingredients": [
+        "Water",
+        "Propanediol",
+        "Glycerin",
+        "Niacinamide",
+        "Purified Peptides",
+        "Panthenol",
+        "Rice Lees Extract",
+        "Leontopodium Alpinum (Edelweiss) Extract",
+        "Butyrospermum Parkii (Shea) Butter"
+      ]
+    },
+    {
+      "id": "243",
+      "brand": "Cetaphil",
+      "name": "Deep Hydration 48H Activation Serum",
+      "category": "Serum",
+      "origin": "USA",
+      "image": "https://storage.skinsort.com/hlvql5i8yh4e95jfazs0yutqskhi",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Sorbitol",
+        "Helianthus Annuus (Sunflower) Seed Oil",
+        "Sodium Hyaluronate",
+        "Panthenol",
+        "Tocopherol",
+        "Citric Acid",
+        "Anhydroxylitol"
+      ]
+    },
+    {
+      "id": "244",
+      "brand": "Cetaphil",
+      "name": "Dermacontrol Oil Removing Foam Wash",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://bahrainpharmacy.com/store/wp-content/uploads/sites/2/2024/07/cetaphil-oil-foam.webp",
+      "ingredients": [
+        "Water",
+        "Zinc Coceth Sulfate",
+        "Glycerin",
+        "PEG-75",
+        "Dipotassium Glycyrrhizate",
+        "Zinc Gluconate",
+        "PEG-200 Hydrogenated Glyceryl Palmate",
+        "Sodium Benzoate"
+      ]
+    },
+    {
+      "id": "245",
+      "brand": "Cetaphil",
+      "name": "Hydrating Eye Gel-Cream",
+      "category": "Eye Care",
+      "origin": "USA",
+      "image": "https://i5.walmartimages.com/seo/Cetaphil-Hydrating-Eye-Gel-Cream-Hyaluronic-Acid-0-5-Fl-Oz-Brightens-Smooths-Eyes-24-Hour-Hydration-Skin-Types-Packaging-May-Vary_5c0f9988-1238-4aaa-94b4-9f8c22474613.baf5d5f06243176aabd010a3186fefbe.jpeg",
+      "ingredients": [
+        "Water",
+        "Cyclopentasiloxane",
+        "Glycerin",
+        "Niacinamide",
+        "Sodium Hyaluronate",
+        "Panthenol",
+        "Bisabolol",
+        "Glycyrrhiza Glabra (Licorice) Root Extract",
+        "Camellia Sinensis Leaf Extract"
+      ]
+    },
+    {
+      "id": "246",
+      "brand": "Cetaphil",
+      "name": "Bright Healthy Radiance Perfecting Serum",
+      "category": "Serum",
+      "origin": "USA",
+      "image": "https://guardian.com.sg/media/catalog/product/9/9/99aef88f66f4694df96da40adfa3624dfc41255aa570197c7f39b8c79000ef2b.jpeg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Niacinamide",
+        "3-O-Ethyl Ascorbic Acid",
+        "Acetyl Glycyl Beta-Alanine",
+        "Hydrolyzed Hyaluronic Acid",
+        "Pancratium Maritimum Extract",
+        "Tocopherol"
+      ]
+    },
+    {
+      "id": "247",
+      "brand": "Bioderma",
+      "name": "Sensibio H2O Micellar Water",
+      "category": "Cleanser",
+      "origin": "France",
+      "image": "https://bahrainpharmacy.com/store/wp-content/uploads/sites/2/2024/07/Bioderma-Sensibio-H2O-Micellar-Water-for-Sensitive-Skin-500ml-without-Pump-600x600.webp",
+      "ingredients": [
+        "Water (Aqua)",
+        "PEG-6 Caprylic/Capric Glycerides",
+        "Fructooligosaccharides",
+        "Mannitol",
+        "Xylitol",
+        "Rhamnose",
+        "Cucumis Sativus (Cucumber) Fruit Extract",
+        "Propylene Glycol",
+        "Cetrimonium Bromide",
+        "Disodium EDTA"
+      ]
+    },
+    {
+      "id": "248",
+      "brand": "Bioderma",
+      "name": "Atoderm Intensive Baume",
+      "category": "Moisturizer",
+      "origin": "France",
+      "image": "https://storage.skinsort.com/0nuuuvkbp2i9jecbytyabaq29y1p",
+      "ingredients": [
+        "Aqua",
+        "Glycerin",
+        "Paraffinum Liquidum",
+        "Helianthus Annuus (Sunflower) Seed Oil",
+        "Behenyl Alcohol",
+        "Sucrose Stearate",
+        "Canola Oil",
+        "Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+        "Pentylene Glycol",
+        "Beta-Sitosterol",
+        "Zinc Gluconate",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Cholesterol",
+        "Phytosphingosine"
+      ]
+    },
+    {
+      "id": "249",
+      "brand": "Bioderma",
+      "name": "Sébium Gel Moussant (Foaming Gel)",
+      "category": "Cleanser",
+      "origin": "France",
+      "image": "https://bahrainpharmacy.com/store/wp-content/uploads/sites/2/2024/07/bioderma-sebium-gel-moussant-purifying-foaming-gel-500ml.webp",
+      "ingredients": [
+        "Aqua",
+        "Sodium Cocoamphoacetate",
+        "Sodium Laureth Sulfate",
+        "Methylpropanediol",
+        "Disodium EDTA",
+        "Lactic Acid",
+        "Zinc Sulfate",
+        "Copper Sulfate",
+        "Potassium Sorbate",
+        "Ginkgo Biloba Leaf Extract",
+        "Fructooligosaccharides"
+      ]
+    },
+    {
+      "id": "250",
+      "brand": "Bioderma",
+      "name": "Hydrabio Hyalu+ Serum",
+      "category": "Serum",
+      "origin": "France",
+      "image": "https://drnutrition.com/storage/media/grUrCR3Ltcr7nvrFe0w9JhUyj7T2H7bQxf0SVyDF.jpg",
+      "ingredients": [
+        "Aqua",
+        "Butylene Glycol",
+        "Glycerin",
+        "Propanediol",
+        "Pentylene Glycol",
+        "Niacinamide",
+        "Hydrolyzed Hyaluronic Acid",
+        "Saccharide Isomerate",
+        "Sodium Hyaluronate",
+        "Carnosine",
+        "Adenosine",
+        "Tocopherol"
+      ]
+    },
+    {
+      "id": "251",
+      "brand": "Panoxyl",
+      "name": "Acne Foaming Wash (10% Benzoyl Peroxide)",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://i5.walmartimages.com/seo/Panoxyl-Acne-Foaming-Face-Wash-Benzoyl-Peroxide-10-Maximum-Strength-5-5-Oz_5a845ef4-1bc9-489a-a590-26c1ca3c3c14.33ed83b8d517a57f4cc4f9e16c23b66e.jpeg",
+      "ingredients": [
+        "Benzoyl Peroxide (10%)",
+        "Carbomer Homopolymer Type C",
+        "Decyl Glucoside",
+        "Dimethicone",
+        "Glycerin",
+        "Palmitic Acid",
+        "Polyacrylate Crosspolymer-6",
+        "Sodium Citrate",
+        "Sodium Hydroxide"
+      ]
+    },
+    {
+      "id": "252",
+      "brand": "Panoxyl",
+      "name": "Acne Creamy Wash (4% Benzoyl Peroxide)",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://i5.walmartimages.com/seo/PanOxyl-Acne-Creamy-Wash-Daily-Control-Face-Body-4-Benzoyl-Peroxide-All-Skin-Types-6-oz_7c3f76c0-2116-4e46-aba0-980a2c869101.c12a76462069bcd3d1ef0613de116c4f.jpeg",
+      "ingredients": [
+        "Benzoyl Peroxide (4%)",
+        "Glycerin",
+        "Glycolic Acid",
+        "Niacinamide",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Sodium Hyaluronate",
+        "Propanediol"
+      ]
+    },
+    {
+      "id": "253",
+      "brand": "Panoxyl",
+      "name": "Adapalene 0.1% Leave-On Gel",
+      "category": "Treatments",
+      "origin": "USA",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71N-7Mt8s3L.jpg",
+      "ingredients": [
+        "Adapalene (0.1%)",
+        "Carbomer 940",
+        "Edetate Disodium",
+        "Methylparaben",
+        "Poloxamer 182",
+        "Propylene Glycol",
+        "Purified Water",
+        "Sodium Hydroxide"
+      ]
+    },
+    {
+      "id": "254",
+      "brand": "Panoxyl",
+      "name": "PM Balancing Repair Moisturizer",
+      "category": "Moisturizer",
+      "origin": "USA",
+      "image": "https://storage.skinsort.com/zxm0ij1x3n2q3qg542215j82vrs0",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Niacinamide (4%)",
+        "Ceramides (Sphingolipids)",
+        "Sodium Hyaluronate",
+        "Centella Asiatica (Cica) Leaf Extract",
+        "Allantoin",
+        "Linoleic Acid",
+        "Tocopherol"
+      ]
+    },
+    {
+      "id": "255",
+      "brand": "Panoxyl",
+      "name": "AM Oil Control Moisturizer SPF 30",
+      "category": "Sunscreen",
+      "origin": "USA",
+      "image": "https://storage.skinsort.com/cs6evnyh3wwwxjlewo9o66mkcqmc",
+      "ingredients": [
+        "Zinc Oxide (17%)",
+        "Hyaluronic Acid",
+        "Caffeine",
+        "Bisabolol",
+        "Green Tea Extract",
+        "Glycerin",
+        "Polymethylsilsesquioxane (Oil-Absorbing)",
+        "Vitamin E"
+      ]
+    },
+    {
+      "id": "256",
+      "brand": "Panoxyl",
+      "name": "Clarifying Exfoliant (2% Salicylic Acid)",
+      "category": "Exfoliant",
+      "origin": "USA",
+      "image": "https://storage.skinsort.com/qutyom6oytbhe72x9bmtox4z9kbr",
+      "ingredients": [
+        "Salicylic Acid (2%)",
+        "Blue Algae Extract",
+        "Antioxidants",
+        "Propanediol",
+        "Glycerin",
+        "pH Balanced Formula"
+      ]
+    },
+    {
+      "id": "257",
+      "brand": "The INKEY List",
+      "name": "Oat Cleansing Balm",
+      "category": "Cleanser",
+      "origin": "UK",
+      "image": "https://storage.skinsort.com/zwbmwcgyqrb58xw3orpcjfq9uem5",
+      "ingredients": [
+        "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+        "Cetearyl Alcohol",
+        "PEG-6 Caprylic/Capric Glycerides",
+        "Avena Sativa (Oat) Kernel Oil",
+        "Candelilla Cera",
+        "Avena Sativa (Oat) Kernel Flour",
+        "Lecithin",
+        "Tocopherol"
+      ]
+    },
+    {
+      "id": "258",
+      "brand": "The INKEY List",
+      "name": "Hyaluronic Acid Serum",
+      "category": "Serum",
+      "origin": "UK",
+      "image": "https://cdn.shopify.com/s/files/1/0428/8521/8467/products/TheINKEYList_HyaluronicAcidCleaser_150mlbottle_1000x1000_467db8f9-3650-4d49-a28e-b1d47e2b9539_540x.png?v=1672479662",
+      "ingredients": [
+        "Water (Aqua/Eau)",
+        "Propanediol",
+        "Sodium Hyaluronate",
+        "Glycerin",
+        "Butylene Glycol",
+        "Phenoxyethanol",
+        "Ammonium Acryloyldimethyltaurate/VP Copolymer",
+        "Leuconostoc/Radish Root Ferment Filtrate",
+        "Hyaluronic Acid",
+        "Palmitoyl Tetrapeptide-7",
+        "Palmitoyl Tripeptide-1"
+      ]
+    },
+    {
+      "id": "259",
+      "brand": "The INKEY List",
+      "name": "Caffeine Eye Cream",
+      "category": "Eye Care",
+      "origin": "UK",
+      "image": "https://m.media-amazon.com/images/I/51THKf31KIL._SL1000_.jpg",
+      "ingredients": [
+        "Aqua (Water)",
+        "Glycerin",
+        "Dicaprylyl Carbonate",
+        "Propanediol",
+        "Polyglyceryl-6 Distearate",
+        "Cetyl Alcohol",
+        "Squalane",
+        "Caffeine",
+        "Albizia Julibrissin Bark Extract",
+        "Palmitoyl Tetrapeptide-7",
+        "Palmitoyl Tripeptide-1",
+        "Hyaluronic Acid"
+      ]
+    },
+    {
+      "id": "260",
+      "brand": "The INKEY List",
+      "name": "Salicylic Acid Cleanser",
+      "category": "Cleanser",
+      "origin": "UK",
+      "image": "https://i0.wp.com/skinbankng.com/wp-content/uploads/2023/05/salicylic-acid.webp?fit=1000%2C1000&ssl=1",
+      "ingredients": [
+        "Aqua (Water)",
+        "Propanediol",
+        "Glycerin",
+        "Sodium Methyl Cocoyl Taurate",
+        "Cocamidopropyl Betaine",
+        "Salicylic Acid (2%)",
+        "Zinc PCA",
+        "Allantoin",
+        "Coco-Glucoside",
+        "Glyceryl Oleate"
+      ]
+    },
+    {
+      "id": "261",
+      "brand": "The INKEY List",
+      "name": "Omega Water Cream",
+      "category": "Moisturizer",
+      "origin": "UK",
+      "image": "https://storage.skinsort.com/5ttp0dioefvvlxx9h8b4im5rjsmn",
+      "ingredients": [
+        "Water (Aqua/Eau)",
+        "Dicaprylyl Carbonate",
+        "Glycerin",
+        "Niacinamide",
+        "Propanediol",
+        "Betaine",
+        "Polyglyceryl-4 Isostearate",
+        "Glycosphingolipids",
+        "Glycolipids",
+        "Oleic Acid"
+      ]
+    },
+    {
+      "id": "262",
+      "brand": "The INKEY List",
+      "name": "Polyglutamic Acid Serum",
+      "category": "Serum",
+      "origin": "UK",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51FriDNt4zL._AC_UL495_SR435,495_.jpg",
+      "ingredients": [
+        "Aqua (Water)",
+        "Dimethicone",
+        "Butylene Glycol",
+        "Glycerin",
+        "Polyglutamic Acid",
+        "Oryza Sativa (Rice) Bran Extract",
+        "Phenoxyethanol"
+      ]
+    },
+    {
+      "id": "263",
+      "brand": "The INKEY List",
+      "name": "Tranexamic Acid Night Treatment",
+      "category": "Treatments",
+      "origin": "UK",
+      "image": "https://storage.skinsort.com/3cklg0f3rwzz48ir3sfzi31kwvqz",
+      "ingredients": [
+        "Aqua (Water)",
+        "Butylene Glycol",
+        "Glycerin",
+        "Ascorbyl Glucoside",
+        "Tranexamic Acid (2%)",
+        "Euterpe Oleracea (Acai) Fruit Extract",
+        "Sodium Hydroxide",
+        "Phenoxyethanol"
+      ]
+    },
+    {
+      "id": "264",
+      "brand": "The Ordinary",
+      "name": "AHA 30% + BHA 2% Peeling Solution",
+      "category": "Exfoliant",
+      "origin": "Canada",
+      "image": "https://m.media-amazon.com/images/I/51xY4ObuOEL.jpg",
+      "ingredients": [
+        "Glycolic Acid",
+        "Aqua",
+        "Aloe Barbadensis Leaf Water",
+        "Sodium Hydroxide",
+        "Daucus Carota Sativa Extract",
+        "Propanediol",
+        "Salicylic Acid",
+        "Lactic Acid",
+        "Tartaric Acid",
+        "Citric Acid",
+        "Panthenol",
+        "Sodium Hyaluronate Crosspolymer",
+        "Tasmannia Lanceolata Fruit/Leaf Extract"
+      ]
+    },
+    {
+      "id": "265",
+      "brand": "The Ordinary",
+      "name": "Glycolic Acid 7% Exfoliating Toner",
+      "category": "Exfoliant",
+      "origin": "Canada",
+      "image": "https://www.koreanbeautys.com/cdn/shop/files/the-ordinary-glycolic-acid-7percent-toning-solution-240-ml-melora-1-23861593014411.webp?v=1763129105",
+      "ingredients": [
+        "Aqua",
+        "Glycolic Acid",
+        "Rosa Damascena Flower Water",
+        "Aloe Barbadensis Leaf Water",
+        "Panax Ginseng Root Extract",
+        "Tasmannia Lanceolata Fruit/Leaf Extract",
+        "Glycerin",
+        "Amino Acids (Aspartic Acid, Alanine, Glycine)"
+      ]
+    },
+    {
+      "id": "266",
+      "brand": "The Ordinary",
+      "name": "Soothing & Barrier Support Serum",
+      "category": "Serum",
+      "origin": "Canada",
+      "image": "https://storage.skinsort.com/3fs9hd5sschnlum6pfuod85c772k",
+      "ingredients": [
+        "Aqua",
+        "Propanediol",
+        "Niacinamide",
+        "Vitamin B12 (Cyanocobalamin)",
+        "Centella Asiatica Phytotechnologies",
+        "Ceramide Complex",
+        "Bisabolol",
+        "Gallic Acid Derivatives",
+        "Sugar-based Hydrators"
+      ]
+    },
+    {
+      "id": "267",
+      "brand": "The Ordinary",
+      "name": "Retinal 0.2% Emulsion",
+      "category": "Treatments",
+      "origin": "Canada",
+      "image": "https://www.facethefuture.co.uk/cdn/shop/files/The-Ordinary-Retinal-0.2_-Emulsion-15ml.jpg?v=1740396245",
+      "ingredients": [
+        "Aqua",
+        "Coco-Caprylate/Caprate",
+        "Propanediol",
+        "Retinal (0.2%)",
+        "Hydroxyapatite",
+        "Synthetic Oat Analogues",
+        "Bisabolol",
+        "Zingiber Officinale (Ginger) Root Extract",
+        "Tocopherol"
+      ]
+    },
+    {
+      "id": "268",
+      "brand": "The Ordinary",
+      "name": "Multi-Peptide Lash and Brow Serum",
+      "category": "Treatments",
+      "origin": "Canada",
+      "image": "https://storage.skinsort.com/yjbu56z2llgq9ndr2j9vi7y59sj3",
+      "ingredients": [
+        "Aqua",
+        "Glycerin",
+        "Myristoyl Pentapeptide-17",
+        "Biotinoyl Tripeptide-1",
+        "Acetyl Tetrapeptide-3",
+        "Caffeine",
+        "Panthenol",
+        "Camellia Sinensis Leaf Extract",
+        "Zinc Chloride"
+      ]
+    },
+    {
+      "id": "269",
+      "brand": "The Ordinary",
+      "name": "Azelaic Acid Suspension 10%",
+      "category": "Treatments",
+      "origin": "Canada",
+      "image": "https://storage.skinsort.com/e6nowd9fynzq521vdeidzhcm5dms",
+      "ingredients": [
+        "Aqua",
+        "Isodecyl Neopentanoate",
+        "Dimethicone",
+        "Azelaic Acid (10%)",
+        "Dimethyl Isosorbide",
+        "Tocopherol",
+        "Polysilicone-11"
+      ]
+    },
+    {
+      "id": "270",
+      "brand": "The Ordinary",
+      "name": "Squalane Cleanser",
+      "category": "Cleanser",
+      "origin": "Canada",
+      "image": "https://drnutrition.com/storage/media/M2yICrTEO0sLuROmXyy4tvxGURJ9uNQOpBgidQYS.jpg",
+      "ingredients": [
+        "Squalane",
+        "Aqua",
+        "Coco-Caprylate/Caprate",
+        "Glycerin",
+        "Sucrose Stearate",
+        "Ethyl Macadamiate",
+        "Sucrose Laurate",
+        "Tocopherol"
+      ]
+    },
+    {
+      "id": "271",
+      "brand": "The Ordinary",
+      "name": "Natural Moisturizing Factors + HA",
+      "category": "Moisturizer",
+      "origin": "Canada",
+      "image": "https://cdn11.bigcommerce.com/s-63354/images/stencil/1280x1280/products/3029/15383/The_Ordinary_Natural_Moisturizing_Factors_HA_-_100ml_Product__16919.1677493076.jpg?c=2&imbypass=on",
+      "ingredients": [
+        "Aqua",
+        "Caprylic/Capric Triglyceride",
+        "Cetyl Alcohol",
+        "Glycerin",
+        "Sodium Hyaluronate",
+        "Amino Acids (Arginine, Aspartic Acid, Glycine)",
+        "Sodium PCA",
+        "Urea",
+        "Ceramides"
+      ]
+    },
+    {
+      "id": "272",
+      "brand": "First Aid Beauty",
+      "name": "Ultra Repair Cream Intense Hydration",
+      "category": "Moisturizer",
+      "origin": "USA",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51Vc1LxC+qL.jpg",
+      "ingredients": [
+        "Colloidal Oatmeal (0.5%)",
+        "Water",
+        "Stearic Acid",
+        "Glycerin",
+        "Caprylic/Capric Triglyceride",
+        "Glyceryl Stearate",
+        "Ceramide NP",
+        "Squalane",
+        "Butyrospermum Parkii (Shea) Butter",
+        "Allantoin",
+        "Chrysanthemum Parthenium (Feverfew) Extract",
+        "Camellia Sinensis Leaf Extract"
+      ]
+    },
+    {
+      "id": "273",
+      "brand": "First Aid Beauty",
+      "name": "KP Bump Eraser Body Scrub with 10% AHA",
+      "category": "Exfoliant",
+      "origin": "USA",
+      "image": "https://m.media-amazon.com/images/I/61dmfcFUB0L.jpg",
+      "ingredients": [
+        "Pumice",
+        "Water",
+        "Glycolic Acid",
+        "Lactic Acid",
+        "Sodium Cocoyl Isethionate",
+        "Dimethicone",
+        "Colloidal Oatmeal",
+        "Tocopherol",
+        "Chrysanthemum Parthenium (Feverfew) Extract",
+        "Camellia Sinensis Leaf Extract",
+        "Glycyrrhiza Glabra (Licorice) Root Extract"
+      ]
+    },
+    {
+      "id": "274",
+      "brand": "First Aid Beauty",
+      "name": "Pure Skin Face Cleanser",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://i5.walmartimages.com/seo/First-Aid-Beauty-Pure-Skin-Face-Cleanser-Gentle-Hydrating-Cleanser-Color-None-Size-11-OZ_a335e823-233b-4651-a83e-16ef0593328b.0c39a54f2ab524badb0c7fb735efb403.jpeg",
+      "ingredients": [
+        "Water",
+        "Sodium Cocoyl Isethionate",
+        "Glycerin",
+        "Stearic Acid",
+        "Aloe Barbadensis Leaf Juice",
+        "Allantoin",
+        "Chrysanthemum Parthenium (Feverfew) Extract",
+        "Camellia Sinensis Leaf Extract",
+        "Glycyrrhiza Glabra (Licorice) Root Extract"
+      ]
+    },
+    {
+      "id": "275",
+      "brand": "First Aid Beauty",
+      "name": "Facial Radiance Pads",
+      "category": "Exfoliant",
+      "origin": "USA",
+      "image": "https://m.media-amazon.com/images/I/71XGssy7efL._SL1500_.jpg",
+      "ingredients": [
+        "Water",
+        "Aloe Barbadensis Leaf Juice",
+        "Glycerin",
+        "Lactic Acid",
+        "Glycolic Acid",
+        "Chrysanthemum Parthenium (Feverfew) Extract",
+        "Camellia Sinensis Leaf Extract",
+        "Glycyrrhiza Glabra (Licorice) Root Extract",
+        "Hyaluronic Acid"
+      ]
+    },
+    {
+      "id": "276",
+      "brand": "First Aid Beauty",
+      "name": "Eye Duty Niacinamide Brightening Cream",
+      "category": "Eye Care",
+      "origin": "USA",
+      "image": "https://cdn11.bigcommerce.com/s-ilgxsy4t82/images/stencil/1280x1280/products/20476/81876/61WCvFsWv4L._SL1500___64458.1659161895.jpg?c=1&imbypass=on",
+      "ingredients": [
+        "Water",
+        "Niacinamide",
+        "Glycerin",
+        "Caffeine",
+        "Sodium Hyaluronate",
+        "Squalane",
+        "Mica",
+        "Glycyrrhiza Glabra (Licorice) Root Extract",
+        "Tocopherol",
+        "Panthenol",
+        "Phytosteryl/Octyldodecyl Lauroyl Glutamate"
+      ]
+    },
+    {
+      "id": "277",
+      "brand": "First Aid Beauty",
+      "name": "10% Vitamin C Brightening Serum",
+      "category": "Serum",
+      "origin": "USA",
+      "image": "https://www.lookfantastic.ae/images?url=https://static.thcdn.com/productimg/original/13901641-1115108725156479.jpg&format=webp&auto=avif&width=985&height=985&fit=cover",
+      "ingredients": [
+        "Water",
+        "3-O-Ethyl Ascorbic Acid (10%)",
+        "Squalane",
+        "Sodium Citrate",
+        "Colloidal Oatmeal",
+        "Chrysanthemum Parthenium (Feverfew) Extract",
+        "Camellia Sinensis Leaf Extract",
+        "Glycyrrhiza Glabra (Licorice) Root Extract",
+        "Tocopheryl Acetate"
+      ]
+    },
+    {
+      "id": "278",
+      "brand": "Nacomi",
+      "name": "Next Level Adiós Acne (Glycolic Acid 10%)",
+      "category": "Serum",
+      "origin": "Poland",
+      "image": "https://ezebra.co.uk/hpeciai/4f681a3c7c8b9c7b2c61b3068066e217/eng_pl_NACOMI-NEXT-LEVEL-ADIOS-ACNE-GLYCOLIC-ACID-10-FACE-SERUM-30ML-126919_1.webp",
+      "ingredients": [
+        "Aqua",
+        "Glycolic Acid",
+        "Aloe Barbadensis Leaf Juice",
+        "Glycerin",
+        "Niacinamide",
+        "Betula Alba Juice",
+        "Sodium Citrate",
+        "Xanthan Gum",
+        "Propanediol"
+      ]
+    },
+    {
+      "id": "279",
+      "brand": "Nacomi",
+      "name": "Glass Skin Face Serum",
+      "category": "Serum",
+      "origin": "Poland",
+      "image": "https://i.ebayimg.com/images/g/BKIAAOSwt29kzYD6/s-l1200.jpg",
+      "ingredients": [
+        "Aqua",
+        "Caprylic/Capric Triglyceride",
+        "Glycerin",
+        "Niacinamide",
+        "Prunus Amygdalus Dulcis Oil",
+        "Trehalose",
+        "Palmitoyl Pentapeptide-4",
+        "Palmitoyl Tetrapeptide-10",
+        "Hoya Lacunosa Flower Extract"
+      ]
+    },
+    {
+      "id": "280",
+      "brand": "Nacomi",
+      "name": "Next Level Ceramides 5%",
+      "category": "Serum",
+      "origin": "Poland",
+      "image": "https://ezebra.de/hpeciai/4c6f59d447de6d5a3af7b935579efcd1/ger_pl_NACOMI-NEXT-LEVEL-SECOND-SKIN-CERAMIDES-5-GESICHTSSERUM-30ML-126906_1.webp",
+      "ingredients": [
+        "Aqua",
+        "Coco-Caprylate/Caprate",
+        "Glycerin",
+        "Panthenol",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Phytosphingosine",
+        "Cholesterol",
+        "Sodium Lauroyl Lactylate"
+      ]
+    },
+    {
+      "id": "281",
+      "brand": "Nacomi",
+      "name": "Next Level Vitamin C 15%",
+      "category": "Serum",
+      "origin": "Poland",
+      "image": "https://www.maquibeauty.com/images/productos/nacomi-next-level-serum-vitamina-c-15-light-it-up-1-59774.jpeg",
+      "ingredients": [
+        "Aqua",
+        "Ascorbyl Glucoside",
+        "Glycerin",
+        "Sodium Hydroxide",
+        "Hyaluronic Acid",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Glycosaminoglycans",
+        "Sodium Hyaluronate Crosspolymer"
+      ]
+    },
+    {
+      "id": "282",
+      "brand": "Nacomi",
+      "name": "Next Level Retinol 0.5%",
+      "category": "Serum",
+      "origin": "Poland",
+      "image": "https://storage.skinsort.com/nc1btamn8fj3xrqxvlsxt77w1r8r",
+      "ingredients": [
+        "Aqua",
+        "Glycerin",
+        "Coco-Caprylate/Caprate",
+        "Cetyl Alcohol",
+        "Retinol",
+        "Hydrolyzed Glycosaminoglycans",
+        "Sodium Hyaluronate",
+        "Cetearyl Alcohol",
+        "Glyceryl Stearate"
+      ]
+    },
+    {
+      "id": "283",
+      "brand": "Nacomi",
+      "name": "Next Level Niacinamide 15%",
+      "category": "Serum",
+      "origin": "Poland",
+      "image": "https://media.gopicky.com/products/images/Nacomi-NextLevelNiacinamide15.jpg",
+      "ingredients": [
+        "Aqua",
+        "Niacinamide",
+        "Aloe Barbadensis Leaf Juice",
+        "Glycerin",
+        "Panthenol",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Hyaluronic Acid",
+        "Citric Acid"
+      ]
+    },
+    {
+      "id": "284",
+      "brand": "Nacomi",
+      "name": "Rich & Comfy Regenerating Face Cream",
+      "category": "Moisturizer",
+      "origin": "Poland",
+      "image": "https://storage.skinsort.com/6j7j6e5ifh93erdv5ogbc4bmo6vl",
+      "ingredients": [
+        "Aqua",
+        "Persea Gratissima Oil (Avocado)",
+        "Caprylic/Capric Triglyceride",
+        "Glycerin",
+        "Cetyl Alcohol",
+        "Ceramide NP",
+        "Ceramide AP",
+        "Ceramide EOP",
+        "Phytosphingosine"
+      ]
+    },
+    {
+      "id": "285",
+      "brand": "Nacomi",
+      "name": "Next Level Salicylic Acid 2%",
+      "category": "Serum",
+      "origin": "Poland",
+      "image": "https://ezebra.co.uk/hpeciai/fb6d171863992f605ea06f7c46c4595e/eng_pl_NACOMI-NEXT-LEVEL-FACE-SERUM-SALICYLIC-ACID-2-PHA-30ML-164179_4.webp",
+      "ingredients": [
+        "Aqua",
+        "Glycerin",
+        "Salicylic Acid",
+        "Dextrin",
+        "Polydextrose",
+        "Amylopectin",
+        "Niacinamide",
+        "Activated Charcoal",
+        "Xanthan Gum"
+      ]
+    },
+    {
+      "id": "286",
+      "brand": "Nacomi",
+      "name": "Next Level Azeloglicyna 5%",
+      "category": "Serum",
+      "origin": "Poland",
+      "image": "https://cosibella.pl/hpeciai/4a97c3554596d4c95836e7f52958f3f3/pol_pl_Nacomi-Next-Level-Azeloglicyna-5-B6-Kojace-Serum-do-Cery-Naczynkowej-i-z-Tradzikiem-Rozowatym-30ml-8392_1.webp",
+      "ingredients": [
+        "Aqua",
+        "Potassium Azeloyl Diglycinate (Azeloglycine)",
+        "Glycerin",
+        "Panthenol",
+        "Rosa Canina Fruit Oil",
+        "Butyrospermum Parkii Butter",
+        "Prunus Amygdalus Dulcis Oil",
+        "Passiflora Edulis Seed Oil"
+      ]
+    },
+    {
+      "id": "287",
+      "brand": "Nacomi",
+      "name": "Next Level Peptides 10%",
+      "category": "Serum",
+      "origin": "Poland",
+      "image": "https://kosmetyk.de/21710-product_main_2x/nacomi-next-level-lifting-face-serum-with-peptides-10-30-ml.jpg",
+      "ingredients": [
+        "Aqua",
+        "Glycerin",
+        "Trifluoroacetyl Tripeptide-2 (Progeline)",
+        "Palmitoyl Tripeptide-1",
+        "Palmitoyl Tetrapeptide-7",
+        "Hydrolyzed Rice Protein",
+        "Hydrolyzed Pea Protein",
+        "Sodium Hyaluronate"
+      ]
+    },
+    {
+      "id": "288",
+      "brand": "Nacomi",
+      "name": "Next Level Mandelic Acid + PHA 10%",
+      "category": "Exfoliant",
+      "origin": "Poland",
+      "image": "https://www.maquibeauty.com/images/productos/nacomi-next-level-serum-acido-mandelico-pha-10-stunning-skin-1-59790.jpeg",
+      "ingredients": [
+        "Aqua",
+        "Glycerin",
+        "Gluconolactone",
+        "Mandelic Acid",
+        "Lactobionic Acid",
+        "Cocos Nucifera Fruit Extract",
+        "Macadamia Ternifolia Seed Oil",
+        "Sodium Hyaluronate Crosspolymer"
+      ]
+    },
+    {
+      "id": "289",
+      "brand": "Nacomi",
+      "name": "Next Level Bakuchiol 2%",
+      "category": "Serum",
+      "origin": "Poland",
+      "image": " https://cdn.shopify.com/s/files/1/0533/3401/6154/files/5902539716085.jpg?v=1764420776",
+      "ingredients": [
+        "Prunus Amygdalus Dulcis Oil",
+        "Caprylic/Capric Triglyceride",
+        "Bakuchiol (2%)",
+        "Sclerocarya Birrea Seed Oil (Marula)",
+        "Tocopheryl Acetate",
+        "Flower Extract Complex (Lavender, Rose, Jasmine)"
+      ]
+    },
+    {
+      "id": "290",
+      "brand": "Nacomi",
+      "name": "Yoga Skin Glow Face Cream",
+      "category": "Moisturizer",
+      "origin": "Poland",
+      "image": "https://ezebra.de/hpeciai/4412647fff352f393529d74019260d3f/ger_pl_NACOMI-YOGA-SKIN-GLOW-SAUERSTOFFHALTIGE-GESICHTSCREME-50ML-146468_4.webp",
+      "ingredients": [
+        "Aqua",
+        "Glycerin",
+        "Mangifera Indica Seed Butter",
+        "Niacinamide",
+        "Trehalose",
+        "Hydrolyzed Yeast Extract",
+        "Jasminum Officinale Flower Extract",
+        "Rosa Damascena Flower Oil"
+      ]
+    },
+    {
+      "id": "291",
+      "brand": "Nacomi",
+      "name": "Next Level Hyaluronic 10%",
+      "category": "Serum",
+      "origin": "Poland",
+      "image": "https://www.beautypro.ee/media/kosmeetikakaubamaja/.product-image/large/product/eu.erply.com/25053-5902539716108.jpg",
+      "ingredients": [
+        "Aqua",
+        "Glycerin",
+        "Hydrolyzed Yeast Extract (Optim Hyal)",
+        "Sodium Hyaluronate",
+        "Hyaluronic Acid",
+        "Hydrolyzed Hyaluronic Acid",
+        "Sodium Hyaluronate Crosspolymer",
+        "Polyglucuronic Acid"
+      ]
+    },
+    {
+      "id": "292",
+      "brand": "Nacomi",
+      "name": "Dermo Anti-Acne Facial Serum",
+      "category": "Treatments",
+      "origin": "Poland",
+      "image": "https://cdn.biooo.cz/images/card/477A8997-C.jpg",
+      "ingredients": [
+        "Aqua",
+        "Niacinamide",
+        "Thymus Vulgaris Flower/Leaf Extract",
+        "Syringa Vulgaris Extract (Lilac)",
+        "Hydrolyzed Glycosaminoglycans",
+        "Sodium Hyaluronate",
+        "Allantoin",
+        "Biotin"
+      ]
+    },
+    {
+      "id": "293",
+      "brand": "Nacomi",
+      "name": "Next Level Lactic Acid 10%",
+      "category": "Exfoliant",
+      "origin": "Poland",
+      "image": "https://www.maquibeauty.com/images/productos/nacomi-next-level-serum-con-acido-lactico-10-1-86299.jpeg",
+      "ingredients": [
+        "Aqua",
+        "Lactic Acid",
+        "Glycerin",
+        "Hyaluronic Acid",
+        "Sodium Hyaluronate Crosspolymer",
+        "Inulin",
+        "Fructose",
+        "Glucose"
+      ]
+    },
+    {
+      "id": "294",
+      "brand": "Natural Forever",
+      "name": "Original Rose Water",
+      "category": "Toner",
+      "origin": "Bahrain",
+      "image": "https://bf1af2.akinoncloudcdn.com/products/2025/07/09/342198/4052bf8b-7e02-4209-9f09-1c7a9cb211e2_size3840_cropCenter.jpg",
+      "ingredients": ["Pure Distilled Rose Water (Rosa Damascena)"]
+    },
+    {
+      "id": "295",
+      "brand": "Natural Forever",
+      "name": "Rose Water with Myrrh",
+      "category": "Toner",
+      "origin": "Bahrain",
+      "image": "https://naturalforever.ae/wp-content/uploads/2024/09/118_2-e1731479029520.jpg",
+      "ingredients": [
+        "Pure Distilled Rose Water",
+        "Myrrh Resin Extract (Commiphora Myrrha)"
+      ]
+    },
+    {
+      "id": "296",
+      "brand": "Natural Forever",
+      "name": "Rose Water With Turmeric",
+      "category": "Toner",
+      "origin": "Bahrain",
+      "image": "https://bf1af2.akinoncloudcdn.com/products/2025/07/09/342199/188e383f-d8bf-4cb0-95c2-e94ece2716f0.jpg",
+      "ingredients": [
+    "Rose Extract",
+    "Turmeric Extract",
+    "Glycerin",
+    "Vitamin E",
+    "Distilled Water"
+  ]
+    },
+    {
+      "id": "297",
+      "brand": "Natural Forever",
+      "name": "Myrrh Soap",
+      "category": "Cleanser",
+      "origin": "Bahrain",
+      "image": "https://bf1af2.akinoncloudcdn.com/products/2025/07/07/342089/db2ed154-d17c-40f0-94c7-8b5aeb6129ce_size3840_cropCenter.jpg",
+      "ingredients": [
+        "Saponified Oils",
+        "Myrrh Resin Powder",
+        "Glycerin",
+        "Natural Fragrance"
+      ]
+    },
+    {
+      "id": "298",
+      "brand": "Natural Forever",
+      "name": "Rose Water with Al Aker Al Fassi",
+      "category": "Toner",
+      "origin": "Bahrain",
+      "image": "https://bf1af2.akinoncloudcdn.com/products/2025/07/09/342226/1684a7b3-fb50-4717-ac9c-e26984d68665_size3840_cropCenter.jpg",
+      "ingredients": [
+        "Pure Distilled Rose Water",
+        "Al Aker Al Fassi (Poppy Powder)",
+        "Pomegranate Peel Extract"
+      ]
+    },
+    {
+      "id": "299",
+      "brand": "Natural Forever",
+      "name": "African Shea Butter (Yellow)",
+      "category": "Moisturizer",
+      "origin": "Bahrain",
+      "image": "https://naturalforever.ae/wp-content/uploads/2024/09/138_1-e1731482574810.jpg",
+      "ingredients": [
+        "Raw Butyrospermum Parkii (Shea) Butter",
+        "Borututu Root Extract (for color and nutrients)"
+      ]
+    },
+    {
+      "id": "300",
+      "brand": "Natural Forever",
+      "name": "Rose Water with Iranian Saffron",
+      "category": "Toner",
+      "origin": "Bahrain",
+      "image": "https://bf1af2.akinoncloudcdn.com/products/2025/07/09/342221/1cd67e7a-d499-44aa-8b0b-c095d5b9da16.jpg",
+      "ingredients": [
+        "Pure Distilled Rose Water",
+        "Premium Saffron Threads (Crocus Sativus)"
+      ]
+    },
+    {
+      "id": "301",
+      "brand": "Natural Forever",
+      "name": "Rose Water with Moroccan Nella",
+      "category": "Toner",
+      "origin": "Bahrain",
+      "image": "https://naturalforever.ae/wp-content/uploads/2024/09/124_2-e1731478347149.jpg",
+      "ingredients": [
+        "Pure Distilled Rose Water",
+        "Blue Nila Powder (Indigofera Tinctoria)",
+        "Glycerin"
+      ]
+    },
+    {
+      "id": "302",
+      "brand": "Natural Forever",
+      "name": "Frankincense Soap",
+      "category": "Cleanser",
+      "origin": "Bahrain",
+      "image": "https://bf1af2.akinoncloudcdn.com/products/2025/07/09/342175/ff171445-d0d9-480d-88c2-1867039f48b3_size3840_cropCenter.jpg",
+      "ingredients": [
+        "Saponified Oils",
+        "Pure Frankincense Resin (Boswellia)",
+        "Glycerin",
+        "Natural Essential Oils"
+      ]
+    },
+    {
+      "id": "303",
+      "brand": "Natural Forever",
+      "name": "Goat Milk & Honey Soap",
+      "category": "Cleanser",
+      "origin": "Bahrain",
+      "image": "https://naturalforever.ae/wp-content/uploads/2024/09/130_1.jpg",
+      "ingredients": [
+        "Fresh Goat Milk",
+        "Raw Honey",
+        "Olive Oil",
+        "Coconut Oil",
+        "Shea Butter"
+      ]
+    },
+    {
+      "id": "304",
+      "brand": "Natural Forever",
+      "name": "Turmeric Soap",
+      "category": "Cleanser",
+      "origin": "Bahrain",
+      "image": "https://bf1af2.akinoncloudcdn.com/products/2025/07/07/342081/47644121-9662-47d4-9f00-f2ba19d83a05_size3840_cropCenter.jpg",
+      "ingredients": [
+        "Saponified Vegetable Oils",
+        "Turmeric Root Powder",
+        "Curcumin",
+        "Glycerin"
+      ]
+    },
+    {
+      "id": "305",
+      "brand": "Natural Forever",
+      "name": "Rice Soap",
+      "category": "Cleanser",
+      "origin": "Bahrain",
+      "image": "https://naturalforever.ae/wp-content/uploads/2024/09/131_1.jpg",
+      "ingredients": [
+        "Rice Milk Extract",
+        "Rice Bran Oil",
+        "Vitamin E",
+        "Glycerin",
+        "Coconut Oil"
+      ]
+    },
+    {
+      "id": "306",
+      "brand": "Natural Forever",
+      "name": "Pure Myrrh Oil",
+      "category": "Oils",
+      "origin": "Bahrain",
+      "image": "https://f.nooncdn.com/p/pzsku/Z6A08B1E3C91BE6E73412Z/45/1746228535/14d8c85b-4c4e-4573-a286-0d1a321f99de.jpg?width=1200",
+      "ingredients": ["100% Pure Commiphora Myrrha Resin Oil"]
+    },
+    {
+      "id": "307",
+      "brand": "Natural Forever",
+  "name": "Rose Water With Frankincense",
+  "category": "Toner",
+  "origin": "Bahrain",
+  "image": "https://bf1af2.akinoncloudcdn.com/products/2025/07/09/342162/ed26f68d-7110-43f0-8a84-6ad8a3783923_size3840_cropCenter.jpg",
+  "ingredients": [
+    "Rose Extract",
+    "Frankincense Resin Extract",
+    "Glycerin",
+    "Vitamin E",
+    "Distilled Water"
+  ]
+    },
+    {
+      "id": "308",
+      "brand": "Nacomi",
+  "name": "Aqua Hydra Skin 3-in-1 Moisturizing Face Cocktail",
+  "category": "Serum / Mask",
+  "origin": "Poland",
+  "image": "https://static.ladymakeup.pl/img/8/6/86388_800x800_nawilzajacy-koktajl-do-twarzy-3w1-blyskawiczne-nawilzenie_-_5902539701814.jpg?1669379184",
+  "ingredients": [
+    "Aqua",
+    "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+    "Glycerin",
+    "Cetyl Alcohol",
+    "Panthenol",
+    "Plukenetia Volubilis (Inca Inchi) Seed Oil",
+    "Cetearyl Alcohol",
+    "Glyceryl Stearate",
+    "Sorbitol",
+    "Tocopheryl Acetate",
+    "Stearic Acid",
+    "Soluble Collagen",
+    "Sodium Lauroyl Glutamate",
+    "Aloe Barbadensis Leaf Extract",
+    "Honey Extract",
+    "Hydrolyzed Rice Protein",
+    "Hyaluronic Acid",
+    "Hydrolyzed Glycosaminoglycans",
+    "Hydrolyzed Elastin",
+    "Serine"
+  ]
+},
+    {
+      "id": "309",
+      "brand": "Nacomi",
+  "name": "Hyaluronic Gel Cream",
+  "category": "Moisturizer",
+  "origin": "Poland",
+  "image": "https://nacomiskin.com/cdn/shop/files/Hialuronowy-zel-krem-do-twarzy.jpg?v=1728343084",
+  "ingredients": [
+    "Aqua",
+    "Caprylic/Capric Triglyceride",
+    "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+    "Glycerin",
+    "Hydrolyzed Glycosaminoglycans",
+    "Cetearyl Alcohol",
+    "Glyceryl Stearate",
+    "Sodium Polyacrylate Starch",
+    "Soluble Collagen",
+    "Benzyl Alcohol",
+    "Stearic Acid",
+    "Parfum",
+    "Sodium Lauroyl Glutamate",
+    "Propylene Glycol",
+    "Honey Extract",
+    "Sodium PCA",
+    "Dehydroacetic Acid",
+    "Hydrolyzed Elastin",
+    "Hyaluronic Acid",
+    "Glycogen",
+    "Serine",
+    "CI 42090"
+  ]
+    },
+    {
+  "id": "310",
+  "brand": "Nacomi",
+  "name": "Natural Aloe Gel Cream",
+  "category": "Moisturizer",
+  "origin": "Poland",
+  "image": "https://apimp.wizaz.pl/img/png/500/500/resize/catalog/product/3/c/3cdbde440d96f674b2fc57a1516af082_4712444.webp",
+  "ingredients": [
+    "Aloe Barbadensis Leaf Juice",
+    "Caprylic/Capric Triglyceride",
+    "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+    "Glycerin",
+    "Sodium Polyacrylate Starch",
+    "Aqua",
+    "Cetearyl Alcohol",
+    "Glyceryl Stearate",
+    "Aloe Barbadensis Leaf Extract",
+    "Tocopheryl Acetate",
+    "Sodium Lauroyl Glutamate",
+    "Citric Acid",
+    "Benzyl Alcohol",
+    "Dehydroacetic Acid"
+  ]
+},
+    {
+      "id": "311",
+      "brand": "Hada Labo",
+      "name": "Gokujyun Hyaluronic Acid Lotion (Moist)",
+      "category": "Toner",
+      "origin": "Japan",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51PH2WeO0RS.jpg",
+      "ingredients": [
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "Sodium Acetylated Hyaluronate",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Hyaluronic Acid",
+        "Lactococcus/Hyaluronic Acid Ferment Filtrate",
+        "Disodium Succinate",
+        "Succinic Acid",
+        "PPG-10 Methyl Glucose Ether"
+      ]
+    },
+    {
+      "id": "312",
+      "brand": "Hada Labo",
+      "name": "Gokujyun Premium Hyaluronic Acid Lotion",
+      "category": "Toner",
+      "origin": "Japan",
+      "image": "https://storage.skinsort.com/9rmmud1t7m468j2hafjwhzmemc8s",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "PPG-10 Methyl Glucose Ether",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Hyaluronic Acid (Nano HA)",
+        "Sodium Acetylated Hyaluronate (Super HA)",
+        "Hydroxypropyltrimonium Hyaluronate",
+        "Sodium Hyaluronate Crosspolymer (3D HA)",
+        "Lactococcus/Hyaluronic Acid Ferment Filtrate",
+        "Hydrolyzed Sodium Hyaluronate",
+        "Aphanothece Sacrum Exopolysaccharides (Sacran)",
+        "Pentylene Glycol"
+      ]
+    },
+    {
+      "id": "313",
+      "brand": "Hada Labo",
+      "name": "Shirojyun Premium Whitening Lotion",
+      "category": "Toner",
+      "origin": "Japan",
+      "image": "https://storage.skinsort.com/cj2ng77eu8ef6sxjxxsqjrqnec7v",
+      "ingredients": [
+        "Tranexamic Acid",
+        "Dipotassium Glycyrrhizate",
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "Hydrolyzed Hyaluronic Acid",
+        "Sodium Hyaluronate",
+        "Magnesium Ascorbyl Phosphate (Vitamin C)",
+        "Tocopherol (Vitamin E)",
+        "Diglycerin",
+        "Pentylene Glycol"
+      ]
+    },
+    {
+      "id": "314",
+      "brand": "Hada Labo",
+      "name": "Gokujyun Hyaluronic Acid Face Wash",
+      "category": "Cleanser",
+      "origin": "Japan",
+      "image": "https://storage.skinsort.com/ki7f7sktfwl37o2favbqz4raso2s",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Sodium Cocoyl Glycinate",
+        "Butylene Glycol",
+        "Hydroxypropyl Starch Phosphate",
+        "Cocamidopropyl Betaine",
+        "PEG-400",
+        "Sodium Acetylated Hyaluronate",
+        "Hydroxypropyltrimonium Hyaluronate"
+      ]
+    },
+    {
+      "id": "315",
+      "brand": "Hada Labo",
+      "name": "Gokujyun Cleansing Oil",
+      "category": "Cleanser",
+      "origin": "Japan",
+      "image": "https://tezd87.vtexassets.com/arquivos/ids/155828/NOVA-EMBALAGEM-OIL-3000X3000.png?v=639005535306570000",
+      "ingredients": [
+        "Ethylhexyl Palmitate",
+        "Triethylhexanoin",
+        "Sorbeth-30 Tetraisostearate",
+        "PEG-20 Glyceryl Triisostearate",
+        "Olea Europaea (Olive) Fruit Oil",
+        "Water",
+        "Sodium Acetylated Hyaluronate",
+        "Hydroxypropyltrimonium Hyaluronate",
+        "Simmondsia Chinensis (Jojoba) Seed Oil",
+        "Dextrin Palmitate/Ethylhexanoate"
+      ]
+    },
+    {
+      "id": "316",
+      "brand": "Hada Labo",
+      "name": "Gokujyun Premium Hyaluronic Acid Cream",
+      "category": "Moisturizer",
+      "origin": "Japan",
+      "image": "https://storage.skinsort.com/le8o2ubp6clr5stok06puscytt6c",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "DPG",
+        "Caprylic/Capric Triglyceride",
+        "Squalane",
+        "Sodium Hyaluronate",
+        "Hydrolyzed Hyaluronic Acid",
+        "Sodium Acetylated Hyaluronate",
+        "Hydroxypropyltrimonium Hyaluronate",
+        "Sodium Hyaluronate Crosspolymer",
+        "Aphanothece Sacrum Exopolysaccharides",
+        "Butyrospermum Parkii (Shea) Butter"
+      ]
+    },
+    {
+      "id": "317",
+      "brand": "Kosé",
+      "name": "Softymo Speedy Cleansing Oil",
+      "category": "Cleanser",
+      "origin": "Japan",
+      "image": "https://i.ebayimg.com/images/g/DnAAAOSw5TZjN27R/s-l1200.png",
+      "ingredients": [
+        "Mineral Oil",
+        "PEG-8 Glyceryl Isostearate",
+        "Cetyl Ethylhexanoate",
+        "Cyclomethicone",
+        "Water",
+        "Simmondsia Chinensis (Jojoba) Seed Oil",
+        "Isostearic Acid",
+        "Glycerin",
+        "Phenoxyethanol"
+      ]
+    },
+    {
+      "id": "318",
+      "brand": "Kosé",
+      "name": "Sekkisei Brightening Essence Lotion",
+      "category": "Toner",
+      "origin": "Japan",
+      "image": "https://www.kose.com.sg/sekkisei/assets/upload/SEKKISEI-Brightening-Essence-Lotion.jpg",
+      "ingredients": [
+        "Water",
+        "Alcohol",
+        "Glycerin",
+        "Angelica Acutiloba Root Extract",
+        "Coix Lacryma-Jobi (Job's Tears) Seed Extract",
+        "Melothria Heterophylla Root Extract",
+        "Squalane",
+        "Tocopherol",
+        "Dipotassium Glycyrrhizate"
+      ]
+    },
+    {
+      "id": "319",
+      "brand": "Kosé",
+      "name": "Clear Turn Pore Komachi Mask",
+      "category": "Mask",
+      "origin": "Japan",
+      "image": "https://d1flfk77wl2xk4.cloudfront.net/Assets/95/181/l_p0170818195.jpg",
+      "ingredients": [
+        "Water",
+        "Butylene Glycol",
+        "Glycerin",
+        "Oryza Sativa (Rice) Bran Extract",
+        "Rice Ferment Filtrate (Sake)",
+        "Centella Asiatica Leaf Extract",
+        "Houttuynia Cordata Extract",
+        "Hyaluronic Acid",
+        "Malic Acid"
+      ]
+    },
+    {
+      "id": "320",
+      "brand": "Kosé",
+      "name": "Grace One Wrinkle Care White Moist Gel",
+      "category": "Moisturizer",
+      "origin": "Japan",
+      "image": "https://www.godwell.com.hk/api/image/t1920/0091a010d43a8d9677038ed8140d888f969d3cf7985df94e70e71b0740a0d7ea.jpg",
+      "ingredients": [
+        "Niacinamide",
+        "Water",
+        "Concentrated Glycerin",
+        "Hyaluronic Acid",
+        "Hydrolyzed Collagen",
+        "Retinol Palmitate",
+        "Royal Jelly Extract",
+        "Squalane",
+        "Shea Butter"
+      ]
+    },
+    {
+      "id": "321",
+      "brand": "Kosé",
+      "name": "Softymo Deep Cleansing Oil",
+      "category": "Cleanser",
+      "origin": "Japan",
+      "image": "https://japanesetaste.com/cdn/shop/files/Kose-Softymo-Deep-Cleansing-Oil-240ml-1-2024-04-09T00_38_15.104Z.webp?v=1746161727&width=600",
+      "ingredients": [
+        "Rice Bran Oil",
+        "Mineral Oil",
+        "Sorbeth-30 Tetraoleate",
+        "Cyclomethicone",
+        "Orange Oil",
+        "Safflower Oil",
+        "Jojoba Seed Oil",
+        "Rosehip Oil",
+        "Tocopherol"
+      ]
+    },
+    {
+      "id": "322",
+      "brand": "Kosé",
+      "name": "Suncut UV Perfect Essence SPF 50+ PA++++",
+      "category": "Sunscreen",
+      "origin": "Japan",
+      "image": "https://storage.skinsort.com/7e4iqie6g3lubauz4tnw3yjo4r19",
+      "ingredients": [
+        "Water",
+        "Ethylhexyl Methoxycinnamate",
+        "Ethanol",
+        "Zinc Oxide",
+        "Isododecane",
+        "Polysilicone-15",
+        "Sodium Hyaluronate",
+        "Soluble Collagen",
+        "Squalane",
+        "Chamomile Flower Extract"
+      ]
+    },
+    {
+      "id": "323",
+      "brand": "Bioré",
+      "name": "UV Aqua Rich Watery Essence SPF 50+ PA++++",
+      "category": "Sunscreen",
+      "origin": "Japan",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/31iDZOINXaL._UL500_.jpg",
+      "ingredients": [
+        "Water",
+        "Alcohol",
+        "Ethylhexyl Methoxycinnamate",
+        "Ethylhexyl Triazone",
+        "Isopropyl Palmitate",
+        "Diethylamino Hydroxybenzoyl Hexyl Benzoate (Uvinul A Plus)",
+        "Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine (Tinosorb S)",
+        "Sodium Hyaluronate",
+        "Royal Jelly Extract",
+        "Xylitol",
+        "BHT"
+      ]
+    },
+    {
+      "id": "324",
+      "brand": "Bioré",
+      "name": "Deep Pore Charcoal Cleanser",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://kao-h.assetsadobe3.com/is/image/content/dam/sites/kaousa/www-biore-com/au/products/large/Charcoal%20Cleanser%20lg.png?fmt=png-alpha&wid=400",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Sodium Laureth Sulfate",
+        "Cocamidopropyl Betaine",
+        "Charcoal Powder",
+        "Salicylic Acid",
+        "Menthol",
+        "Sorbitol",
+        "Fragrance"
+      ]
+    },
+    {
+      "id": "325",
+      "brand": "Bioré",
+      "name": "UV Aqua Rich Aqua Protect Lotion",
+      "category": "Sunscreen",
+      "origin": "Japan",
+      "image": "https://www.kao.com/content/dam/sites/kao/www-kao-com/my/en/products/biore/bio_aquarich_lotion_00.jpg",
+      "ingredients": [
+        "Water",
+        "Alcohol",
+        "Ethylhexyl Methoxycinnamate",
+        "Silica",
+        "Glycerin",
+        "Ethylhexyl Triazone",
+        "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
+        "Sodium Hyaluronate",
+        "Royal Jelly Extract",
+        "Acrylates/C10-30 Alkyl Acrylate Crosspolymer"
+      ]
+    },
+    {
+      "id": "326",
+      "brand": "Bioré",
+      "name": "Baking Soda Pore Cleanser",
+      "category": "Cleanser",
+      "origin": "USA",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71EqhuHt0pL._UL500_.jpg",
+      "ingredients": [
+        "Water",
+        "Glycerin",
+        "Sorbitol",
+        "Sodium Laureth Sulfate",
+        "Sodium Bicarbonate (Baking Soda)",
+        "Jojoba Esters",
+        "Salicylic Acid",
+        "Citric Acid",
+        "Ethylhexylglycerin"
+      ]
+    },
+    {
+      "id": "327",
+      "brand": "Bioré",
+      "name": "The Cleanse Oil Makeup Remover",
+      "category": "Cleanser",
+      "origin": "Japan",
+      "image": "https://images-cdn.ubuy.co.in/6341e4c953fb3864e475a684-biore-j-beauty-makeup-removing.jpg",
+      "ingredients": [
+        "Mineral Oil",
+        "PEG-12 Laurate",
+        "Isododecane",
+        "Water",
+        "Isopropyl Palmitate",
+        "Decyl Glucoside",
+        "Polysorbate 85",
+        "Glyceryl Oleate",
+        "Isostearic Acid",
+        "Citric Acid"
+      ]
+    },
+    {
+  "id": "328",
+  "brand": "Nacomi",
+  "name": "Honey Brightening and Moisturizing Mask",
+  "category": "Face Mask",
+  "origin": "Poland",
+  "image": "https://ezebra.co.uk/hpeciai/fbc5cee83799b1b7d0eba0a609d2469a/eng_pl_NACOMI-HONEY-FACE-MASK-HONEY-BRIGHTENING-AND-MOISTURIZING-MASK-50ML-98293_2.webp",
+  "ingredients": [
+    "Aqua",
+    "Glycerin",
+    "Disteareth-100 IPDI",
+    "Propanediol",
+    "Pouteria Lucuma Pulp Extract",
+    "Citrus Grandis (Grapefruit) Fruit Extract",
+    "Citrus Limon (Lemon) Fruit Extract",
+    "Yeast Extract",
+    "Glycoproteins",
+    "Hydrolyzed Glycosaminoglycans",
+    "Sodium Hyaluronate",
+    "Sodium PCA",
+    "Glycogen",
+    "Mannitol",
+    "Magnesium Ascorbyl Phosphate (Vitamin C)",
+    "Copper Gluconate",
+    "Sodium Benzoate",
+    "Dehydroacetic Acid",
+    "CI 15985",
+    "CI 16035"
+  ]
+},
+{
+  "id": "329",
+  "brand": "Nacomi",
+  "name": "Rose Face Mask (Calming & Soothing)",
+  "category": "Face Mask",
+  "origin": "Poland",
+  "image": "https://biokosmetyki24.com/wp-content/uploads/2020/02/1343-Maska-rozana-lagodzaco-uspokajajaca-Nacomi-50ml-biokosmetyki24.com.jpg",
+  "ingredients": [
+    "Rosa Damascena Flower Water",
+    "Aloe Barbadensis Leaf Juice",
+    "Aqua",
+    "Glycerin",
+    "Disteareth-100 IPDI",
+    "Butylene Glycol",
+    "Hydrolyzed Glycosaminoglycans",
+    "Althaea Officinalis (Marshmallow) Root Extract",
+    "Rosa Rugosa Flower Extract",
+    "Ruscus Aculeatus (Butcher's Broom) Root Extract",
+    "Centella Asiatica Leaf Extract",
+    "Calendula Officinalis Flower Extract",
+    "Sodium Hyaluronate",
+    "Hydrolyzed Yeast Protein",
+    "Hyaluronic Acid",
+    "Panthenol",
+    "Escin",
+    "Ammonium Glycyrrhizate",
+    "Copper Gluconate",
+    "Sodium PCA"
+  ]
+},
+{
+    "id": "330",
+    "brand": "Nacomi",
+    "name": "Magic Dust Brightening Cleansing Powder",
+    "category": "Cleanser",
+    "origin": "Poland",
+    "image": "https://www.cosmetics-beautyshop.com/cdn/shop/products/73221931657783028.jpg?v=1666645985",
+    "ingredients": [
+      "Mica",
+      "Sodium Carboxymethyl Starch",
+      "Zea Mays (Corn) Starch",
+      "Kaolin",
+      "Solum Diatomeae",
+      "Sodium Lauroyl Sarcosinate",
+      "Niacinamide",
+      "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+      "Cocamidopropyl Betaine",
+      "Vaccinium Macrocarpon (Cranberry) Fruit Extract",
+      "Lemon Fruit Extract"
+    ]
+  }
+  ]
+}

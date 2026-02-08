@@ -12,3 +12,542 @@ body {
     padding-top: 0;
     text-align: right;
   }
+
+  .rating {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+}
+
+.rating > input{
+    display: none !important;
+    position: absolute;
+    appearance: none;
+    -webkit-appearance: none;
+    opacity: 0;
+  }
+
+  .rating > label {
+    float: right;
+    cursor: pointer;
+    color: lightgray;
+    transition: color 0.2s;
+}
+
+
+.rating > label::before {
+    content: "\f005";
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.rating > input:checked ~ label,
+.rating:not(:hover) > input:checked ~ label,
+.rating > label:hover,
+.rating > label:hover ~ label {
+    color: #ffca08 !important;
+}
+
+.stars {
+    display: flex;
+    gap: 3px;
+    margin: 5px 0;
+}
+
+.stars i {
+    font-size: 14px;
+}
+
+.stars i.filled {
+    color: #222222;
+}
+
+.stars i.empty {
+    color: #e0e0e0;
+}
+
+/* Layout */
+.routine-page {
+    display: flex;
+    background-color: #fcfcfc;
+    min-height: 100vh;
+    padding: 40px;
+    font-family: sans-serif;
+}
+
+.sidebar {
+    width: 280px;
+    padding-right: 40px;
+}
+
+.routine-columns {
+    display: flex;
+    gap: 20px;
+    flex-grow: 1;
+}
+
+
+.btn-add {
+    background: #222;
+    color: #fff;
+    width: 100%;
+    padding: 12px;
+    border-radius: 25px;
+    border: none;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.btn-secondary {
+    background: #f1f1f1;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 10px;
+    color: #666;
+}
+
+/* Column and Cards */
+.column {
+    flex: 1;
+    counter-reset: step-counter; /* Initializes counter for each column */
+}
+
+.product-card {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    counter-increment: step-counter; /* Increments step */
+}
+
+/* Step Circles */
+.step-circle::after {
+    content: counter(step-counter);
+    position: absolute;
+    right: 20px;
+    width: 30px;
+    height: 30px;
+    background: #eee;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    color: #888;
+}
+
+.product-info .label {
+    font-size: 11px;
+    color: #aaa;
+    display: block;
+}
+
+.brand-name { margin: 2px 0; font-size: 16px; }
+.category-info { font-size: 12px; color: #777; margin: 0; }
+
+/* Layout and Background */
+.routine-container {
+    display: flex;
+    gap: 20px;
+    background-color: #fcfcfc; /* Light gray background from image */
+    padding: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Column Counters */
+.column {
+    flex: 1;
+    counter-reset: step-count; /* Resets numbers for each column specifically */
+}
+
+/* Headers */
+.column h3 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+/* The Product Card */
+.product-card {
+    background-color: #ffffff;
+    border: 1px solid #f0f0f0;
+    border-radius: 15px; /* Rounded corners from screenshot */
+    padding: 20px;
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+    counter-increment: step-count; /* Increase step number per card */
+}
+
+/* The Step Number Circle */
+.step::after {
+    content: counter(step-count); /* Injects the current step number */
+    position: absolute;
+    right: 20px;
+    width: 32px;
+    height: 32px;
+    background-color: #f1f1f1; /* Gray circle background */
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #999;
+}
+
+/* Optional: Text Styling to match image */
+.product-card strong {
+    display: block;
+    font-size: 1rem;
+    color: #333;
+    margin-bottom: 2px;
+}
+
+/* If you have the small "Add product" text above the name */
+.product-card::before {
+    content: "Add product";
+    position: absolute;
+    top: 15px;
+    left: 80px; /* Adjust based on your icon size */
+    font-size: 0.7rem;
+    color: #bbb;
+    text-transform: capitalize;
+}
+
+/* This is the most important part to make the columns appear */
+.routine-container {
+    display: flex; /* Forces columns to sit side-by-side */
+    gap: 25px;    /* Adds the space between the Morning and Evening boxes */
+    align-items: flex-start;
+    padding: 20px;
+}
+
+/* This styles the large boxes themselves */
+.column {
+    flex: 1; /* Makes both boxes equal width */
+    background: #ffffff; /* White box color */
+    border: 1px solid #e0e0e0;
+    border-radius: 20px; /* Large rounded corners like the image */
+    padding: 25px;
+    min-height: 400px; /* Ensures the box is visible even if empty */
+}
+
+/* Individual product card inside the box */
+.product-card {
+    border-top: 1px solid #f0f0f0; /* The thin lines between products */
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+
+/* Remove the top border for the first product in the list */
+.product-card:first-of-type {
+    border-top: none;
+}
+
+
+
+.product-card:hover .card-actions {
+    opacity: 1;
+}
+
+.edit-btn, .delete-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.edit-btn { color: #888; }
+.delete-btn { color: #ff4d4d; }
+
+.dropdown-content li > img {
+    width: 40px !important;
+    height: 40px !important;
+    margin: 5px 15px !important;
+    object-fit: contain;
+}
+
+.dropdown-content li > span {
+    font-size: 16px;
+    color: #333;
+    line-height: 22px;
+}
+
+.product-list {
+    counter-reset: step-counter;
+}
+
+.product-card {
+    counter-increment: step-counter;
+}
+
+.step-circle::before {
+    content: counter(step-counter);
+}
+
+/* Profile Page Custom Styles */
+
+/* 1. Header & Avatar */
+.profile-header {
+    background: #ffffff;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.profile-header img {
+    object-fit: cover;
+    border-radius: 50%; /* Makes the 150x150 image a circle */
+    border: 4px solid #f8f9fa;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* 2. Info Cards */
+.profile-info.card {
+    border: none;
+    border-left: 5px solid #0dcaf0; /* Accents the skin type info */
+    background-color: #fcfcfc;
+    border-radius: 10px;
+    transition: transform 0.2s ease;
+}
+
+.profile-info.card:hover {
+    transform: translateY(-3px);
+}
+
+/* 3. Section Headers */
+h1, h2, h3 {
+    color: #2c3e50;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 1.25rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+/* 4. Chips / Badges */
+.chip-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.badge {
+    font-weight: 500;
+    font-size: 0.9rem;
+    letter-spacing: 0.3px;
+    transition: all 0.3s ease;
+}
+
+/* Customizing the Info (Concerns) badges */
+.bg-info {
+    background-color: #e1f5fe !important;
+    color: #0288d1 !important;
+}
+
+/* Customizing the Danger (Avoided) badges */
+.bg-danger {
+    background-color: #ffebee !important;
+    color: #c62828 !important;
+}
+
+/* 5. Buttons */
+.btn-outline-primary {
+    border-radius: 20px;
+    padding: 8px 25px;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+    font-weight: bold;
+}
+
+/* Articles List Styling */
+
+/* 1. Grid Layout for Cards */
+.articles-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 20px 0;
+}
+
+/* 2. Card Design */
+.card {
+    background: #fff;
+    border-radius: 12px;
+    border: none;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    overflow: hidden; /* Ensures image doesn't bleed past rounded corners */
+}
+
+.card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
+
+/* 3. Link Styling (Removing the blue underline) */
+.card a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
+/* 4. Content & Image Positioning */
+.card-content {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.card-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #2c3e50;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.card-content p {
+    color: #6c757d;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 1rem;
+}
+
+.card-content img {
+    object-fit: cover;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+/* 5. "Add Article" Button Styling */
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+button {
+    background-color: #0dcaf0;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-weight: 600;
+    transition: background-color 0.2s;
+    margin-bottom: 2rem;
+}
+
+button:hover {
+    background-color: #0baccc;
+}
+
+/* Article Detail Styling */
+
+/* 1. Main Container - Limits width for better readability */
+.article-detail-container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+}
+
+/* 2. Header & Meta Info */
+.article-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.article-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+
+.article-meta {
+    color: #7f8c8d;
+    font-size: 0.95rem;
+}
+
+.article-meta i {
+    margin-right: 5px;
+    margin-left: 15px;
+    color: #0dcaf0;
+}
+
+/* 3. Featured Image */
+.article-image-wrapper {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.article-image-wrapper img {
+    width: 100%;
+    max-width: 600px; /* Bigger for detail page */
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* 4. Body Content */
+.article-body {
+    font-size: 1.15rem;
+    line-height: 1.8;
+    color: #34495e;
+    margin-top: 2rem;
+}
+
+/* 5. Action Buttons (Edit/Delete) */
+.article-actions {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #eee;
+    display: flex;
+    gap: 15px;
+}
+
+.btn-edit {
+    background-color: #f8f9fa;
+    color: #2c3e50;
+    padding: 8px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    border: 1px solid #ddd;
+}
+
+.btn-delete {
+    background-color: #fff5f5;
+    color: #e74c3c;
+    padding: 8px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    border: 1px solid #feb2b2;
+}
+
+.btn-edit:hover { background-color: #e9ecef; }
+.btn-delete:hover { background-color: #fee2e2; }

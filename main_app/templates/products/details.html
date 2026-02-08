@@ -1,0 +1,102 @@
+{% extends 'base.html' %}
+{% block content %}
+<h1>Details</h1>
+
+  <div>
+        {% load static %}
+        <img src="{{ product.image }}" alt="{{ product.name }}" width="250" height="250">
+        <h5>{{ product.brand }}</h5>
+        <h4>{{ product.name }}</h4>
+        <h5>{{ product.category}} <span>{{ product.origin }}</span></h5>
+        <div class="card">
+          <div class="card-content">
+            <h4>ingredients</h4>
+              {% for ingredient in product.ingredients %}
+                <span>{{ ingredient }}</span>
+              {% endfor %}
+          </div>
+        </div>
+
+
+        <div class="card-action">
+          <button><a href="">Add to the routine</a></button>
+        </div>
+
+
+        <div>
+        <form method="POST" action="{% url 'add_review' product.id %}" enctype="multipart/form-data">
+          {% csrf_token %}
+          <h5>Write a Review</h5>
+
+            <label>How do you rate this product?</label>
+            <br>
+            <div class="rating">
+              <input type="radio" name="rating" value="5" id="star5" required><label for="star5" title="5"></label>
+              <input type="radio" name="rating" value="4" id="star4" required><label for="star4" title="4"></label>
+              <input type="radio" name="rating" value="3" id="star3" required><label for="star3" title="3"></label>
+              <input type="radio" name="rating" value="2" id="star2" required><label for="star2" title="2"></label>
+              <input type="radio" name="rating" value="1" id="star1" required><label for="star1" title="1"></label>
+            </div>
+
+
+          <label for="review_description">Review</label>
+          <textarea name="review_description" rows='4' class='form-control' placeholder="How did this fit into your routine? What did it do for your skin? Drop the details 👀✨"required></textarea>
+
+          <label for="image">Upload image</label>
+          <input type="file" name="image" id="image" accept="image/*">
+
+
+          <button type="submit">Add Review</button>
+        </form>
+      </div>
+
+
+
+<h4>Reviews</h4>
+
+{%if reviews%}
+{% for review in reviews %}
+  <div class="review-card">
+    <div class="stars">
+      <span>
+        <i class="fa-solid fa-star {% if review.rating >= 1 %}filled{% else %}empty{% endif %}"></i>
+        <i class="fa-solid fa-star {% if review.rating >= 2 %}filled{% else %}empty{% endif %}"></i>
+        <i class="fa-solid fa-star {% if review.rating >= 3 %}filled{% else %}empty{% endif %}"></i>
+        <i class="fa-solid fa-star {% if review.rating >= 4 %}filled{% else %}empty{% endif %}"></i>
+        <i class="fa-solid fa-star {% if review.rating >= 5 %}filled{% else %}empty{% endif %}"></i>
+    </div>
+      </span>
+
+      <div class="review-header">
+        {% load static %}
+        {% if user.profile.avatar %}
+            <img src="{% static  user.profile.avatar|cut:'main_app/static/'%}" alt='profile image' height= "45px" width="45px">
+        {% else %}
+            <img src="https://i.postimg.cc/Z54tWZ5W/profile.png" alt="Default avatar" class="profile-avatar" height= "45px" width="45px">
+        {% endif %}
+        <strong>{{ review.user.username }}</strong>
+      </div>
+      <p>{{ review.review_description }}</p>
+
+      {% if review.image %}
+        <img src="{% static review.image|cut:'main_app/static/'%}" alt='review image'>
+      {% endif %}
+
+      {% if review.user == request.user %}
+        <div class="review-actions">
+          <a href="{% url 'edit_review' review.id %}">Edit</a> |
+          <a href="{% url 'delete_review' review.id %}">Delete</a>
+        </div>
+        {% endif %}
+
+      <hr>
+    </div>
+  {% endfor %}
+
+
+  {% else %}
+  <p>No reviews yet. Be the first to review this product!</p>
+{% endif %}
+  </div>
+
+  {% endblock %}

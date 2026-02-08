@@ -7,8 +7,16 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Glowry</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-  <link rel="stylesheet" href="{% static 'css/style.css' %}">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <script src="{% static 'js/external/Sortable.min.js' %}"></script>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+
+
 </head>
 <body>
   <header class="navbar-fixed">
@@ -20,13 +28,25 @@
         <ul class="right">
           <li><a href="{% url 'about' %}">About</a></li>
           {% if user.is_authenticated %}
+          <li><a href="{% url 'articles_index' %}">Articles</a></li>
+          <li><a href="{% url 'product_list' %}">Products</a></li>
+          <li><a href="{% url 'routinelist' %}">Routines</a></li>
+          <li>
+            <a href="{% url 'profile' %}">
+              {% if user.profile.avatar %}
+                <img src="{% static  user.profile.avatar|cut:'main_app/static/'%}" alt='profile image' height= "50px" width="50px">
+              {% else %}
+                <img src="https://i.postimg.cc/Z54tWZ5W/profile.png" alt="Default avatar" class="profile-avatar" height= "50px" width="50px">
+              {% endif %}
+
+</a>
+</li>
           <li>
             <form method="post" action="{% url 'logout' %}">
               {% csrf_token %}
               <button type = "sumbit">Logout</button>
             </form>
           </li>
-          <li>Hi {{user.username}}!</li>
           {% else %}
           <li><a href="{% url 'login'%}">Login</a></li>
           <li><a href="{% url 'signup'%}">Signup</a></li>

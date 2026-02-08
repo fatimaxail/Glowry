@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="page-header">
+    <h1>Edit Routine Step</h1>
+</section>
+
+<div class="form-container">
+    {% if display_product %}
+        <div class="product-info-card">
+            <h3>{{ display_product.name }}</h3>
+            <p class="brand-subtitle">{{ display_product.brand }}</p>
+        </div>
+    {% endif %}
+
+    <form action="" method="POST" class="styled-form">
+        {% csrf_token %}
+
+        <div class="form-field">
+            <label for="{{ form.frequency.id_for_label }}">How often do you use this?</label>
+            {{ form.frequency }}
+            {% if form.frequency.errors %}
+                <div class="errors">
+                    {{ form.frequency.errors }}
+                </div>
+            {% endif %}
+        </div>
+
+        <div class="form-actions">
+            <button type="submit" class="btn-save">Update Frequency</button>
+            <a href="{% url 'routine_detail' routine_product.routine.id %}" class="btn-cancel">Cancel</a>
+        </div>
+    </form>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('select');
+    M.FormSelect.init(elems);
+    });
+</script>
+
+{% endblock %}

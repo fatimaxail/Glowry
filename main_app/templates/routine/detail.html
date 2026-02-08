@@ -1,0 +1,97 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>{{ routine.name }}</h1>
+
+{% if routine.description %}
+<p>{{ routine.description }}</p>
+{% endif %}
+
+<div class="routine-page">
+    <aside class="sidebar">
+        <div class="profile-circle">
+        {% load static %}
+        {% if user.profile.avatar %}
+            <img src="{% static  user.profile.avatar|cut:'main_app/static/'%}" alt='profile image' height= "155px" width="150px">
+        {% else %}
+            <img src="https://i.postimg.cc/Z54tWZ5W/profile.png" alt="Default avatar" class="profile-avatar" height= "150px" width="150px">
+        {% endif %}
+        </div>
+        <h1>{{routine.name}}</h1>
+
+        <div class="actions">
+            <h3>Actions</h3>
+            <a href="{% url 'add_product_to_routine' routine.id %}">
+            <button class="btn-add">Add Product</button>
+            </a>
+
+            <div class="welcome-card">
+                <p>Hi {{ user.username }} ✨</p>
+                <p>Your skin transformation starts here. Add your current products.</p>
+            </div>
+
+            <a href="{% url 'routine_edit' routine.id %}">
+                <button class="btn-secondary">Edit Details</button>
+            </a>
+
+            <a href="{% url 'routinelist' %}">
+            <button class="btn-secondary">Back To Routines</button>
+            </a>
+        </div>
+    </aside>
+
+    <main class="routine-columns">
+
+        <section class="column morning">
+            <h5>Morning <i class="fa-solid fa-sun"></i><span class="step-count"></span></h5>
+            <div class="product-list">
+                {% for product in products %}
+                    {% if product.time == 'MORNING' or product.time == 'MORNING AND EVENING' %}
+                        <div class="product-card">
+                            <div class="product-info">
+                                <img src="{{ product.image }}" alt="{{ product.name }}" width="50" height="50">
+                                <div class="card-actions">
+                                    <a href="{% url 'edit_routine_product' product.db_id %}" class="edit-btn"> <i class="fas fa-pencil-alt"></i></a>
+
+                                    <form action="{% url 'delete_routine_product' product.db_id %}" method="POST" style="display:inline;">
+                                        {% csrf_token %}
+                                    <button type="submit" class="delete-btn"><i class="fas fa-trash-alt"></i></button> </form>
+                                </div>
+                                <h6>{{ product.brand }}</h6>
+                                <h4 class="brand-name">{{ product.name }}</h4>
+                                <p class="category-info">{{ product.category }} • {{ product.frequency }}</p>
+                            </div>
+                            <div class="step-circle"></div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+            </div>
+        </section>
+
+        <section class="column evening">
+            <h5>Evening <i class="fa-solid fa-moon"></i><span class="step-count"></span></h5>
+            <div class="product-list">
+                {% for product in products %}
+                    {% if product.time == 'EVENING' or product.time == 'MORNING AND EVENING' %}
+                        <div class="product-card">
+                            <div class="product-info">
+                                <img src="{{ product.image }}" alt="{{ product.name }}" width="50" height="50">
+                                    <div class="card-actions">
+                                        <a href="{% url 'edit_routine_product' product.db_id %}" class="edit-btn"> <i class="fas fa-pencil-alt"></i></a>
+                                        <form action="{% url 'delete_routine_product' product.db_id %}" method="POST" style="display:inline;">
+                                            {% csrf_token %}
+                                            <button type="submit" class="delete-btn"><i class="fas fa-trash-alt"></i></button>
+                                        </form>
+                                    </div>
+                                <h6>{{ product.brand }}</h6>
+                                <h4 class="brand-name">{{ product.name }}</h4>
+                                <p class="category-info">{{ product.category }} • {{ product.frequency }}</p>
+                            </div>
+                            <div class="step-circle"></div>
+                        </div>
+                        {% endif %}
+                {% endfor %}
+            </div>
+        </section>
+    </main>
+</div>
+{% endblock %}
