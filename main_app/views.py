@@ -7,8 +7,10 @@ from django.contrib.auth.decorators import login_required
 from django.contrib.auth.mixins import LoginRequiredMixin
 from .models import Article, Review, Routine, RoutineProduct
 from django.views.generic.edit import CreateView, UpdateView, DeleteView
+from django.db.models import Count
 from django.views.generic import ListView, DetailView
 from .forms import ReviewForm, RoutineForm, RoutineProductForm, ProfileForm, AddRoutineProductForm
+from django.contrib.auth.models import User
 
 # Create your views here.
 
@@ -59,15 +61,24 @@ def profile_edit(request):
         form = ProfileForm(request.POST, request.FILES, instance=profile)
         if form.is_valid():
             form.save()
-            return redirect("profile")
+            return redirect("profile", username=request.user.username)
     else:
         form = ProfileForm(instance=profile)
 
-    return render(request, "users/profile_form.html", {"form": form})
+    return render(request, "users/profile_edit.html", {"form": form})
 
 @login_required
 def profile(request):
     return render(request, "users/profile.html")
+
+@login_required
+def profile_count(request, username):
+    profile_user = User.objects.annotate(
+    review_count=Count('review'),
+    article_count=Count('article')
+    ).get(username=username)
+
+    return render(request, 'users/profile.html', {'user': profile_user})
 
 
 class ArticlesList(LoginRequiredMixin, ListView):
@@ -333,7 +344,7 @@ def edit_routine_product(request, pk):
     return render(request, 'routine/edit_product.html', {
         'form': form,
         'routine_product': routine_product,
-        'display_product': display_product 
+        'display_product': display_product
     })
 
 

@@ -10,8 +10,9 @@ urlpatterns = [
     path('about/', views.about, name='about'),
 
     path("accounts/signup/", views.signup, name="signup"),
-    path('profile/', views.profile, name='profile'),
     path('profile/edit/', views.profile_edit, name='profile_edit'),
+    path('profile/<str:username>/', views.profile_count, name='profile'),
+
 
     path('articles/', views.ArticlesList.as_view(), name= "articles_index"),
     path('articles/<int:pk>/', views.ArticleDetails.as_view(), name= "articles_details"),

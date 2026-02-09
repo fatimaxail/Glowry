@@ -24,6 +24,17 @@
             <h2>{{ user.username }}</h2>
             <p class="text-muted">{{ user.profile.bio|default:"No bio yet." }}</p>
         </div>
+        <span class="ms-1 star-icon"><i class="fa-solid fa-star"></i></span>
+        <div class="d-flex align-items-center">
+            <p class="stat-number">{{ user.review_count|default:0 }} Reviews Written</p>
+        </div>
+        <div class="stat-label text-muted" ></div>
+        <div class="d-flex align-items-center">
+            <span class="ms-1 book-icon"><i class="fa-solid fa-book-open"></i></span>
+            <p class="stat-number">{{ user.article_count|default:0 }} Articles Written</p>
+        </div>
+    </div>
+</div>
     </div>
 
     <hr>

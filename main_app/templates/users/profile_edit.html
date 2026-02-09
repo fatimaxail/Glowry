@@ -6,7 +6,7 @@
     {{ form.as_p }}
     <button type="submit">Save Changes</button>
 </form>
-<a href="{% url 'profile' %}">Cancel</a>
+<a href="{% url 'profile' user.username %}">Cancel</a>
 
 <script>
   document.addEventListener('DOMContentLoaded', function() { var elems = document.querySelectorAll('select');

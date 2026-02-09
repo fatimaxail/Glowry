@@ -32,7 +32,7 @@
           <li><a href="{% url 'product_list' %}">Products</a></li>
           <li><a href="{% url 'routinelist' %}">Routines</a></li>
           <li>
-            <a href="{% url 'profile' %}">
+            <a href="{% url 'profile' user.username %}">
               {% if user.profile.avatar %}
                 <img src="{% static  user.profile.avatar|cut:'main_app/static/'%}" alt='profile image' height= "50px" width="50px">
               {% else %}

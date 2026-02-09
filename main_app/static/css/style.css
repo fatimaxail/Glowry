@@ -549,5 +549,15 @@ button:hover {
     border: 1px solid #feb2b2;
 }
 
-.btn-edit:hover { background-color: #e9ecef; }
-.btn-delete:hover { background-color: #fee2e2; }
+.btn-edit:hover {
+    background-color: #e9ecef;
+}
+.btn-delete:hover {
+    background-color: #fee2e2;
+}
+
+.left-brand-logo{
+    font-family: "PT Serif", serif !important;
+    font-weight: 700 !important;
+    font-style: italic !important;
+}
