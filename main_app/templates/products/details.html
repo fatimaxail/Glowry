@@ -1,29 +1,33 @@
 {% extends 'base.html' %}
 {% block content %}
-<h1>Details</h1>
+    <h1>Details</h1>
 
-    <div>
+<div class="product-details-wrapper">
+
+    <div class="product-left">
         {% load static %}
         <img src="{{ product.image }}" alt="{{ product.name }}" width="250" height="250">
-        <h5>{{ product.brand }}</h5>
-        <h4>{{ product.name }}</h4>
-        <h5>{{ product.category}} <span>{{ product.origin }}</span></h5>
-        <div class="card">
-            <div class="card-content">
-                <h4>ingredients</h4>
+    </div>
+
+    <div class="product-right">
+        <h5 class="product-brand">{{ product.brand }}</h5>
+        <h4 class="product-name">{{ product.name }}</h4>
+        <p class="product-meta">
+            {{ product.category }} • {{ product.origin }}
+        </p>
+
+        <div class="ingredients-section">
+            <h5>Ingredients</h5>
+            <div class="ingredients-inline">
                 {% for ingredient in product.ingredients %}
-                    <span>{{ ingredient }}</span>
+                    <span class="ingredient-chip">{{ ingredient }}</span>
                 {% endfor %}
             </div>
         </div>
+    </div>
 
-
-        <div class="card-action">
-            <button><a href="">Add to the routine</a></button>
-        </div>
-
-
-        <div>
+</div>
+        <div class="reviews-section">
         <form method="POST" action="{% url 'add_review' product.id %}" enctype="multipart/form-data">
             {% csrf_token %}
             <h5>Write a Review</h5>
@@ -48,7 +52,7 @@
 
             <button type="submit">Add Review</button>
         </form>
-        </div>
+
 
 
 
@@ -83,9 +87,9 @@
         {% endif %}
 
         {% if review.user == request.user %}
-            <div class="review-actions">
-                <a href="{% url 'edit_review' review.id %}">Edit</a> |
-                <a href="{% url 'delete_review' review.id %}">Delete</a>
+            <div class="card-edt-dlt">
+                <a href="{% url 'edit_review' review.id %}"><i class="fas fa-pencil-alt"></i></a>
+                <a href="{% url 'delete_review' review.id %}"><i class="fas fa-trash-alt"></i></a>
             </div>
         {% endif %}
 
@@ -97,6 +101,6 @@
     {% else %}
     <p>No reviews yet. Be the first to review this product!</p>
     {% endif %}
-    </div>
+</div>
 
     {% endblock %}

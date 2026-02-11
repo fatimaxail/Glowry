@@ -15,20 +15,22 @@
 
 <h1>Skincare Products</h1>
 
-{% for product in products %}
-    <div class="row">
+<div class="row">
+    {% for product in products %}
         <div class="col s12 m4">
             <div class="card">
-                <a href="{% url 'product_detail' product.id%}">
+                <a href="{% url 'product_detail' product.id %}">
                     <div class="card-content">
                         <img src="{{ product.image }}" alt="{{ product.name }}" width="250" height="250">
                         <h6>{{ product.brand }}</h6>
                         <h5>{{ product.name }}</h5>
                     </div>
+                </a>
             </div>
         </div>
-    </div>
-{% endfor %}
+    {% endfor %}
+</div>
+
 
 <div class="pagination-container center-align">
     <span class="step-links">

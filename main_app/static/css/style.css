@@ -945,12 +945,12 @@ input#search_input:focus {
     color: #f44336 !important;
 }
 
-.container div img {
-    display: block !important;
-    margin: 20px auto !important;
-    max-width: 100% !important;
-    height: auto !important;
-    border-radius: 8px !important;
+.reviews-section .review-card img {
+    display: block;
+    margin: 15px 0;
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
 }
 
 h1 {
@@ -965,134 +965,193 @@ h1 {
     width: 100% !important;
     color: #7b7878;
 }
-.pagination-container {
-    margin: 30px 0;
+
+
+
+.product-details-wrapper {
+    display: flex;
+    gap: 60px;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 40px auto;
+    max-width: 1000px;
+    padding: 20px;
 }
 
-.light-blue-btn {
-    background-color: #60c4e6 !important;
-    color: #333 !important;
-    margin: 0 5px;
+.product-left {
+    flex: 1;
+    display: flex;
+    justify-content: center;
 }
 
-.current {
-    font-weight: bold;
-    margin: 0 15px;
+.product-main-image {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 16px;
+    object-fit: contain;
+}
+
+.product-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.product-brand {
+    color: #999;
+    margin: 0;
+}
+
+.product-name {
+    margin: 0;
+    font-size: 1.8rem;
+}
+
+.product-meta {
+    color: #777;
+    margin-bottom: 20px;
+}
+
+
+.ingredients-section h5 {
+    margin-bottom: 10px;
+}
+
+.ingredients-inline {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.ingredient-chip {
+    background-color: #f5f5f5;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.85rem;
     color: #555;
 }
 
 
-main, .container {
-    display: flex !important;
-    flex-wrap: wrap !important;
-    justify-content: center !important;
+.reviews-section {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 0 20px;
 }
 
 
-.row {
-    width: 33.33% !important;
-    margin: 0 !important;
-    display: flex !important;
+.reviews-section h4,
+.reviews-section h5 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+    border: none;
+    padding: 0;
+    color: #2c3e50;
 }
 
 
-.row .col.s12.m4 {
-    width: 100% !important;
-    margin: 0 !important;
-    padding: 10px !important;
-    display: flex !important;
+.reviews-section form {
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 18px;
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.05);
+    margin-bottom: 40px;
 }
 
-.card {
-    display: flex !important;
-    flex-direction: column !important;
-    width: 100% !important;
-    height: 100% !important;
-}
-
-.card-content h6 {
-    font-size: 0.8rem !important;
-    margin: 5px 0 !important;
-    color: #777 !important;
-    text-transform: uppercase !important;
-    text-align: center;
-}
-
-
-.card-content h5 {
-    font-size: 0.95rem !important;
-    line-height: 1.2 !important;
-    margin: 0 !important;
-    font-weight: 600 !important;
-    text-align: center;
-}
-
-
-.card-content img {
-    max-width: 100% !important;
-    height: 180px !important;
-    object-fit: contain !important;
+.reviews-section form label {
+    font-weight: 500;
+    font-size: 0.95rem;
+    color: #555;
     display: block;
-    margin: 0 auto 10px auto;
-}
-
-@media only screen and (max-width: 992px) {
-    .row { width: 50% !important; }
-}
-
-@media only screen and (max-width: 600px) {
-    .row { width: 100% !important; }
-}
-
-.pagination-container {
-    width: 100% !important;
-    margin-top: 30px !important;
-}
-
-.search-area {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    width: 100% !important;
-    margin-top: 20px !important;
-}
-
-.search-area form {
-    display: flex !important;
-    align-items: center !important;
-    gap: 10px !important;
-    max-width: 600px !important;
-    width: 100% !important;
+    margin: 12px 0 6px;
 }
 
 
-.search-area input[type="text"] {
-    flex-grow: 1 !important;
-    border-bottom: 2px solid #ADD8E6 !important;
-    margin: 0 !important;
-    height: 3rem !important;
+.reviews-section textarea {
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid #e0e0e0;
+    padding: 12px 15px;
+    font-size: 0.95rem;
+    resize: none;
+    transition: border 0.2s ease, box-shadow 0.2s ease;
 }
 
-.search-area button {
-    background-color: #00bcd4 !important;
-    color: white !important;
-    border: none !important;
-    padding: 0 20px !important;
-    border-radius: 20px !important;
-    height: 36px !important;
-    cursor: pointer !important;
-    text-transform: uppercase !important;
-    font-weight: 500 !important;
-    transition: background-color 0.3s ease !important;
+.reviews-section textarea:focus {
+    outline: none;
+    border: 1px solid #ce93d8;
+    box-shadow: 0 0 0 3px rgba(206, 147, 216, 0.15);
 }
 
-.search-area button:hover {
-    background-color: #ADD8E6 !important;
-    color: #333 !important;
+
+.reviews-section input[type="file"] {
+    font-size: 0.9rem;
+    margin-top: 5px;
 }
 
-h1 {
-    text-align: center !important;
-    width: 100% !important;
-    margin-top: 20px !important;
+
+.reviews-section button[type="submit"] {
+    background: linear-gradient(135deg, #ce93d8, #f48fb1);
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    border-radius: 25px;
+    font-weight: 600;
+    margin-top: 15px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.reviews-section button[type="submit"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(244, 143, 177, 0.3);
+}
+
+
+.reviews-section .review-card {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 16px;
+    border: 1px solid #f0f0f0;
+    margin-bottom: 20px;
+    transition: box-shadow 0.2s ease;
+}
+
+.reviews-section .review-card:hover {
+    box-shadow: 0 6px 18px rgba(0,0,0,0.05);
+}
+
+
+.reviews-section .review-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 10px;
+}
+
+.reviews-section .review-header img {
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+.reviews-section .review-header strong {
+    font-size: 0.95rem;
+    color: #333;
+}
+
+
+.reviews-section .review-card p {
+    font-size: 0.95rem;
+    color: #555;
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+
+.reviews-section .review-card img {
+    margin-top: 10px;
+    border-radius: 12px;
+    max-width: 100%;
+    height: auto;
 }

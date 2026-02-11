@@ -28,6 +28,15 @@
           <li><a href="{% url 'product_list' %}"><i class="fa-solid fa-barcode"></i>Products</a></li>
           <li><a href="{% url 'routinelist' %}"><i class="fa-solid fa-sun"></i>Routines</a></li>
           <li>
+            <a href="{% url 'profile' user.username %}">
+              {% if user.profile.avatar %}
+                <img src="{% static  user.profile.avatar|cut:'main_app/static/'%}" alt='profile image'  class="profile-image" height= "50px" width="50px">
+              {% else %}
+                <img src="https://i.postimg.cc/Z54tWZ5W/profile.png" alt="Default avatar"  class="profile-image" class="profile-avatar" height= "50px" width="50px">
+              {% endif %}
+</a>
+</li>
+          <li>
             <form method="post" action="{% url 'logout' %}">
               {% csrf_token %}
             <button type="submit"><i class="fa-solid fa-right-from-bracket"></i> Logout </button>
@@ -38,16 +47,7 @@
           <li><a href="{% url 'signup'%}">Signup</a></li>
           {% endif %}
 
-          <li>
-            <a href="{% url 'profile' user.username %}">
-              {% if user.profile.avatar %}
-                <img src="{% static  user.profile.avatar|cut:'main_app/static/'%}" alt='profile image'  class="profile-image" height= "50px" width="50px">
-              {% else %}
-                <img src="https://i.postimg.cc/Z54tWZ5W/profile.png" alt="Default avatar"  class="profile-image" class="profile-avatar" height= "50px" width="50px">
-              {% endif %}
 
-</a>
-</li>
         </ul>
       </div>
     </nav>

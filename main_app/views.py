@@ -30,7 +30,7 @@ CATEGORY_ORDER = {
     "Mask": 11
 }
 
-
+@login_required
 def home(request):
     articles = Article.objects.all().order_by('-id')[:3]
 
