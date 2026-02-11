@@ -83,11 +83,13 @@ WSGI_APPLICATION = 'Glowry.wsgi.application'
 
 DATABASES = {
     'default': dj_database_url.config(
-        default='postgresql://fatimafaeq@localhost:5432/Glowry',
+        default=os.getenv(
+            "DATABASE_URL",
+            "postgresql://fatimafaeq@localhost:5432/Glowry" 
+        ),
         conn_max_age=600
     )
 }
-
 
 
 # Password validation
