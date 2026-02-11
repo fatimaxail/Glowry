@@ -746,5 +746,138 @@ button:hover {
     font-size: 2.2rem;
 }
 
+nav {
+    background-color: #c69edd !important;
+    height: 70px;
+    line-height: 70px;
+    box-shadow: none;
+}
+
+.nav-wrapper .right.brand-logo {
+    display: flex;
+    align-items: center;
+    position: relative;
+    height: 70px;
+}
+
+.nav-wrapper .right.brand-logo img {
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.nav-wrapper ul li a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    line-height: 1;
+    height: 70px;
+    padding: 0 15px;
+    font-size: 0.85rem;
+}
+
+.nav-wrapper ul li a i {
+    font-size: 1.2rem;
+    margin-bottom: 2px !important;
+    height: auto;
+    line-height: 1.2;
+}
 
 
+nav button {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    padding: 0 15px;
+    font-family: inherit;
+    font-size: 0.85rem;
+    line-height: 1;
+}
+
+.profile-image {
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 5px;
+}
+
+.page-footer {
+    background-color: #c69edd !important;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+.nav-wrapper ul li a i,
+.nav-wrapper ul li button i {
+    font-size: 1.5rem !important;
+    width: 24px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2px !important;
+}
+
+
+.nav-wrapper ul li a .profile-image {
+    margin-bottom: 2px;
+}
+
+.nav-wrapper ul li a:hover,
+.nav-wrapper ul li button:hover {
+    background-color: #9c4dcc !important;
+}
+
+.brand-logo {
+    display: flex !important;
+    align-items: center;
+    height: 80px;
+    padding-left: 15px;
+    font-family: 'PT Serif', serif;
+    font-style: italic;
+    font-size: 2rem !important;
+}
+
+.nav-wrapper .brand-logo {
+    display: flex !important;
+    align-items: center;
+    position: relative;
+    padding-left: 15px;
+    font-family: 'PT Serif', serif;
+    font-style: italic;
+    font-size: 2.2rem !important;
+    height: 80px;
+}
+
+.nav-wrapper .brand-logo img {
+    height: 50px;
+    width: auto;
+    margin-right: 12px;
+    display: block;
+}
+
+.brand-logo.left {
+    position: static !important;
+    height: 45px !important;
+    width: auto !important;
+    margin-top: 17px;
+    margin-left: 15px;
+}
+
+
+.brand-text.left {
+    position: static !important;
+    font-family: 'PT Serif', serif !important;
+    font-style: italic !important;
+    font-size: 2.2rem !important;
+    color: white !important;
+    display: flex !important;
+    align-items: center;
+    padding: 0 !important;
+    margin-left: 5px !important;
+}
