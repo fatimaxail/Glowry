@@ -115,7 +115,7 @@ footer.page-footer {
 
 .column {
     flex: 1;
-    counter-reset: step-counter; /* Initializes counter for each column */
+    counter-reset: step-counter;
 }
 
 .product-card {
@@ -324,7 +324,7 @@ footer.page-footer {
 
 .profile-info.card {
     border: none;
-    border-left: 5px solid #0dcaf0; /* Accents the skin type info */
+    border-left: 5px solid #0dcaf0;
     background-color: #fcfcfc;
     border-radius: 10px;
     transition: transform 0.2s ease;
@@ -334,7 +334,6 @@ footer.page-footer {
     transform: translateY(-3px);
 }
 
-/* 3. Section Headers */
 h1, h2, h3 {
     color: #2c3e50;
     font-weight: 600;
@@ -347,7 +346,7 @@ h3 {
     padding-bottom: 10px;
 }
 
-/* 4. Chips / Badges */
+
 .chip-list {
     display: flex;
     flex-wrap: wrap;
@@ -361,19 +360,17 @@ h3 {
     transition: all 0.3s ease;
 }
 
-/* Customizing the Info (Concerns) badges */
+
 .bg-info {
     background-color: #e1f5fe !important;
     color: #0288d1 !important;
 }
 
-/* Customizing the Danger (Avoided) badges */
 .bg-danger {
     background-color: #ffebee !important;
     color: #c62828 !important;
 }
 
-/* 5. Buttons */
 .btn-outline-primary {
     border-radius: 20px;
     padding: 8px 25px;
@@ -382,9 +379,8 @@ h3 {
     font-weight: bold;
 }
 
-/* Articles List Styling */
 
-/* 1. Grid Layout for Cards */
+
 .articles-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -392,14 +388,14 @@ h3 {
     padding: 20px 0;
 }
 
-/* 2. Card Design */
+
 .card {
     background: #fff;
     border-radius: 12px;
     border: none;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    overflow: hidden; /* Ensures image doesn't bleed past rounded corners */
+    overflow: hidden;
 }
 
 .card:hover {
@@ -407,14 +403,12 @@ h3 {
     box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
 }
 
-/* 3. Link Styling (Removing the blue underline) */
 .card a {
     text-decoration: none;
     color: inherit;
     display: block;
 }
 
-/* 4. Content & Image Positioning */
 .card-content {
     padding: 1.5rem;
     display: flex;
@@ -445,7 +439,6 @@ h3 {
     margin-top: 10px;
 }
 
-/* 5. "Add Article" Button Styling */
 button a {
     text-decoration: none;
     color: white;
@@ -463,73 +456,6 @@ button {
 
 button:hover {
     background-color: #0baccc;
-}
-
-/* Article Detail Styling */
-
-/* 1. Main Container - Limits width for better readability */
-.article-detail-container {
-    max-width: 800px;
-    margin: 40px auto;
-    padding: 20px;
-    background: #fff;
-    border-radius: 15px;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-}
-
-/* 2. Header & Meta Info */
-.article-header {
-    text-align: center;
-    margin-bottom: 2rem;
-}
-
-.article-title {
-    font-size: 2.5rem;
-    font-weight: 800;
-    color: #2c3e50;
-    margin-bottom: 1rem;
-}
-
-.article-meta {
-    color: #7f8c8d;
-    font-size: 0.95rem;
-}
-
-.article-meta i {
-    margin-right: 5px;
-    margin-left: 15px;
-    color: #0dcaf0;
-}
-
-/* 3. Featured Image */
-.article-image-wrapper {
-    text-align: center;
-    margin: 2rem 0;
-}
-
-.article-image-wrapper img {
-    width: 100%;
-    max-width: 600px; /* Bigger for detail page */
-    height: auto;
-    border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-}
-
-/* 4. Body Content */
-.article-body {
-    font-size: 1.15rem;
-    line-height: 1.8;
-    color: #34495e;
-    margin-top: 2rem;
-}
-
-/* 5. Action Buttons (Edit/Delete) */
-.article-actions {
-    margin-top: 3rem;
-    padding-top: 1.5rem;
-    border-top: 1px solid #eee;
-    display: flex;
-    gap: 15px;
 }
 
 .btn-edit {
@@ -1040,6 +966,6 @@ h1 {
     gap: 8px !important;
     width: 100% !important;
     color: #7b7878;
-} 
+}
 
 

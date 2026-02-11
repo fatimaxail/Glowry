@@ -12,7 +12,7 @@ from django.db.models import Count
 from django.views.generic import ListView, DetailView
 from .forms import ReviewForm, RoutineForm, RoutineProductForm, ProfileForm, AddRoutineProductForm
 from django.contrib.auth.models import User
-from django.db import transaction
+from django.core.paginator import Paginator
 
 # Create your views here.
 
@@ -149,10 +149,16 @@ def product_list(request):
     )
 
     with open(json_path, "r") as file:
-        products = json.load(file)
+        all_products = json.load(file)["skincare_products"]
+
+    paginator = Paginator(all_products, 50)
+
+    page_number = request.GET.get('page')
+
+    page_obj = paginator.get_page(page_number)
 
     return render(
-        request, "products/list.html", {"products": products["skincare_products"]}
+        request, "products/list.html", {"products": page_obj}
     )
 
 @login_required
@@ -173,6 +179,7 @@ def product_search(request):
         if query in product.get("name", "").lower()
         or query in product.get("brand", "").lower()
         or query in product.get("category", "").lower()
+        or query in product.get("origin", "").lower()
         or any(query in ingredient.lower() for ingredient in product.get("ingredients", []))
     ]
 
