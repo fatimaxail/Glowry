@@ -881,31 +881,3 @@ nav button {
     padding: 0 !important;
     margin-left: 5px !important;
 }
-
-/* THE BOX: This creates the square look from your second picture */
-.product-mini-box {
-    width: 80px;               /* Fixed width for the square */
-    height: 80px;              /* Fixed height for the square */
-    border: 1px solid #e0e0e0; /* Light grey border */
-    border-radius: 12px;       /* Rounded corners */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 8px;
-    background-color: #fff;
-    overflow: hidden;
-}
-
-.product-mini-box img {
-    max-height: 100%;          /* Ensures image stays inside the box */
-    max-width: 100%;
-    object-fit: contain;       /* Keeps the image aspect ratio perfect */
-}
-
-/* Row alignment */
-.routine-product-list {
-    display: flex;
-    gap: 12px;                 /* Space between the boxes */
-    margin-bottom: 25px;
-    flex-wrap: wrap;
-}

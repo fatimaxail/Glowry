@@ -1,5 +1,106 @@
 {% extends 'base.html' %}
 {% block content %}
-<h1>Glowry</h1>
+<section class="search-section center-align">
+    <h2 class="brand-text">Find your glow</h2>
+
+    <form action="{% url 'product_search' %}" method="GET" class="row">
+        <div class="input-field col s12 m6 offset-m3">
+            <i class="fa-solid fa-magnifying-glass prefix"></i>
+            <input type="text" name="query" placeholder="Search products, brands, or ingredients..." id="search_input">
+        </div>
+
+        <div class="col s12">
+            <button type="submit" class="btn-large">Search</button>
+        </div>
+    </form>
+
+</section>
+
 <hr>
+
+<section class="articles-home">
+    <h3>Latest Skincare Tips</h3>
+    <div class="row">
+        {% for article in articles %}
+        <div class="col s12 m4">
+            <div class="card">
+                <div class="card-image">
+                    {% load static %}
+                    <img src="{% static  article.image|cut:'main_app/static/'%}" alt='article image' height= "150px" width="150px">
+                </div>
+                <div class="card-content">
+                    <span class="card-title">{{ article.title }}</span>
+                    <p><i class="fa-solid fa-clock"></i>{{ article.reading_time}} min read  <i class="fa-solid fa-user"></i>{{ article.user}}</p>
+                </div>
+                <div class="card-action">
+                    <a href="{% url 'articles_details' article.id %}" class="center-align">Read it</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="center-align">
+        <a href="{% url 'articles_index' %}" class="btn-flat">See All Articles</a>
+    </div>
+</section>
+
+<section class="categorized-products">
+    <h3>Protect Your Skin from the Sun</h3>
+    <div class="row">
+        {% for product in sunscreens %}
+        <div class="col s12 m3">
+            <div class="card center-align">
+                <img src="{{ product.image }}" height="150">
+                <h6>{{ product.name }}</h6>
+                <div class="card-action">
+                    <a href="{% url 'product_detail' product.id %}">View Details</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <h3>Keep Your Skin Hydrated</h3>
+    <div class="row">
+        {% for product in moisturizers %}
+        <div class="col s12 m3">
+            <div class="card center-align">
+                <img src="{{ product.image }}" height="150">
+                <h6>{{ product.name }}</h6>
+                <div class="card-action">
+                    <a href="{% url 'product_detail' product.id %}">View Details</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+
+{% if user.is_authenticated and user_routines %}
+<section class="routines-home">
+    <h3 class="section-title">Your Top Routines</h3>
+
+    {% for routine in user_routines %}
+    <div class="card routine-minimal-card">
+        <div class="card-content">
+            <span class="routine-title">{{ routine.info.name }}</span>
+
+            <div class="routine-product-list">
+                {% for product in routine.products %}
+                <div class="product-mini-box">
+                    <img src="{{ product.image }}" alt="product" class="responsive-img">
+                </div>
+                {% endfor %}
+            </div>
+
+            <div class="card-action-left">
+                <a href="{% url 'routine_detail' routine.info.id %}" class="btn manage-btn">MANAGE ROUTINE</a>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+
+</section>
+{% endif %}
+
 {% endblock %}
