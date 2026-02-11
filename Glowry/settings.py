@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-v+srs936q4z3x+%lmm*9_&p0ydrm1%5pd@&r2x_m2qmluw&+9t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['glowry.onrender.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
