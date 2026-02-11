@@ -1021,3 +1021,25 @@ input#search_input:focus {
     color: #f44336 !important;
 }
 
+.container div img {
+    display: block !important;
+    margin: 20px auto !important;
+    max-width: 100% !important;
+    height: auto !important;
+    border-radius: 8px !important;
+}
+
+h1 {
+    text-align: center !important;
+}
+
+.details, .container h3 {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 8px !important;
+    width: 100% !important;
+    color: #7b7878;
+} 
+
+
