@@ -4,6 +4,7 @@ from django.shortcuts import render, redirect
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth import login
 from django.contrib.auth.decorators import login_required
+from django.views.decorators.http import require_POST
 from django.contrib.auth.mixins import LoginRequiredMixin
 from .models import Article, Review, Routine, RoutineProduct
 from django.views.generic.edit import CreateView, UpdateView, DeleteView
@@ -11,6 +12,7 @@ from django.db.models import Count
 from django.views.generic import ListView, DetailView
 from .forms import ReviewForm, RoutineForm, RoutineProductForm, ProfileForm, AddRoutineProductForm
 from django.contrib.auth.models import User
+from django.db import transaction
 
 # Create your views here.
 
@@ -241,7 +243,6 @@ def routine_list(request):
     routines = Routine.objects.filter(user=request.user)
     return render(request, "routine/list.html", {"routines": routines})
 
-
 @login_required
 def routine_detail(request, pk):
     routine = Routine.objects.get(id=pk)
@@ -316,11 +317,7 @@ def add_product_to_routine(request, routine_id):
     else:
         form = AddRoutineProductForm(product_choices=choices)
 
-    return render(request, 'routine/add_product.html', {
-        'form': form,
-        'routine': routine,
-        'products': data
-    })
+    return render(request, 'routine/add_product.html', {'form': form, 'routine': routine, 'products': data})
 
 
 @login_required

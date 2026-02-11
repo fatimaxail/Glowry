@@ -78,6 +78,7 @@ body {
 }
 
 .sidebar {
+    border: rgb(202, 202, 202) 10px;
     width: 280px;
     padding-right: 40px;
 }
@@ -560,4 +561,41 @@ button:hover {
     font-family: "PT Serif", serif !important;
     font-weight: 700 !important;
     font-style: italic !important;
+}
+
+:root {
+    --dark: #333;
+    --primary: #007bff; /* Adjust to match your theme */
+}
+
+.handle {
+    display: inline-block;
+    border-top: 3px solid var(--dark);
+    width: 20px;
+    padding-top: 5px;
+    cursor: grab;
+}
+
+.handle:after, .handle:before {
+    display: block;
+    content: "";
+    padding-top: 5px;
+    border-top: 3px solid var(--dark);
+}
+
+.handle:hover, .handle:hover:before, .handle:hover:after {
+    border-color: var(--primary);
+}
+
+.handle:active, .handle:active:before, .handle:active:after {
+    cursor: grabbing;
+}
+
+.dragged {
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.sortableChosen {
+    opacity: 0.5;
 }

@@ -6,11 +6,13 @@
 
 <ul>
     {% for routine in routines %}
+    <div>
     <li>
         <a href="{% url 'routine_detail' routine.id %}">{{ routine.name }}</a>
-        <a href="{% url 'routine_edit' routine.id %}">Edit</a>
-        <a href="{% url 'routine_delete' routine.id %}">Delete</a>
+        <a href="{% url 'routine_edit' routine.id %}"><i class="fas fa-pencil-alt"></i></a>
+        <a href="{% url 'routine_delete' routine.id %}"><i class="fas fa-trash-alt"></i></a>
     </li>
+</div>
     {% empty %}
     <li>No routines yet.</li>
     {% endfor %}

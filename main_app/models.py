@@ -118,7 +118,7 @@ class Routine(models.Model):
 class RoutineProduct(models.Model):
     routine = models.ForeignKey(Routine, on_delete=models.CASCADE)
     product_id = models.CharField(max_length=3)
-    order = models.PositiveIntegerField(default=0)
+    order = models.PositiveIntegerField(blank=False, default=100_000)
     time = models.CharField( max_length=50, choices=ROUTINE_TIME , default=ROUTINE_TIME[0][0])
     frequency = models.CharField( max_length=50, choices=FREQUENCY, default=FREQUENCY[0][0])
 

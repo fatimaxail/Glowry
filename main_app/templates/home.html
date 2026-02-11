@@ -1,5 +1,10 @@
 {% extends 'base.html' %}
 {% block content%}
-<h1>Glowry</h1>
-<hr>
+<div class="search-area" style="margin-bottom: 30px;">
+    <form method="get" action="{% url 'product_search' %}">
+        <input type="text" name="query" placeholder="Search products…" required>
+        <button type="submit">Search</button>
+
+
+        
 {% endblock %}

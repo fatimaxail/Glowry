@@ -51,3 +51,4 @@ class RoutineProductForm(forms.ModelForm):
         model = RoutineProduct
         fields = ['frequency']
 
+
