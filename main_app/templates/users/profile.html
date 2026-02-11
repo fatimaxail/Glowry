@@ -15,7 +15,7 @@
     {% load static %}
     <div class="profile-header d-flex align-items-center mb-4">
         {% if user.profile.avatar %}
-            <img src="{% static  user.profile.avatar|cut:'main_app/static/'%}" alt='profile image' height= "150px" width="150px">
+            <img src="{% static  user.profile.avatar|cut:'main_app/static/'%}" alt='profile image'  height= "150px" width="150px">
         {% else %}
             <img src="https://i.postimg.cc/Z54tWZ5W/profile.png" alt="Default avatar" class="profile-avatar" height= "150px" width="150px">
         {% endif %}

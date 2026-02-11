@@ -32,7 +32,37 @@ CATEGORY_ORDER = {
 
 
 def home(request):
-    return render(request, "home.html")
+    articles = Article.objects.all().order_by('-id')[:3]
+
+    json_path = os.path.join(
+        settings.BASE_DIR, "main_app", "data", "skincare_products.json"
+    )
+
+    with open(json_path, "r") as file:
+        all_products = json.load(file)["skincare_products"]
+
+    sunscreens = [product for product in all_products if product.get("category") == "Sunscreen"][:4]
+    moisturizers = [product for product in all_products if product.get("category") == "Moisturizer"][:4]
+
+    user_routines = []
+    if request.user.is_authenticated:
+        raw_routines = Routine.objects.filter(user=request.user)[:2]
+
+        for routine in raw_routines:
+            routine_products = RoutineProduct.objects.filter(routine=routine)
+            routine_data = {'info': routine, 'products': []}
+
+            for routine_product in routine_products:
+                match = next((product for product in all_products if product['id'] == routine_product.product_id), None)
+
+                if match:
+                    routine_data['products'].append(match)
+
+
+            user_routines.append(routine_data)
+
+
+    return render(request, "home.html", {'articles': articles, 'sunscreens': sunscreens, 'moisturizers': moisturizers, 'user_routines': user_routines})
 
 
 def about(request):
