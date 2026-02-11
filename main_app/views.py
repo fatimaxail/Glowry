@@ -151,7 +151,7 @@ def product_list(request):
     with open(json_path, "r") as file:
         all_products = json.load(file)["skincare_products"]
 
-    paginator = Paginator(all_products, 50)
+    paginator = Paginator(all_products, 33)
 
     page_number = request.GET.get('page')
 

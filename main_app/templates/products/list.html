@@ -3,7 +3,7 @@
 
 <div class="search-area" style="margin-bottom: 30px;">
     <form method="get" action="{% url 'product_search' %}">
-        <input type="text" name="query" placeholder="Search products…" required>
+        <input type="text" name="query" placeholder="Search products, brands, or ingredients..."  required>
         <button type="submit">Search</button>
 
         {% if request.resolver_match.url_name == 'product_search' %}
@@ -16,13 +16,17 @@
 <h1>Skincare Products</h1>
 
 {% for product in products %}
-    <div class="card">
-        <a href="{% url 'product_detail' product.id%}">
-            <div class="card-content">
-                <img src="{{ product.image }}" alt="{{ product.name }}" width="250" height="250">
-                <h6>{{ product.brand }}</h6>
-                <h5>{{ product.name }}</h5>
+    <div class="row">
+        <div class="col s12 m4">
+            <div class="card">
+                <a href="{% url 'product_detail' product.id%}">
+                    <div class="card-content">
+                        <img src="{{ product.image }}" alt="{{ product.name }}" width="250" height="250">
+                        <h6>{{ product.brand }}</h6>
+                        <h5>{{ product.name }}</h5>
+                    </div>
             </div>
+        </div>
     </div>
 {% endfor %}
 
@@ -44,5 +48,5 @@
     </span>
 </div>
 
-
 {% endblock %}
+

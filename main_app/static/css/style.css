@@ -906,8 +906,6 @@ input#search_input:focus {
     text-align: center;
 }
 
-/* --- Uniform Card Sizing --- */
-/* Forces all cards in a row to match the height of the tallest card */
 .row {
     display: flex !important;
     flex-wrap: wrap !important;
@@ -967,5 +965,134 @@ h1 {
     width: 100% !important;
     color: #7b7878;
 }
+.pagination-container {
+    margin: 30px 0;
+}
+
+.light-blue-btn {
+    background-color: #60c4e6 !important;
+    color: #333 !important;
+    margin: 0 5px;
+}
+
+.current {
+    font-weight: bold;
+    margin: 0 15px;
+    color: #555;
+}
 
 
+main, .container {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+}
+
+
+.row {
+    width: 33.33% !important;
+    margin: 0 !important;
+    display: flex !important;
+}
+
+
+.row .col.s12.m4 {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 10px !important;
+    display: flex !important;
+}
+
+.card {
+    display: flex !important;
+    flex-direction: column !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.card-content h6 {
+    font-size: 0.8rem !important;
+    margin: 5px 0 !important;
+    color: #777 !important;
+    text-transform: uppercase !important;
+    text-align: center;
+}
+
+
+.card-content h5 {
+    font-size: 0.95rem !important;
+    line-height: 1.2 !important;
+    margin: 0 !important;
+    font-weight: 600 !important;
+    text-align: center;
+}
+
+
+.card-content img {
+    max-width: 100% !important;
+    height: 180px !important;
+    object-fit: contain !important;
+    display: block;
+    margin: 0 auto 10px auto;
+}
+
+@media only screen and (max-width: 992px) {
+    .row { width: 50% !important; }
+}
+
+@media only screen and (max-width: 600px) {
+    .row { width: 100% !important; }
+}
+
+.pagination-container {
+    width: 100% !important;
+    margin-top: 30px !important;
+}
+
+.search-area {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    width: 100% !important;
+    margin-top: 20px !important;
+}
+
+.search-area form {
+    display: flex !important;
+    align-items: center !important;
+    gap: 10px !important;
+    max-width: 600px !important;
+    width: 100% !important;
+}
+
+
+.search-area input[type="text"] {
+    flex-grow: 1 !important;
+    border-bottom: 2px solid #ADD8E6 !important;
+    margin: 0 !important;
+    height: 3rem !important;
+}
+
+.search-area button {
+    background-color: #00bcd4 !important;
+    color: white !important;
+    border: none !important;
+    padding: 0 20px !important;
+    border-radius: 20px !important;
+    height: 36px !important;
+    cursor: pointer !important;
+    text-transform: uppercase !important;
+    font-weight: 500 !important;
+    transition: background-color 0.3s ease !important;
+}
+
+.search-area button:hover {
+    background-color: #ADD8E6 !important;
+    color: #333 !important;
+}
+
+h1 {
+    text-align: center !important;
+    width: 100% !important;
+    margin-top: 20px !important;
+}
