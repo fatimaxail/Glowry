@@ -1,5 +1,5 @@
 databases:
-  - name: Glowry-db      
+  - name: Glowry-db
     databaseName: glowry_prod
     user: glowry_user
     plan: free
@@ -11,11 +11,6 @@ services:
     plan: free
     buildCommand: './build.sh'
     startCommand: 'python -m gunicorn Glowry.asgi:application -k uvicorn.workers.UvicornWorker'
-
-
-    dependencies:
-      - Glowry-db
-
     envVars:
       - key: DATABASE_URL
         fromDatabase:
